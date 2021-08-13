@@ -1,7 +1,3 @@
----
-description: Bez koho by ETHBrno nevznilo
----
-
 # Partneři
 
 ### Bankless.cz
