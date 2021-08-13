@@ -6,7 +6,7 @@ description: >-
 
 # ETHBrno 2021
 
-Summit organizuje [Bankless.cz](https://bankless.cz/) a [Gwei.cz](http://gwei.cz/).
+Summit organizuje společnými silami [Bankless.cz](https://bankless.cz/) a [Gwei.cz](http://gwei.cz/).
 
 Datum: **sobota** **9.10.2021**  
 Místo: ****[**Komunitní centrum Skála**](misto-konani.md)**, Brno, Czech Republic**🇨🇿   
