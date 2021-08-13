@@ -1,7 +1,5 @@
 # Partneři
 
-## Partneři
-
 ### Bankless.cz
 
 {% embed url="https://bankless.cz/" %}
