@@ -21,17 +21,18 @@ Témata: **Ethereum, DeFi, NFT, DAO, Layer2 ..**
 * Přednášky
 * Workshopy
 * Panelové diskuze
-* Bohatý doprovodný program
+* Doprovodný program
 * Networking
+* Afterparty 🎉 
 
 Seznam všech aktivit se postupně doplňuje na stránku [Program](program/).
 
 ## Organizační team
 
-* \*\*\*\*[**@vojtch**](https://twitter.com/StudenyVojta) \(Bankless.cz, Gwei.cz\) - hlavní šerif, financování
-* \*\*\*\*[**@damsky**](https://twitter.com/CryptoDamSky) **-** místo konání, logistika
-* **@DavidBankless** \(Bankless.cz\) - financování
-* \*\*\*\*[**@tree**](https://twitter.com/treecz) \(Gwei.cz\) - kontaktování speakerů, marketing
+* \*\*\*\*[**vojtch**](https://twitter.com/StudenyVojta) \(Bankless.cz, Gwei.cz\) - hlavní šerif, financování
+* \*\*\*\*[**damsky**](https://twitter.com/CryptoDamSky) **-** místo konání, logistika
+* **DavidBankless** \(Bankless.cz\) - financování
+* \*\*\*\*[**tree**](https://twitter.com/treecz) \(Gwei.cz\) - kontaktování speakerů, marketing
 
 
 
