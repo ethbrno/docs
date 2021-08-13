@@ -23,6 +23,7 @@ Témata: **Ethereum, DeFi, NFT, DAO, Layer2 ..**
 * Panelové diskuze
 * Doprovodný program
 * Networking
+* [POAP](https://poap.xyz/) badge za účast
 * Afterparty 🎉 
 
 Seznam všech aktivit se postupně doplňuje na stránku [Program](program/).
