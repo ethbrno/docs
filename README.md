@@ -27,6 +27,11 @@ Témata: **Ethereum, DeFi, NFT, DAO, Layer2 ..**
 
 Seznam všech aktivit se postupně doplňuje na stránku [Program](program/).
 
+{% hint style="success" %}
+Máte zájem na ETHBrno přednášet? uspořádat workshop nebo se jinak zapojit?  
+Potom kontaktujte náš organizační team - nejlépe na [Gwei.cz Discordu](https://chat.gwei.cz) \(kanál \#ethbrno2021\).
+{% endhint %}
+
 ## Organizační team
 
 * \*\*\*\*[**vojtch**](https://twitter.com/StudenyVojta) \(Bankless.cz, Gwei.cz\) - hlavní šerif, financování

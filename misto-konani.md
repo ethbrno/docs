@@ -1,5 +1,5 @@
 ---
-description: 'Informace o místu, kde se naše akce bude konat'
+description: Tady se to všechno odehraje
 ---
 
 # Místo konání
@@ -11,6 +11,8 @@ Akce se bude konat v komunitním centru v Brně, v městské části Nový Lísk
 Adresa: **Oblá 505/54a, 634 00 Brno - Nový Lískovec** _****_\([Google Maps](https://goo.gl/maps/wbZFMrzfBHDTtRRK8)\)  
 Webové stránky: [Komunitním centru Skála](https://novy-liskovec.cz/komunitni-centrum-skala/ds-1389)
 
+♿Všechny hlavní prostory, kde se summit koná jsou bezbariérově přístupné.
+
 ![](.gitbook/assets/kc-skala.jpeg)
 
 ### Dostupné prostory
@@ -20,6 +22,4 @@ Webové stránky: [Komunitním centru Skála](https://novy-liskovec.cz/komunitni
 * **Kavárna** - networking, občerstvení
 
 ![Sch&#xE9;ma Komunitn&#xED;ho centra Sk&#xE1;la - 1. nadzemn&#xED; podla&#x17E;&#xED;](.gitbook/assets/kc-skala-pudorys-1np%20%281%29.jpeg)
-
-
 
