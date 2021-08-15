@@ -22,7 +22,7 @@ Obsazenost: 210m / 540m
 
 | Název | Autor | Délka |
 | :--- | :--- | :--- |
-| **Proč potřebujeme DeFi** | [KryptoVláďa](https://twitter.com/PinkerVladimir) | 45m |
+| **Proč potřebujeme DeFi?** | [KryptoVláďa](https://twitter.com/PinkerVladimir) | 45m |
 | **Pět pilířů kryptoměn** | [KryptoVláďa](https://twitter.com/PinkerVladimir) | 45m |
 | **MEV a ChainKeepers: Úžasná cesta světem DeFi** | Ondřej Vostal, Martin Vlach | 45m |
 | **BohemianDAO - podpořme lokální ekosystém** | [tree](https://twitter.com/treecz) | 30m |
