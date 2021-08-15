@@ -6,7 +6,11 @@ description: >-
 
 # ETHBrno 2021
 
-Summit organizuje společnými silami [Bankless.cz](https://bankless.cz/) a [Gwei.cz](http://gwei.cz/).
+{% hint style="warning" %}
+ETHBrno je v současné době ve fázi příprav a veškeré informace uvedené na tomto webu jsou předběžné. Potvrzený je jen termín a místo konání.  
+  
+**Finální program a informace o distribuci vstupenek očekávejte na začátku září.**
+{% endhint %}
 
 ## Sobota 9.10.2021 \(celý den\)
 
@@ -16,6 +20,8 @@ Jazyk: **čeština/slovenština**
 Vstupné: **zdarma** \(nutnost rezervace - TBA\)
 
 Témata: **Ethereum, DeFi, NFT, DAO, Layer2 ..**
+
+Summit organizuje společnými silami [Bankless.cz](https://bankless.cz/) a [Gwei.cz](http://gwei.cz/).
 
 ## Na co se můžete těšit
 

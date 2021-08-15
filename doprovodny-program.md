@@ -10,9 +10,11 @@ TBA
 
 ## Sobota 9. října
 
-Hlavní den ETHBrno, kdy probíhá hlavní program.
+Tento den probíhá [hlavní program](program/) v [KC Skála](misto-konani.md).
 
-* 22:00 Afterparty - TBA
+### 22:00 - Afterparty
+
+TBA
 
 ## Neděle 10. října
 
