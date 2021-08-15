@@ -8,7 +8,8 @@ description: >-
 
 Summit organizuje společnými silami [Bankless.cz](https://bankless.cz/) a [Gwei.cz](http://gwei.cz/).
 
-Datum: **sobota 9.10.2021** \(celý den\)  
+## Sobota 9.10.2021 \(celý den\)
+
 Místo: [**Komunitní centrum Skála**](misto-konani.md)**, Brno, Czech Republic**🇨🇿 ****  
 Kapacita: **150 lidí** \(velký sál 120, malý sál 30\), viz [Dostupné prostory](misto-konani.md)  
 Jazyk: **čeština/slovenština**  

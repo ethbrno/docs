@@ -1,12 +1,14 @@
 ---
-description: Seznam všech aktivit v rámci summitu
+description: Seznam aktivit na ETHBrno - 9.10.2021
 ---
 
-# Program
+# Hlavní program
 
 {% hint style="warning" %}
 Pracovní verze programu, která se bude ještě zásadně doplňovat a měnit.
 {% endhint %}
+
+Všechny přednášky, workshopy a panelové diskuze budou v češtině nebo slovenštině.
 
 ## Časový plán
 
@@ -45,12 +47,6 @@ Obsazenost: 180m / 540m
 | **DeFi Toolkit - Nástroje pro práci s Ethereum síti** | \*\*\*\*[tree](https://twitter.com/treecz) | 30m |
 | \*\*\*\*[**Hackujeme DeFi arbitráže**](workshopy/hackujeme-defi-arbitraze.md)\*\*\*\* | Ondřej Vostal, Martin Vlach | 2x 45m |
 | ~NFT prakticky | [RΞSISTANCΞ](https://twitter.com/reesistancee) | 60m |
-
-### Doprovodný program
-
-| Název | Autor |
-| :--- | :--- |
-|  |  |
 
 
 
