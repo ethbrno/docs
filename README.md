@@ -39,6 +39,7 @@ Potom kontaktujte náš organizační team - nejlépe na [Gwei.cz Discordu](http
 * \*\*\*\*[**damsky**](https://twitter.com/CryptoDamSky) **-** místo konání, logistika
 * **DavidBankless** \(Bankless.cz\) - financování
 * \*\*\*\*[**tree**](https://twitter.com/treecz) \(Gwei.cz\) - kontaktování speakerů, marketing
+* \*\*\*\*[**coinmandeer**](https://twitter.com/keenofcoin) \(Gwei.cz\) - grafika
 
 
 
