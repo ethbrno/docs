@@ -25,6 +25,10 @@ Jak se na místo dostat, naleznete v sekci [Doprava](prakticke-informace/doprava
 
 ![Sch&#xE9;ma Komunitn&#xED;ho centra Sk&#xE1;la - 1. nadzemn&#xED; podla&#x17E;&#xED;](.gitbook/assets/kc-skala-pudorys-1np%20%281%29.jpeg)
 
+## Internet \(WiFi\)
+
+TODO 
+
 ## Detaily jednotlivých prostorů
 
 {% tabs %}
