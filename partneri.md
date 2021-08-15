@@ -1,5 +1,5 @@
 ---
-description: Bez koho by ETHBrno nevznilo
+description: Bez koho by ETHBrno nevzniklo
 ---
 
 # Partneři
