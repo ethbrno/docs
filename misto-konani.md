@@ -13,6 +13,8 @@ Webové stránky: [Komunitním centru Skála](https://novy-liskovec.cz/komunitni
 
 ♿Všechny hlavní prostory, kde se summit koná jsou bezbariérově přístupné.
 
+Jak se na místo dostat, naleznete v sekci [Doprava](prakticke-informace/doprava.md).
+
 ![](.gitbook/assets/kc-skala.jpeg)
 
 ## Dostupné prostory

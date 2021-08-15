@@ -1,16 +1,14 @@
 ---
-description: Užitečné informace pro návštěvníky
+description: Jak se na ETHBrno dostat
 ---
 
-# Praktické informace
+# Doprava
 
-## Doprava
-
-### Hromadná doprava \(MHD\)
+## Hromadná doprava \(MHD\)
 
 TODO
 
-### Vlak, Autobus \(dálkový\)
+## Vlak, Autobus \(dálkový\)
 
 Do Brna se vlakem nebo autobusem dostanete jednoduše z celé ČR a okolí:
 
@@ -18,7 +16,7 @@ Do Brna se vlakem nebo autobusem dostanete jednoduše z celé ČR a okolí:
 * [RegioJet](https://novy.regiojet.cz/) - vlak, bus
 * [FlixBus](https://www.flixbus.cz/) - bus
 
-### Letadlem
+## Letadlem
 
 Místní letiště je Brno-Tuřany \(BRQ\), tam ale lítá jen jedna pravidelná linka z Londýna.
 
@@ -28,15 +26,7 @@ Okolní letiště:
 * VIE - Vienna Airport \(~150km\)
 * PRG - Prague Airport \(~230km\)
 
-### Autem
-
-TODO
-
-## Ubytování
-
-TODO
-
-## Občerstvení
+## Autem
 
 TODO
 
