@@ -12,11 +12,13 @@ Bývalý televizní reportér - nyní [nadšený YouTuber](https://www.youtube.c
 
 Kluci z [ChainKeepers](https://www.chainkeepers.io/), kteří nám představí úžasný svět DeFi arbitráží a MEV.
 
+## HomΞr Shillson
+
+Homer se věnuje převážně DeFi se zaměřením na seed investice. \([twitter](https://twitter.com/homershillson)\)
+
 ## Petr Klein
 
 Libertarián, který se celý život věnuje vývoji aplikací a systémů, nadšenec do nových technologií, které musí okamžitě zkoušet, i na úkor své pracovní morálky. Je to velký milovník decentralizace a otevřeného svobodného softwaru. Je členem [Gwei.cz](https://gwei.cz) councilu a nově také členem [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/) v Paralelní Polis. \([twitter](https://twitter.com/kleinpetr_com)\)
-
-## HomΞr Shillson
 
 ## RΞSISTANCΞ
 

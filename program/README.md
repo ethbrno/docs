@@ -22,15 +22,14 @@ Všechny přednášky, workshopy a panelové diskuze budou v češtině nebo slo
 
 Na přednášky bude vyčleněn [Velký sál](../misto-konani.md#dostupne-prostory) s kapacitou 120 lidí.
 
-Obsazenost: 285m / 540m
+Obsazenost: 290m / 540m
 
 | Název | Autor | Délka |
 | :--- | :--- | :--- |
 | **Proč potřebujeme DeFi?** | KryptoVláďa | 45m |
-| **Pět pilířů kryptoměn** | KryptoVláďa | 30m |
+| **Pět pilířů kryptoměn** | KryptoVláďa | 45m |
 | **MEV a ChainKeepers: Úžasná cesta světem DeFi** | Ondřej Vostal, Martin Vlach | 45m |
 | **P2P brána do světa kryptoměn** | Petr Klein | 30m |
-| **Seed investice do DeFi protokolů** | HomΞr Shillson | 30m |
 | **BohemianDAO: podpořme lokální ekosystém** | Tree | 30m |
 | **To nejlepší ze Solana DeFi** | Michael Repetný | 45m |
 | ~NFT / CZ/SK NFT komunita | RΞSISTANCΞ | 45m |
