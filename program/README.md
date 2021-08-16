@@ -29,6 +29,7 @@ Obsazenost: 210m / 540m
 | **Proč potřebujeme DeFi?** | KryptoVláďa | 45m |
 | **Pět pilířů kryptoměn** | KryptoVláďa | 45m |
 | **MEV a ChainKeepers: Úžasná cesta světem DeFi** | Ondřej Vostal, Martin Vlach | 45m |
+| **To nejlepší ze Solana DeFi** | Michael Repetný | 45m |
 | **BohemianDAO - podpořme lokální ekosystém** | Tree | 30m |
 | ~NFT / CZ/SK NFT komunita | RΞSISTANCΞ | 45m |
 
