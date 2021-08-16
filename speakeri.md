@@ -10,7 +10,7 @@ Bývalý televizní reportér - nyní [nadšený YouTuber](https://www.youtube.c
 
 ## RΞSISTANCΞ
 
-Tajemná osoba s tajemnou přezdívkou, která se věnuje tajemnému tématu NFT. A aby na to nebyl sám, tak si založil [CZ/SK NFT komunitu](https://discord.gg/FywYSvmmeJ) na Discordu. \([twitter](https://twitter.com/reesistancee)\)
+Tajemná osoba s tajemnou přezdívkou, která se věnuje tajemnému tématu NFT. A aby na to nebyl sám, tak si založil [CZ/SK NFT komunitu](https://discord.gg/FywYSvmmeJ) na Discordu, kde tyhle tajemnosti řeší. \([twitter](https://twitter.com/reesistancee)\)
 
 ## Ondřej Vostal, Martin Vlach
 
