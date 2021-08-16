@@ -28,12 +28,12 @@ Summit organizuje společnými silami [Bankless.cz](https://bankless.cz/) a [Gwe
 * Přednášky
 * Workshopy
 * Panelové diskuze
-* Doprovodný program
 * Networking
+* Doprovodný program
 * [POAP](https://poap.xyz/) badge za účast
 * Afterparty 🎉 
 
-Seznam všech aktivit se postupně doplňuje na stránku [Program](program/).
+Seznam všech aktivit se postupně doplňuje na stránku [Hlavní program](program/) a [Doprovodný program](doprovodny-program.md).
 
 {% hint style="success" %}
 Máte zájem na ETHBrno přednášet? uspořádat workshop nebo se jinak zapojit?  
