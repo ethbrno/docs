@@ -14,7 +14,7 @@ Všechny přednášky, workshopy a panelové diskuze budou v češtině nebo slo
 * **13:00 - 14:00** - oběd
 * **14:00 - 20:00** - odpolední programový blok \(6 hodin\)
 * **20:00 - 22:00** - večerní networking
-* **22:00** - ukončení akce, přesun na [Afterparty](../doprovodny-program.md#22-00-afterparty)
+* **22:00** - ukončení akce, přesun na [Afterparty](../doprovodny-program/#22-00-afterparty)
 
 ## Seznam všech aktivit
 
