@@ -15,7 +15,7 @@ ETHBrno je v současné době ve fázi příprav a veškeré informace uvedené 
 ## Sobota 9.10.2021 \(celý den\)
 
 Místo: [**Komunitní centrum Skála**](misto-konani.md)**, Brno, Czech Republic**🇨🇿 ****  
-Kapacita: **150 lidí** \(velký sál 120, malý sál 30\), viz [Dostupné prostory](misto-konani.md)  
+Kapacita: **max 150 lidí** \(velký sál 120, malý sál 30\), viz [Dostupné prostory](misto-konani.md)  
 Jazyk: **čeština/slovenština**  
 Vstupné: **zdarma** \(nutnost rezervace - TBA\)
 
