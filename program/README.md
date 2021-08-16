@@ -6,7 +6,7 @@ description: Seznam aktivit na ETHBrno - 9.10.2021
 
 Všechny přednášky, workshopy a panelové diskuze budou v češtině nebo slovenštině.
 
-## Časový plán
+## Časový plán \(sobota 9. října\)
 
 * **9:00** - otevření areálu
 * **9:00 - 10:00** - snídaně
