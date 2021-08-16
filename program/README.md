@@ -30,7 +30,7 @@ Obsazenost: 210m / 540m
 | **Pět pilířů kryptoměn** | [KryptoVláďa](https://twitter.com/PinkerVladimir) | 45m |
 | **MEV a ChainKeepers: Úžasná cesta světem DeFi** | Ondřej Vostal, Martin Vlach | 45m |
 | **BohemianDAO - podpořme lokální ekosystém** | [tree](https://twitter.com/treecz) | 30m |
-| ~NFT / CZ/SK NFT komunita | [RΞSISTANCΞ](https://twitter.com/reesistancee) | 45m |
+| ~NFT / CZ/SK NFT komunita | RΞSISTANCΞ | 45m |
 
 ### Workshopy
 
