@@ -13,7 +13,7 @@ Všechny přednášky, workshopy a panelové diskuze budou v češtině nebo slo
 * **10:00 - 13:00** - dopolední programový blok \(3 hodiny\)
 * **13:00 - 14:00** - oběd
 * **14:00 - 20:00** - odpolední programový blok \(6 hodin\)
-* **20:00 - 22:00** - večeře
+* **20:00 - 22:00** - večerní networking
 * **22:00** - ukončení akce, přesun na [Afterparty](../doprovodny-program.md#22-00-afterparty)
 
 ## Seznam všech aktivit
@@ -26,10 +26,10 @@ Obsazenost: 210m / 540m
 
 | Název | Autor | Délka |
 | :--- | :--- | :--- |
-| **Proč potřebujeme DeFi?** | [KryptoVláďa](https://twitter.com/PinkerVladimir) | 45m |
-| **Pět pilířů kryptoměn** | [KryptoVláďa](https://twitter.com/PinkerVladimir) | 45m |
+| **Proč potřebujeme DeFi?** | KryptoVláďa | 45m |
+| **Pět pilířů kryptoměn** | KryptoVláďa | 45m |
 | **MEV a ChainKeepers: Úžasná cesta světem DeFi** | Ondřej Vostal, Martin Vlach | 45m |
-| **BohemianDAO - podpořme lokální ekosystém** | [tree](https://twitter.com/treecz) | 30m |
+| **BohemianDAO - podpořme lokální ekosystém** | Tree | 30m |
 | ~NFT / CZ/SK NFT komunita | RΞSISTANCΞ | 45m |
 
 ### Workshopy
@@ -40,9 +40,9 @@ Obsazenost: 180m / 540m
 
 | Název | Lektoři | Délka |
 | :--- | :--- | :--- |
-| **DeFi Toolkit - Nástroje pro práci s Ethereum síti** | \*\*\*\*[tree](https://twitter.com/treecz) | 30m |
+| **DeFi Toolkit - Nástroje pro práci s Ethereum síti** | Tree | 30m |
 | \*\*\*\*[**Hackujeme DeFi arbitráže**](workshopy/hackujeme-defi-arbitraze.md)\*\*\*\* | Ondřej Vostal, Martin Vlach | 2x 45m |
-| ~NFT prakticky | [RΞSISTANCΞ](https://twitter.com/reesistancee) | 60m |
+| ~NFT prakticky | RΞSISTANCΞ | 60m |
 
 
 
