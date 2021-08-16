@@ -16,6 +16,10 @@ Tajemná osoba s tajemnou přezdívkou, která se věnuje tajemnému tématu NFT
 
 Kluci z [ChainKeepers](https://www.chainkeepers.io/), kteří nám představí úžasný svět DeFi arbitráží a MEV.
 
+## Michael Repetný
+
+Ex-startupista, vývojář [Marinade.finance](https://marinade.finance/) - liquid staking protokolu na Solaně, DeFi nadšenec, validátor. \([twitter](https://twitter.com/repetny)\)
+
 ## Tree
 
 Občasný programátor, který se ve volných chvílích věnuje [Gwei.cz](https://gwei.cz) komunitě, kterou spoluzaložil. Je to nadšenec do Etherea a propagátor nových technologií. \([twitter](https://twitter.com/treecz)\)
