@@ -22,7 +22,7 @@ Všechny přednášky, workshopy a panelové diskuze budou v češtině nebo slo
 
 Na přednášky bude vyčleněn [Velký sál](../misto-konani.md#dostupne-prostory) s kapacitou 120 lidí.
 
-Obsazenost: 290m / 540m
+Obsazenost: 285m / 540m
 
 | Název | Autor | Délka |
 | :--- | :--- | :--- |
