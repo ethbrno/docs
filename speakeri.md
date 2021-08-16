@@ -16,6 +16,8 @@ Kluci z [ChainKeepers](https://www.chainkeepers.io/), kteří nám představí �
 
 Libertarián, který se celý život věnuje vývoji aplikací a systémů, nadšenec do nových technologií, které musí okamžitě zkoušet, i na úkor své pracovní morálky. Je to velký milovník decentralizace a otevřeného svobodného softwaru. Je členem [Gwei.cz](https://gwei.cz) councilu a nově také členem [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/) v Paralelní Polis. \([twitter](https://twitter.com/kleinpetr_com)\)
 
+## HomΞr Shillson
+
 ## RΞSISTANCΞ
 
 Tajemná osoba s tajemnou přezdívkou, která se věnuje tajemnému tématu NFT. A aby na to nebyl sám, tak si založil [CZ/SK NFT komunitu](https://discord.gg/FywYSvmmeJ) na Discordu, kde tyhle tajemnosti řeší. \([twitter](https://twitter.com/reesistancee)\)
