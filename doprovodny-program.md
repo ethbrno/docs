@@ -12,11 +12,13 @@ TBA
 
 Tento den probíhá [hlavní program](program/) v [KC Skála](misto-konani.md).
 
-### 22:00 - Afterparty
+### 22:00 - ?? \| Afterparty
 
 TBA
 
 ## Neděle 10. října
 
-TBA
+### 14:00 - 18:00 \| Gwei.cz Hackathon
+
+Nedělní odpoledne můžete strávit na Gwei.cz hackathonu a pomoci s tvorbou lokálních edukačních materiálů a dalších našich projektů. Místo bude oznámeno.
 
