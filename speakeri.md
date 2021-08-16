@@ -16,6 +16,14 @@ Tajemná osoba s tajemnou přezdívkou, která se věnuje tajemnému tématu NFT
 
 Kluci z [ChainKeepers](https://www.chainkeepers.io/), kteří nám představí úžasný svět DeFi arbitráží a MEV.
 
+## Petr Klein
+
+Libertarián, který se celý život věnuje vývoji aplikací a systémů, nadšenec do nových technologií, které musí okamžitě zkoušet, i na úkor své pracovní morálky. Je to velký milovník decentralizace a otevřeného svobodného softwaru. Je členem [Gwei.cz](https://gwei.cz) councilu a nově také členem [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/) v Paralelní Polis. \([twitter](https://twitter.com/kleinpetr_com)\)
+
+## Michael Repetný
+
+Ex-startupista, vývojář [Marinade.finance](https://marinade.finance/) - liquid staking protokolu na Solaně, DeFi nadšenec, validátor. \([twitter](https://twitter.com/repetny)\)
+
 ## Tree
 
 Občasný programátor, který se ve volných chvílích věnuje [Gwei.cz](https://gwei.cz) komunitě, kterou spoluzaložil. Je to nadšenec do Etherea a propagátor nových technologií. \([twitter](https://twitter.com/treecz)\)
