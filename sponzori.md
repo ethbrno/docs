@@ -1,6 +1,6 @@
 # Sponzoři
 
-Akce bude zdarma, financovaná z různých fondů.
+Chcete akci sponzorovat? Děláte něco zajímavého, co by se dalo s ETHBrno spojit?
 
-TBA
+Ozvěte se někomu z [Organizačního teamu](./#organizacni-team).
 
