@@ -22,28 +22,25 @@ Všechny přednášky, workshopy a panelové diskuze budou v češtině nebo slo
 
 Na přednášky bude vyčleněn [Velký sál](../misto-konani.md#dostupne-prostory) s kapacitou 120 lidí.
 
-Obsazenost: 290m / 540m
-
 | Název | Autor | Délka |
 | :--- | :--- | :--- |
 | **Proč potřebujeme DeFi?** | KryptoVláďa | 45m |
-| **Pět pilířů kryptoměn** | KryptoVláďa | 45m |
+| **Pět pilířů kryptoměn** | KryptoVláďa | 30m |
 | **MEV a ChainKeepers: Úžasná cesta světem DeFi** | Ondřej Vostal, Martin Vlach | 45m |
 | **P2P brána do světa kryptoměn** | Petr Klein | 30m |
-| **BohemianDAO: podpořme lokální ekosystém** | Tree | 30m |
-| **To nejlepší ze Solana DeFi** | Michael Repetný | 45m |
+| **Seed investice do DeFi protokolů** | HomΞr Shillson | 30m |
+| **BohemianDAO: podpořme lokální ekosystém** \([popis](prednasky.md#bohemiandao-podporme-lokalni-ekosystem)\) | Tree | 30m |
+| **To nejlepší ze Solana DeFi** \([popis](prednasky.md#to-nejlepsi-ze-solana-defi)\) | Michael Repetný | 45m |
 | ~NFT / CZ/SK NFT komunita | RΞSISTANCΞ | 45m |
 
 ### Workshopy
 
 Kapacita workshopů je 30 lidí a budou se konat v [Malém sále](../misto-konani.md#dostupne-prostory). Vzhledem k nízké kapacitě bude nutná rezervace.
 
-Obsazenost: 180m / 540m
-
 | Název | Lektoři | Délka |
 | :--- | :--- | :--- |
 | **DeFi Toolkit - Nástroje pro práci s Ethereum síti** | Tree | 30m |
-| \*\*\*\*[**Hackujeme DeFi arbitráže**](workshopy/hackujeme-defi-arbitraze.md)\*\*\*\* | Ondřej Vostal, Martin Vlach | 2x 45m |
+| **Hackujeme DeFi arbitráže** \([popis](workshopy/hackujeme-defi-arbitraze.md)\) | Ondřej Vostal, Martin Vlach | 2x 45m |
 | ~NFT prakticky | RΞSISTANCΞ | 60m |
 
 
