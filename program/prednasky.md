@@ -24,6 +24,14 @@ Speaker: [Petr Klein](../speakeri.md#petr-klein)
 
 Speaker: [HomΞr Shillson](../speakeri.md#homksr-shillson)
 
+## Decentralizovaná koruna
+
+Speaker: [Radek Švarz](../speakeri.md#radek-svarz)
+
+## Projekt: Darovací smlouva
+
+Speaker: [Radek Švarz](../speakeri.md#radek-svarz)
+
 ## BohemianDAO: podpořme lokální ekosystém
 
 Speaker: [Tree](../speakeri.md#tree)
