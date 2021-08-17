@@ -19,3 +19,7 @@ Viz sekce [Ubytování](ubytovani.md).
 
 TODO
 
+## COVID-19 opatření
+
+TODO
+
