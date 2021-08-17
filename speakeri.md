@@ -24,8 +24,6 @@ Libertarián, který se celý život věnuje vývoji aplikací a systémů, nad�
 
 Tajemná osoba s tajemnou přezdívkou, která se věnuje tajemnému tématu NFT. A aby na to nebyl sám, tak si založil [CZ/SK NFT komunitu](https://discord.gg/FywYSvmmeJ) na Discordu, kde tyhle tajemnosti řeší. \([twitter](https://twitter.com/reesistancee)\)
 
-## Radek Švarz
-
 ## Michael Repetný
 
 Ex-startupista, vývojář [Marinade.finance](https://marinade.finance/) - liquid staking protokolu na Solaně, DeFi nadšenec, validátor. \([twitter](https://twitter.com/repetny)\)
