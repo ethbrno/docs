@@ -29,6 +29,8 @@ Na přednášky bude vyčleněn [Velký sál](../misto-konani.md#dostupne-prosto
 | **MEV a ChainKeepers: Úžasná cesta světem DeFi** | Ondřej Vostal, Martin Vlach | 45m |
 | **P2P brána do světa kryptoměn** | Petr Klein | 30m |
 | **Seed investice do DeFi protokolů** | HomΞr Shillson | 30m |
+| **Decentralizovaná koruna** | Radek Švarz | 45m |
+| **Projekt: Darovací smlouva** | Radek Švarz | 20m |
 | **BohemianDAO: podpořme lokální ekosystém** \([popis](prednasky.md#bohemiandao-podporme-lokalni-ekosystem)\) | Tree | 30m |
 | **To nejlepší ze Solana DeFi** \([popis](prednasky.md#to-nejlepsi-ze-solana-defi)\) | Michael Repetný | 45m |
 | ~NFT / CZ/SK NFT komunita | RΞSISTANCΞ | 45m |
