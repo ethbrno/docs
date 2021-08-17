@@ -8,8 +8,6 @@ description: Na koho se můžete těšit
 
 Bývalý televizní reportér - nyní [nadšený YouTuber](https://www.youtube.com/channel/UC827_PQYRRGxvqtN7Bh2yaQ) z plzeňska, kterého baví experimentování s DeFi a životem mimo svět tradičních financí. \([twitter](https://twitter.com/PinkerVladimir)\)
 
-## David Stancel
-
 ## Ondřej Vostal, Martin Vlach
 
 Kluci z [ChainKeepers](https://www.chainkeepers.io/), kteří nám představí úžasný svět DeFi arbitráží a MEV.
@@ -25,8 +23,6 @@ Libertarián, který se celý život věnuje vývoji aplikací a systémů, nad�
 ## RΞSISTANCΞ
 
 Tajemná osoba s tajemnou přezdívkou, která se věnuje tajemnému tématu NFT. A aby na to nebyl sám, tak si založil [CZ/SK NFT komunitu](https://discord.gg/FywYSvmmeJ) na Discordu, kde tyhle tajemnosti řeší. \([twitter](https://twitter.com/reesistancee)\)
-
-## Radek Švarz
 
 ## Michael Repetný
 
