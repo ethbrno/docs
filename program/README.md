@@ -27,14 +27,14 @@ Na přednášky bude vyčleněn [Velký sál](../misto-konani.md#dostupne-prosto
 | **Proč potřebujeme DeFi?** | KryptoVláďa | 30m |
 | **Pět pilířů kryptoměn** | KryptoVláďa | 15m |
 | **Co sa mozme naucit z historia krypta?** | David Stancel | 30m |
-| **MEV a ChainKeepers: Úžasná cesta světem DeFi** | Ondřej Vostal, Martin Vlach | 45m |
-| **P2P brána do světa kryptoměn** | Petr Klein | 30m |
-| **Seed investice do DeFi protokolů** | HomΞr Shillson | 45m |
-| **Decentralizovaná koruna** | Radek Švarz | 45m |
-| **Projekt: Darovací smlouva** | Radek Švarz | 20m |
-| **BohemianDAO: podpořme lokální ekosystém** \([popis](prednasky.md#bohemiandao-podporme-lokalni-ekosystem)\) | Tree | 30m |
-| **To nejlepší ze Solana DeFi** \([popis](prednasky.md#to-nejlepsi-ze-solana-defi)\) | Michael Repetný | 45m |
-| ~NFT / CZ/SK NFT komunita | RΞSISTANCΞ | 45m |
+| **MEV a ChainKeepers: Úžasná cesta světem DeFi** | Ondřej Vostal, Martin Vlach | 30m |
+| **P2P brána do světa kryptoměn** | Petr Klein | 15m |
+| **Seed investice do DeFi protokolů** | HomΞr Shillson | 30m |
+| **Decentralizovaná koruna** | Radek Švarz | 30m |
+| **Projekt: Darovací smlouva** | Radek Švarz | 15m |
+| **BohemianDAO: podpořme lokální ekosystém** \([popis](prednasky.md#bohemiandao-podporme-lokalni-ekosystem)\) | Tree | 15m |
+| **To nejlepší ze Solana DeFi** \([popis](prednasky.md#to-nejlepsi-ze-solana-defi)\) | Michael Repetný | 30m |
+| ~NFT / CZ/SK NFT komunita | RΞSISTANCΞ | 30m |
 
 ### Workshopy
 
