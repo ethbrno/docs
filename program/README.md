@@ -26,6 +26,7 @@ Na přednášky bude vyčleněn [Velký sál](../misto-konani.md#dostupne-prosto
 | :--- | :--- | :--- |
 | **Proč potřebujeme DeFi?** | KryptoVláďa | 45m |
 | **Pět pilířů kryptoměn** | KryptoVláďa | 30m |
+| **Co sa mozme naucit z historia krypta?** | David Stancel | 30m |
 | **MEV a ChainKeepers: Úžasná cesta světem DeFi** | Ondřej Vostal, Martin Vlach | 45m |
 | **P2P brána do světa kryptoměn** | Petr Klein | 30m |
 | **Seed investice do DeFi protokolů** | HomΞr Shillson | 30m |

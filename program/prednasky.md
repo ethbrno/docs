@@ -12,6 +12,10 @@ Speaker: [KryptoVláďa](../speakeri.md#kryptovlada)
 
 Speaker: [KryptoVláďa](../speakeri.md#kryptovlada)
 
+## Co sa mozme naucit z historia krypta?
+
+Speaker: [David Stancel](../speakeri.md#david-stancel)
+
 ## MEV a ChainKeepers: Úžasná cesta světem DeFi
 
 Speakeři: [Ondřej Vostal, Martin Vlach](../speakeri.md#ondrej-vostal-martin-vlach)
@@ -23,6 +27,14 @@ Speaker: [Petr Klein](../speakeri.md#petr-klein)
 ## **Seed investice do DeFi protokolů**
 
 Speaker: [HomΞr Shillson](../speakeri.md#homksr-shillson)
+
+## Decentralizovaná koruna
+
+Speaker: [Radek Švarz](../speakeri.md#radek-svarz)
+
+## Projekt: Darovací smlouva
+
+Speaker: [Radek Švarz](../speakeri.md#radek-svarz)
 
 ## BohemianDAO: podpořme lokální ekosystém
 
