@@ -18,7 +18,9 @@ TBA
 
 ## Neděle 10. října
 
-### 14:00 - 18:00 \| [Gwei.cz Hackathon](gwei.cz-hackathon.md)
+### 14:00 - 18:00 \| Gwei.cz Hackathon
 
 Nedělní odpoledne můžete strávit na [Gwei.cz](https://gwei.cz) hackathonu a pomoci s tvorbou lokálních edukačních materiálů a dalších našich projektů. Místo bude oznámeno.
+
+[👉Více o Gwei.cz Hackathonu](gwei.cz-hackathon.md)
 
