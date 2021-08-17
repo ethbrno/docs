@@ -41,7 +41,8 @@ Kapacita workshopů je 30 lidí a budou se konat v [Malém sále](../misto-konan
 
 | Název | Lektoři | Délka |
 | :--- | :--- | :--- |
-| **DeFi Toolkit - Nástroje pro práci s Ethereum síti** | Tree | 30m |
+| **DeFi Toolkit: Nástroje pro práci s Ethereum síti** | Tree | 30m |
+| **Jak založit vlastní DAO** | Tree | 60m |
 | **Hackujeme DeFi arbitráže** \([popis](workshopy/hackujeme-defi-arbitraze.md)\) | Ondřej Vostal, Martin Vlach | 2x 45m |
 | ~NFT prakticky | RΞSISTANCΞ | 60m |
 
