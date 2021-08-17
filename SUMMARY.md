@@ -4,6 +4,7 @@
 * [Speakeři](speakeri.md)
 * [Místo konání](misto-konani.md)
 * [Hlavní program](program/README.md)
+  * [Přednášky](program/prednasky.md)
   * [Workshopy](program/workshopy/README.md)
     * [Hackujeme DeFi arbitráže](program/workshopy/hackujeme-defi-arbitraze.md)
 * [Doprovodný program](doprovodny-program/README.md)
