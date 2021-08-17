@@ -7,8 +7,6 @@ description: Workshop
 Délka: **1 hodina**  
 Lektor: [Tree](../../speakeri.md#tree)
 
-> Decentralizovaná autonomní organizace \(DAO\) je efektivní a bezpečný způsob spolupráce s podobně smýšlejícími lidmi po celém světě.
-
 ## Pro koho je workshop vhodný
 
 * Zajímá vás jak založit vlastní DAO
