@@ -6,7 +6,7 @@ description: Jak se na ETHBrno dostat
 
 ## Hromadná doprava \(MHD\)
 
-TODO
+Po příjezdu do Brna je možné se k nám dostat městskou hromadnou dopravou. Místo konání je 50m od zastávky Oblá. K transportu na zastávku Oblá lze využít [IDOS MHD Brno](http://idsjmk.idos.cz/brno/spojeni/).
 
 ## Vlak, Autobus \(dálkový\)
 
@@ -28,5 +28,5 @@ Okolní letiště:
 
 ## Autem
 
-TODO
+Do Brna se autem nejrychleji dostanete po dálnici D1, prvním výjezdem **190** na **R23/E461** směrem na **Svitavy/Výstaviště** kde pokračujte po E461 a cca po 700m volíte výjezd na **Centrum/Bohunice/St.Lískovec**, na rozdvojení se držte vlevo a pokračujte podle značek směrem Popůvky/silnici **602**. Pokračujte po Jihlavská/silnici **602**, po 700m odbočte doleva na Jihlavská/silnici 602, pokračujte 450m a odbočíte doprava na Oblá kde hledáte parkovací místo a jste u nás.
 
