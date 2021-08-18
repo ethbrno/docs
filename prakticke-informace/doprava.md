@@ -28,5 +28,5 @@ Okolní letiště:
 
 ## Autem
 
-Do Brna se autem nejrychleji dostanete po dálnici D1, prvním výjezdem **190** na **R23/E461** směrem na **Svitavy/Výstaviště** kde pokračujte po E461 a cca po 700m volíte výjezd na **Centrum/Bohunice/St.Lískovec**, na rozdvojení se držte vlevo a pokračujte podle značek směrem Popůvky/silnici **602**. Pokračujte po Jihlavská/silnici **602**, po 700m odbočte doleva na Jihlavská/silnici 602, pokračujte 450m a odbočíte doprava na Oblá kde hledáte parkovací místo a jste u nás.
+Do Brna se autem nejrychleji dostanete po dálnici D1, výjezdem **190** na **R23/E461** směrem na **Svitavy/Výstaviště** kde pokračujte po E461 a cca po 700m volíte výjezd na **Centrum/Bohunice/St.Lískovec**, na rozdvojení se držte vlevo a pokračujte podle značek směrem Popůvky/silnici **602**. Pokračujte po Jihlavská/silnici **602**, po 700m odbočte doleva na Jihlavská/silnici 602, pokračujte 450m a odbočíte doprava na Oblá kde hledáte parkovací místo a jste u nás.
 
