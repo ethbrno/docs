@@ -25,11 +25,6 @@ _Nad Pisárkami 276, Brno-Kohoutovice, 623 00 Brno_
 [https://www.hotelmyslivna.cz/](https://www.hotelmyslivna.cz/)  
 +420547 107 555  
   
-**Ubytování Kupková \(v docházkové vzdálenosti - cca 10 min\)**  
-_Úpatní 372/24, 634 00 Brno-Nový Lískovec_  
-[http://www.brno-penzion.cz/cs/](http://www.brno-penzion.cz/cs/)  
-+420728983771  
-  
 **Penzion Levandule \(v docházkové vzdálenosti - cca 10 min\)**  
 _Rybnická 541/29, 634 00 Brno-Nový Lískovec_  
 [http://www.penzionlevandule.com/](http://www.penzionlevandule.com/)  
