@@ -14,11 +14,11 @@ Dávid vyštudoval Ekonómiu na Masarykovej univerzite v Brne, a Master of Scien
 
 ## Ondřej Vostal
 
-Matematik a ekonom, který tíhne k uskutečňování datově orientovaných strategií na finančních trzích. Má bohaté zkušenosti z TradFi v oblasti arbitráží a market-making, drive a touhu globálně excelovat. Největší tahoun týmu [ChainKeepers](https://www.chainkeepers.io/) s ambicí stát se významnými DeFi a DEx keepery. Na ETHBrno představí úžasný svět MEV, DeFi likvidací a arbitráží. Otevřený návrhům a myšlenkám a kontaktu na [https://www.linkedin.com/in/ondrej-vostal/](https://www.linkedin.com/in/ondrej-vostal/)
+Matematik a ekonom, který tíhne k uskutečňování datově orientovaných strategií na finančních trzích. Má bohaté zkušenosti z TradFi v oblasti arbitráží a market-making, drive a touhu globálně excelovat. Největší tahoun týmu [ChainKeepers](https://www.chainkeepers.io/) s ambicí stát se významnými DeFi a DEx keepery. Na ETHBrno představí úžasný svět MEV, DeFi likvidací a arbitráží. Otevřený návrhům a myšlenkám a kontaktu. \([linkedin](https://www.linkedin.com/in/ondrej-vostal/)\)
 
 ## Martin Vlach
 
-Zvídavá hlava, miniarchista, teoretický všeuměl, programátor, myslitel. V týmu [ChainKeepers](https://www.chainkeepers.io/cs/hiring) pomáhá s vývojem a testováním smart contractů, trading botů a rozšiřováním kolektivu. Dostupný na [https://www.linkedin.com/in/uhuge/](https://www.linkedin.com/in/uhuge/) , v poslední době též na [https://twitter.com/userhuge](https://twitter.com/userhuge)
+Zvídavá hlava, miniarchista, teoretický všeuměl, programátor, myslitel. V týmu [ChainKeepers](https://www.chainkeepers.io/cs/hiring) pomáhá s vývojem a testováním smart contractů, trading botů a rozšiřováním kolektivu. \([twitter](https://twitter.com/userhuge), [linkedin](https://www.linkedin.com/in/uhuge/)\)
 
 ## HomΞr Shillson
 
