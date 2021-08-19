@@ -11,7 +11,7 @@ description: Tady se to všechno odehraje
 Adresa: **Oblá 505/54a, 634 00 Brno - Nový Lískovec** _****_\([Google Maps](https://goo.gl/maps/wbZFMrzfBHDTtRRK8)\)  
 Webové stránky: [Komunitním centru Skála](https://novy-liskovec.cz/komunitni-centrum-skala/ds-1389)
 
-♿Všechny hlavní prostory, kde se summit koná jsou bezbariérově přístupné.
+♿Většina prostor - velký sál, malý sál a klubovna jsou bezbariérově přístupné. Bezbariérový přístup není možný do Zkušebny a Skleníku.
 
 Jak se na místo dostat, naleznete v sekci [Doprava](prakticke-informace/doprava.md).
 
@@ -19,11 +19,28 @@ Jak se na místo dostat, naleznete v sekci [Doprava](prakticke-informace/doprava
 
 ## Dostupné prostory
 
-* **Velký sál** \(kapacita 120 lidí\) - přednášky, panelové diskuze
-* **Malý sál** \(kapacita 30 lidí\) - workshopy
-* **Kavárna** - networking, občerstvení
+* **Velký sál** \(kapacita 100 lidí\) - přednášky, panelové diskuze
+* **Malý sál** \(kapacita 20 lidí\) - workshopy
+* **Zkušebna** \(kapacita 25 lidí\) - workshopy
+* **Klubovna** \(kapacita 15 lidí\) - workshopy \(separátní prostor\)
+* **Kavárna** \(kapacita 20 lidí\) ****- networking, občerstvení
+* **Skleník -** chillout
 
-![Sch&#xE9;ma Komunitn&#xED;ho centra Sk&#xE1;la - 1. nadzemn&#xED; podla&#x17E;&#xED;](.gitbook/assets/kc-skala-pudorys-1np%20%281%29.jpeg)
+## Plán objektu
+
+{% tabs %}
+{% tab title="1. nadzemní podlaží" %}
+![](.gitbook/assets/kc-skala-1np%20%281%29.jpeg)
+{% endtab %}
+
+{% tab title="1. podzemní podlaží" %}
+![](.gitbook/assets/kc-skala-1pp.jpeg)
+{% endtab %}
+
+{% tab title="2. nadzemní podlaží" %}
+![](.gitbook/assets/kc-skala-2np.jpeg)
+{% endtab %}
+{% endtabs %}
 
 ## Internet \(WiFi\)
 

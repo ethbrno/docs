@@ -17,7 +17,8 @@ Vstupné je **zdarma**, ale kvůli nízké kapacitě bude jen omezený počet vs
 
 ## Ubytování
 
-Viz sekce [Ubytování](ubytovani.md).
+* [Apartmány \(Airbnb\)](ubytovani.md#apartmany-airbnb)
+* [Hotely](ubytovani.md#hotely)
 
 ## Občerstvení
 
