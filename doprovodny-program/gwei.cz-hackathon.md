@@ -20,7 +20,7 @@ Za [Gwei.cz Council](https://komunita.gwei.cz/council) se účastní:
 
 * Úvodní Governance Call živě
 * Zrekapitulujeme naše současné projekty a jejich stav
-* Projdeme si úkoly v Trello, případně rozdělíme další práci
+* Projdeme si úkoly v Trello, případně rozdělíme další úkoly
 * Zbytek času se pokusíme udělat nějakou práci
 
 

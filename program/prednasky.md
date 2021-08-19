@@ -22,9 +22,9 @@ Speaker: [VeryVerum](../speakeri.md#veryverum)
 
 ## MEV a ChainKeepers: Úžasná cesta světem DeFi
 
-Co je Miner Extractible Value a kde se nachází, proč některou MEV potřebujeme a podporujeme, jaké MEV příležitosti nám DeFi protokoly nabízejí a jak k nim v [ChainKeepers](https://www.chainkeepers.io/) přistupujeme, k čemu se chystáme a koho k tomu chceme vzít do party.
-
 Speakeři: [Ondřej Vostal](../speakeri.md#ondrej-vostal), [Martin Vlach](../speakeri.md#martin-vlach)
+
+Co je Miner Extractible Value a kde se nachází, proč některou MEV potřebujeme a podporujeme, jaké MEV příležitosti nám DeFi protokoly nabízejí a jak k nim v [ChainKeepers](https://www.chainkeepers.io/) přistupujeme, k čemu se chystáme a koho k tomu chceme vzít do party.
 
 ## P2P brána do světa kryptoměn
 
@@ -53,8 +53,4 @@ Speaker: [Tree](../speakeri.md#tree)
 Speaker: [Michael Repetný](../speakeri.md#michael-repetny)
 
 Vysvětlíme si, jak [Solana](https://solana.com/) funguje a čím se liší od Etherea. Zjistíte, co je to liquid staking a jak ho využít k zabezpečení sítě a zároveň vyšším výnosům v DeFi. Nakouknete také pod pokličku projektu s českou stopou - [Marinade.finance](https://marinade.finance/) \(MNDE\).
-
-
-
-
 
