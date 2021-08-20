@@ -5,7 +5,7 @@ description: Workshop
 # Hackujeme DeFi arbitráže
 
 Délka: **2x 45min**  
-Lektoři: [Ondřej Vostal a Martin Vlach](../../speakeri.md#ondrej-vostal-martin-vlach)
+Lektoři: [Ondřej Vostal a Martin Vlach](../../prednasejici.md#ondrej-vostal-martin-vlach)
 
 ## Na co se můžete těšit
 

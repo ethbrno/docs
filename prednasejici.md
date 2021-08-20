@@ -2,7 +2,7 @@
 description: Na koho se můžete těšit
 ---
 
-# Speakeři
+# Přednášející
 
 ## KryptoVláďa
 
