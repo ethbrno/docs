@@ -1,7 +1,7 @@
 # Table of contents
 
 * [ETHBrno 2021](README.md)
-* [Speakeři](speakeri.md)
+* [Přednášející](prednasejici.md)
 * [Místo konání](misto-konani.md)
 * [Hlavní program](program/README.md)
   * [Přednášky](program/prednasky.md)

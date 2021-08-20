@@ -6,12 +6,12 @@ description: Tady se to všechno odehraje
 
 ## Komunitní centrum Skála
 
- Akce se bude konat v komunitním centru v Brně, v městské části Nový Lískovec.
+Akce se bude konat v komunitním centru v Brně, v městské části Nový Lískovec. Toto centrum bude celé k dispozici jen pro ETHBrno 2021.
 
 Adresa: **Oblá 505/54a, 634 00 Brno - Nový Lískovec** _****_\([Google Maps](https://goo.gl/maps/wbZFMrzfBHDTtRRK8)\)  
 Webové stránky: [Komunitním centru Skála](https://novy-liskovec.cz/komunitni-centrum-skala/ds-1389)
 
-♿Většina prostor - velký sál, malý sál a klubovna jsou bezbariérově přístupné. Bezbariérový přístup není možný do Zkušebny a Skleníku.
+♿Většina prostor - velký sál, malý sál a klubovna jsou bezbariérově přístupné. Bezbariérový přístup není možný do Zkušebny a Skleníku \(viz. [Dostupné prostory](misto-konani.md#dostupne-prostory)\).
 
 Jak se na místo dostat, naleznete v sekci [Doprava](prakticke-informace/doprava.md).
 
@@ -20,10 +20,10 @@ Jak se na místo dostat, naleznete v sekci [Doprava](prakticke-informace/doprava
 ## Dostupné prostory
 
 * **Velký sál** \(kapacita 100 lidí\) - přednášky, panelové diskuze
-* **Malý sál** \(kapacita 20 lidí\) - workshopy
+* **Malý sál** \(kapacita 25 lidí\) - přednášky
 * **Zkušebna** \(kapacita 25 lidí\) - workshopy
 * **Klubovna** \(kapacita 15 lidí\) - workshopy \(separátní prostor\)
-* **Kavárna** \(kapacita 20 lidí\) ****- networking, občerstvení
+* **Kavárna** - networking, občerstvení
 * **Skleník -** chillout
 
 ## Plán objektu
@@ -44,23 +44,7 @@ Jak se na místo dostat, naleznete v sekci [Doprava](prakticke-informace/doprava
 
 ## Internet \(WiFi\)
 
-TODO 
-
-## Detaily jednotlivých prostorů
-
-{% tabs %}
-{% tab title="Velký sál" %}
-Velký sál je umístěn vpravo od kavárny, od které je oddělen mobilní akustickou stěnou. Sál je vybaven promítacím zařízením a ozvučen. Velký sál s kapacitou až 120 míst je možno přizpůsobit požadovanému účelu a rozdělit jej mobilní stěnou na dvě menší prostory.
-
-Velikost sálu je 146,1 m2.
-{% endtab %}
-
-{% tab title="Malý sál" %}
-Malý sál je umístěn v prvním nadzemním podlaží vlevo, vstup přes kavárnu. Sál je možné využít pro akce do 30 lidí.
-
-Velikost sálu je 49,6 m2.
-{% endtab %}
-{% endtabs %}
+V celém objektu bude k dispozici WiFi připojení k internetu. Detaily jak a kam se připojit se dozvíte přímo na místě.
 
 
 
