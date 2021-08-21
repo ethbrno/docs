@@ -19,11 +19,17 @@ Jak se na místo dostat, naleznete v sekci [Doprava](prakticke-informace/doprava
 
 ## Dostupné prostory
 
-* **Velký sál** \(kapacita 100 lidí\) - přednášky, panelové diskuze
-* **Malý sál** \(kapacita 25 lidí\) - přednášky
-* **Zkušebna** \(kapacita 25 lidí\) - workshopy
-* **Klubovna** \(kapacita 15 lidí\) - workshopy \(separátní prostor\)
+### Sály na přednášky a workshopy
+
+1. **Velký sál** \(kapacita 100 lidí\) - přednášky, panelové diskuze
+2. **Malý sál** \(kapacita 25 lidí\) - přednášky
+3. **Zkušebna** \(kapacita 25 lidí\) - workshopy
+4. **Klubovna** \(kapacita 15 lidí\) - workshopy \(separátní prostor\)
+
+### Společné prostory
+
 * **Kavárna** - networking, občerstvení
+* **Dřevěná venkovní terasa** - posezení, kuřácký koutek
 * **Skleník -** chillout
 
 ## Plán objektu
