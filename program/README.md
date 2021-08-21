@@ -34,6 +34,7 @@ Všechny přednášky, workshopy a panelové diskuze budou v češtině nebo slo
 | **DAOs: Teorie a praxe v BanklessDAO** | rixcian | 30m |
 | **BohemianDAO: podpořme lokální ekosystém** \([popis](prednasky.md#bohemiandao-podporme-lokalni-ekosystem)\) | Tree | 15m |
 | **To nejlepší ze Solana DeFi** \([popis](prednasky.md#to-nejlepsi-ze-solana-defi)\) | Michael Repetný | 30m |
+| **Hopiové deníky - Dystopické sny** \(CZ verze, projekce\) | Rekt | 15m |
 | ~NFT / CZ/SK NFT komunita | RΞSISTANCΞ | 30m |
 
 ### Workshopy
