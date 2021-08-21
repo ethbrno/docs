@@ -26,5 +26,5 @@ TODO
 
 ## COVID-19 opatření
 
-TODO
+[https://covid.gov.cz/situace/kultura/spolecenske-akce](https://covid.gov.cz/situace/kultura/spolecenske-akce)
 
