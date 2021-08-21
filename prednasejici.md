@@ -30,13 +30,17 @@ Tajemná osoba s tajemnou přezdívkou, která se věnuje tajemnému tématu NFT
 
 ## VeryVerum
 
-\([twitter](https://twitter.com/VeryVerum)\)
+Investor a spekulant s kryptoměnami od roku 2013. \([twitter](https://twitter.com/VeryVerum)\)
 
 ## Petr Klein
 
 Libertarián, který se celý život věnuje vývoji aplikací a systémů, nadšenec do nových technologií, které musí okamžitě zkoušet, i na úkor své pracovní morálky. Je to velký milovník decentralizace a otevřeného svobodného softwaru. Je členem [Gwei.cz](https://gwei.cz) councilu a nově také členem [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/) v Paralelní Polis. \([twitter](https://twitter.com/kleinpetr_com)\)
 
 ## Radek Švarz
+
+## Rixcian
+
+\([twitter](https://twitter.com/rixcian)\)
 
 ## Michael Repetný
 
