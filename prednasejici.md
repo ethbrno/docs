@@ -38,10 +38,6 @@ Libertarián, který se celý život věnuje vývoji aplikací a systémů, nad�
 
 ## Radek Švarz
 
-## Rixcian
-
-\([twitter](https://twitter.com/rixcian)\)
-
 ## Michael Repetný
 
 Ex-startupista, vývojář [Marinade.finance](https://marinade.finance/) - liquid staking protokolu na Solaně, DeFi nadšenec, validátor. \([twitter](https://twitter.com/repetny)\)
