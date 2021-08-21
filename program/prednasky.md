@@ -42,6 +42,10 @@ Speaker: [Radek Švarz](../prednasejici.md#radek-svarz)
 
 Speaker: [Radek Švarz](../prednasejici.md#radek-svarz)
 
+## DAOs: Teorie a praxe v BanklessDAO
+
+Speaker: [Rixcian](../prednasejici.md#rixcian)
+
 ## BohemianDAO: podpořme lokální ekosystém
 
 Speaker: [Tree](../prednasejici.md#tree)
