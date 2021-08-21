@@ -24,7 +24,7 @@ Všechny přednášky, workshopy a panelové diskuze budou v češtině nebo slo
 | :--- | :--- | :--- |
 | **Proč potřebujeme DeFi?** | KryptoVláďa | 30m |
 | **Pět pilířů kryptoměn** | KryptoVláďa | 15m |
-| **Co sa mozme naucit z historia krypta?** | David Stancel | 30m |
+| **Čo sa môžme naučiť z historia krypta?** | David Stancel | 30m |
 | **Kognitivní zkreslení na Kryptoměnových trzích** | VeryVerum | 30m |
 | **MEV a ChainKeepers: Úžasná cesta světem DeFi** \([popis](prednasky.md#mev-a-chainkeepers-uzasna-cesta-svetem-defi)\) | Ondřej Vostal, Martin Vlach | 30m |
 | **P2P brána do světa kryptoměn** | Petr Klein | 15m |
@@ -45,7 +45,7 @@ Všechny přednášky, workshopy a panelové diskuze budou v češtině nebo slo
 | **Jak založit vlastní DAO** \([popis](workshopy/jak-zalozit-vlastni-dao.md)\) | Tree | 60m |
 | **Hackujeme DeFi arbitráže** \([popis](workshopy/hackujeme-defi-arbitraze.md)\) | Ondřej Vostal, Martin Vlach | 2x 45m |
 | **Jak na seed investice do DeFi protokolů** | HomΞr Shillson | 45m |
-| **Život na kryptoměnách** | KryptoVláďa | 60m |
+| **Život bez fiatu** | KryptoVláďa | 60m |
 | ~NFT prakticky | RΞSISTANCΞ | 60m |
 
 
