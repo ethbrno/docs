@@ -44,6 +44,7 @@ Všechny přednášky, workshopy a panelové diskuze budou v češtině nebo slo
 | **Jak založit vlastní DAO** \([popis](workshopy/jak-zalozit-vlastni-dao.md)\) | Tree | 60m |
 | **Hackujeme DeFi arbitráže** \([popis](workshopy/hackujeme-defi-arbitraze.md)\) | Ondřej Vostal, Martin Vlach | 2x 45m |
 | **Jak na seed investice do DeFi protokolů** | HomΞr Shillson | 45m |
+| **Život na kryptoměnách** | KryptoVláďa | 60m |
 | ~NFT prakticky | RΞSISTANCΞ | 60m |
 
 
