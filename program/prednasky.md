@@ -12,7 +12,7 @@ Speaker: [KryptoVláďa](../prednasejici.md#kryptovlada)
 
 Speaker: [KryptoVláďa](../prednasejici.md#kryptovlada)
 
-## Čo sa môžme naučiť z historia krypta?
+## Co sa mozme naucit z historia krypta?
 
 Speaker: [David Stancel](../prednasejici.md#david-stancel)
 
@@ -41,10 +41,6 @@ Speaker: [Radek Švarz](../prednasejici.md#radek-svarz)
 ## Projekt: Darovací smlouva
 
 Speaker: [Radek Švarz](../prednasejici.md#radek-svarz)
-
-## DAOs: Teorie a praxe v BanklessDAO
-
-Speaker: [Rixcian](../prednasejici.md#rixcian)
 
 ## BohemianDAO: podpořme lokální ekosystém
 
