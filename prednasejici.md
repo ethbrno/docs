@@ -40,7 +40,7 @@ Libertarián, který se celý život věnuje vývoji aplikací a systémů, nad�
 
 ## Rixcian
 
-Spoluzakladatel [BanklessCZ](https://bankless.cz/)🏴, člen [Gwei.cz](https://gwei.cz/) a [BanklessDAO](https://bankless.community/)🏴 komunity. Rád programuje, a to jak za peníze, tak i ve svém volném čase. Fanoušek všech technologií, které přispívají ke větší svobodě jednotlivce \(kryptoanarchista\). \([twitter](https://twitter.com/rixcian)\)
+\([twitter](https://twitter.com/rixcian)\)
 
 ## Michael Repetný
 
