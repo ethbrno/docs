@@ -12,7 +12,7 @@ Speaker: [KryptoVláďa](../prednasejici.md#kryptovlada)
 
 Speaker: [KryptoVláďa](../prednasejici.md#kryptovlada)
 
-## Čo sa môžme naučiť z historia krypta?
+## Co sa mozme naucit z historia krypta?
 
 Speaker: [David Stancel](../prednasejici.md#david-stancel)
 
@@ -41,12 +41,6 @@ Speaker: [Radek Švarz](../prednasejici.md#radek-svarz)
 ## Projekt: Darovací smlouva
 
 Speaker: [Radek Švarz](../prednasejici.md#radek-svarz)
-
-## DAOs: Teorie a praxe v BanklessDAO
-
-Speaker: [Rixcian](../prednasejici.md#rixcian)
-
-Nejdříve si povíme co jsou tzv. DAOs \(decentralizované autonomní organizace\), k čemu slouží a jak se liší od tradičních organizací. Hned po té si ale už prakticky řekneme, jak to funguje uvnitř BanklessDAO \(bDAO\), jejíž členem speaker je. bDAO je poměrně nová mezinárodní organizace dobrovolníků, kteří si dávají za cíl šířit osvětu o kryptoměnách a odpojení od tradičních fin. institucí. Povíme si něco i o nejzajímavějších projektech DAO, jako např. [BED Indexu](https://www.coingecko.com/en/coins/bankless-bed-index) nebo právě chystaném [Venture Capital DAO](https://forum.bankless.community/t/bankless-vc-dao-aka-fight-club-proposal/1432).
 
 ## BohemianDAO: podpořme lokální ekosystém
 
