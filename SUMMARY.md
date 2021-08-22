@@ -6,6 +6,7 @@
 * [Hlavní program](program/README.md)
   * [Přednášky](program/prednasky.md)
   * [Workshopy](program/workshopy/README.md)
+    * [Letem světem NFTs](program/workshopy/letem-svetem-nfts.md)
     * [Jak založit vlastní DAO](program/workshopy/jak-zalozit-vlastni-dao.md)
     * [Hackujeme DeFi arbitráže](program/workshopy/hackujeme-defi-arbitraze.md)
 * [Doprovodný program](doprovodny-program/README.md)

@@ -18,35 +18,41 @@ Všechny přednášky, workshopy a panelové diskuze budou v češtině nebo slo
 
 ## Seznam všech aktivit
 
+Informace o konkrétním čase a umístění aktivit, budou zveřejněny v průběhu září.
+
 ### Přednášky a panelové diskuze
+
+Na přednášky bude vyhrazený [Velký sál](../misto-konani.md#dostupne-prostory) \(100 lidí\) a [Malý sál](../misto-konani.md#dostupne-prostory) \(25 lidí\).
 
 | Název | Autor | Délka |
 | :--- | :--- | :--- |
 | **Proč potřebujeme DeFi?** | KryptoVláďa | 30m |
 | **Pět pilířů kryptoměn** | KryptoVláďa | 15m |
-| **Co sa mozme naucit z historia krypta?** | David Stancel | 30m |
+| **Čo sa môžme naučiť z historia krypta?** | David Stancel | 30m |
 | **Kognitivní zkreslení na Kryptoměnových trzích** | VeryVerum | 30m |
 | **MEV a ChainKeepers: Úžasná cesta světem DeFi** \([popis](prednasky.md#mev-a-chainkeepers-uzasna-cesta-svetem-defi)\) | Ondřej Vostal, Martin Vlach | 30m |
 | **P2P brána do světa kryptoměn** | Petr Klein | 15m |
 | **Seed investice do DeFi protokolů** | HomΞr Shillson | 30m |
+| **Představení CZ/SK NFT komunity** \([popis](prednasky.md#predstaveni-cz-sk-nft-komunity)\) | RΞSISTANCΞ | 15m |
 | **Decentralizovaná koruna** | Radek Švarz | 30m |
 | **Projekt: Darovací smlouva** | Radek Švarz | 15m |
-| **DAOs: Teorie a praxe v BanklessDAO** | rixcian | 30m |
+| **DAOs: Teorie a praxe v BanklessDAO** | Rixcian | 30m |
 | **BohemianDAO: podpořme lokální ekosystém** \([popis](prednasky.md#bohemiandao-podporme-lokalni-ekosystem)\) | Tree | 15m |
 | **To nejlepší ze Solana DeFi** \([popis](prednasky.md#to-nejlepsi-ze-solana-defi)\) | Michael Repetný | 30m |
 | **Hopiové deníky - Dystopické sny** \(CZ verze, projekce\) | Rekt | 15m |
-| ~NFT / CZ/SK NFT komunita | RΞSISTANCΞ | 30m |
 
 ### Workshopy
 
+Na workshopy bude připravený prostor [Zkušebny](../misto-konani.md#dostupne-prostory) \(25 lidí\) a [Klubovny](../misto-konani.md#dostupne-prostory) \(15 lidí\).
+
 | Název | Lektoři | Délka |
 | :--- | :--- | :--- |
-| **DeFi Toolkit: Nástroje pro práci s Ethereum síti** | Tree | 30m |
-| **Jak založit vlastní DAO** \([popis](workshopy/jak-zalozit-vlastni-dao.md)\) | Tree | 60m |
 | **Hackujeme DeFi arbitráže** \([popis](workshopy/hackujeme-defi-arbitraze.md)\) | Ondřej Vostal, Martin Vlach | 2x 45m |
+| **Jak založit vlastní DAO** \([popis](workshopy/jak-zalozit-vlastni-dao.md)\) | Tree | 60m |
 | **Jak na seed investice do DeFi protokolů** | HomΞr Shillson | 45m |
-| **Život na kryptoměnách** | KryptoVláďa | 60m |
-| ~NFT prakticky | RΞSISTANCΞ | 60m |
+| **Život bez fiatu** | KryptoVláďa | 60m |
+| **Letem světem NFTs** \([popis](workshopy/letem-svetem-nfts.md)\) | RΞSISTANCΞ | 1h 30m |
+| **DeFi Toolkit: Nástroje pro práci s Ethereum síti** | Tree | 30m |
 
 
 

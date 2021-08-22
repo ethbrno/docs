@@ -4,7 +4,7 @@ description: Workshop
 
 # Jak založit vlastní DAO
 
-Délka: **1 hodina**  
+Délka: **60 min**  
 Lektor: [Tree](../../prednasejici.md#tree)
 
 > Decentralizovaná autonomní organizace \(DAO\) je efektivní a bezpečný způsob spolupráce s podobně smýšlejícími lidmi po celém světě.
