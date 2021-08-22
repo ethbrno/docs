@@ -47,6 +47,7 @@ Potom kontaktujte náš organizační team - nejlépe na [Gwei.cz Discordu](http
 * \*\*\*\*[**tree**](https://twitter.com/treecz) \(Gwei.cz\) - kontaktování speakerů, marketing
 * **DavidBankless** \(Bankless.cz\) - financování
 * \*\*\*\*[**coinmandeer**](https://twitter.com/keenofcoin) \(Gwei.cz\) - grafika
+* \*\*\*\*[**rixcian**](https://twitter.com/rixcian) ****- doprovodný program
 
 
 
