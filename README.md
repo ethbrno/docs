@@ -19,7 +19,7 @@ Kapacita: **max 150 lidí**, viz [Dostupné prostory](misto-konani.md)
 Jazyk: **čeština/slovenština**  
 Vstupné: [**zdarma**](prakticke-informace/#vstupenky) \(nutnost rezervace - TBA\)
 
-Témata: **Ethereum, DeFi, NFT, DAO, Layer2 ..**
+Témata: **Ethereum, DeFi, Web3, DAO, NFT, Layer2 ...** \([Co tyhle zkratky znamenají?](https://komunita.gwei.cz/klicove-pojmy)\)
 
 Summit organizuje společnými silami [Bankless.cz](https://bankless.cz/) a [Gwei.cz](http://gwei.cz/).
 
@@ -47,6 +47,13 @@ Potom kontaktujte náš organizační team - nejlépe na [Gwei.cz Discordu](http
 * \*\*\*\*[**tree**](https://twitter.com/treecz) \(Gwei.cz\) - kontaktování speakerů, marketing
 * **DavidBankless** \(Bankless.cz\) - financování
 * \*\*\*\*[**coinmandeer**](https://twitter.com/keenofcoin) \(Gwei.cz\) - grafika
+* \*\*\*\*[**rixcian**](https://twitter.com/rixcian) ****- doprovodný program
+
+
+
+{% embed url="https://www.youtube.com/watch?v=YJVrnewNT88" %}
+
+
 
 
 
