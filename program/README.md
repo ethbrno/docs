@@ -34,9 +34,10 @@ Na přednášky bude vyhrazený [Velký sál](../misto-konani.md#dostupne-prosto
 | **P2P brána do světa kryptoměn** | Petr Klein | 15m |
 | **Seed investice do DeFi protokolů** | HomΞr Shillson | 30m |
 | **Představení CZ/SK NFT komunity** \([popis](prednasky.md#predstaveni-cz-sk-nft-komunity)\) | RΞSISTANCΞ | 15m |
+| **Gaming na blockchainu** \([popis](prednasky.md#gaming-na-blockchainu)\) | ETH Flenders | 30m |
 | **Decentralizovaná koruna** | Radek Švarz | 30m |
 | **Projekt: Darovací smlouva** | Radek Švarz | 15m |
-| **DAOs: Teorie a praxe v BanklessDAO** | Rixcian | 30m |
+| **DAOs: Teorie a praxe v BanklessDAO** \([popis](prednasky.md#daos-teorie-a-praxe-v-banklessdao)\) | Rixcian | 30m |
 | **BohemianDAO: podpořme lokální ekosystém** \([popis](prednasky.md#bohemiandao-podporme-lokalni-ekosystem)\) | Tree | 15m |
 | **To nejlepší ze Solana DeFi** \([popis](prednasky.md#to-nejlepsi-ze-solana-defi)\) | Michael Repetný | 30m |
 | **Hopiové deníky - Dystopické sny** \(CZ verze, projekce\) | Rekt | 15m |

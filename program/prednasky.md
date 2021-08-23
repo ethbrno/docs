@@ -40,6 +40,12 @@ Speaker: [RΞSISTANCΞ](../prednasejici.md#rkssistancks)
 
 Představení asi největšího nadšence NFT v České republice, [CZ/SK NFT komunity](https://discord.gg/KDDz6GCG) a pozvánka na navazující workshop. V krátkosti také o tom, co teď frčí, a o tom proč je NFT technologie pro dnešní umělce tak zajímavá.
 
+## Gaming na blockchainu
+
+Speaker: [ETH Flenders](../prednasejici.md#eth-flenders)
+
+Krátce bych představil aktuální stav v gamingu, hlavně co se týče Blizzardu a EA, jak fungují. Poté bych zmínil Axie, Sorare a God Unchained, ale nejvíce bych se chtěl potom věnovat Illuviu a na konci jenom zmínit pár dalších zajímavých projektů, co vznikají.
+
 ## Decentralizovaná koruna
 
 Speaker: [Radek Švarz](../prednasejici.md#radek-svarz)
