@@ -28,6 +28,10 @@ Homer se věnuje převážně DeFi se zaměřením na seed investice. \([twitter
 
 Tajemná osoba s tajemnou přezdívkou, která se věnuje tajemnému tématu NFT. A aby na to nebyl sám, tak si založil [CZ/SK NFT komunitu](https://discord.gg/FywYSvmmeJ) na Discordu, kde tyhle tajemnosti řeší. \([twitter](https://twitter.com/reesistancee)\)
 
+## ETH Flenders
+
+Poctivý farmář a uživatel DeFi. Bývalý vášnivý hráč World of Warcraft a League of Legends, čekající na příchod podobné hry do decentralizovaného prostředí. \([twitter](https://twitter.com/flendersneth)\)
+
 ## VeryVerum
 
 Investor a spekulant s kryptoměnami od roku 2013. \([twitter](https://twitter.com/VeryVerum)\)
@@ -40,7 +44,7 @@ Libertarián, který se celý život věnuje vývoji aplikací a systémů, nad�
 
 ## Rixcian
 
-\([twitter](https://twitter.com/rixcian)\)
+Spoluzakladatel [BanklessCZ](https://bankless.cz/)🏴, člen [Gwei.cz](https://gwei.cz/) a [BanklessDAO](https://bankless.community/)🏴 komunity. Rád programuje, a to jak za peníze, tak i ve svém volném čase. Fanoušek všech technologií, které přispívají ke větší svobodě jednotlivce \(kryptoanarchista\). \([twitter](https://twitter.com/rixcian)\)
 
 ## Michael Repetný
 
