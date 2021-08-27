@@ -4,6 +4,8 @@ description: 'Sobota 9.10.2021 - Komunitní centrum Skála, Brno'
 
 # ETHBrno 2021
 
+![](.gitbook/assets/ethbrno%20%281%29.png)
+
 **Otevřená komunitní konference a setkání příznivců** [**decentralizovaných financí a smart-kontraktů**](https://komunita.gwei.cz/klicove-pojmy)**.**
 
 [Hlavní program](program/) plný přednášek a workshopů bude probíhat v **sobotu 9. října** v [Komunitním centru Skála](misto-konani.md#komunitni-centrum-skala), ale [doprovodný program](doprovodny-program/) připravujeme na celý víkend \(8 - 10. října\).
