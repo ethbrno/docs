@@ -4,6 +4,10 @@ description: Seznam všech přednášek a jejich stručný popis
 
 # Přednášky
 
+## Čo sa môžme naučiť z historia krypta?
+
+Speaker: [David Stancel](../prednasejici.md#david-stancel)
+
 ## Proč potřebujeme DeFi?
 
 Speaker: [KryptoVláďa](../prednasejici.md#kryptovlada)
@@ -11,10 +15,6 @@ Speaker: [KryptoVláďa](../prednasejici.md#kryptovlada)
 ## Pět pilířů kryptoměn
 
 Speaker: [KryptoVláďa](../prednasejici.md#kryptovlada)
-
-## Čo sa môžme naučiť z historia krypta?
-
-Speaker: [David Stancel](../prednasejici.md#david-stancel)
 
 ## Kognitivní zkreslení na Kryptoměnových trzích
 
