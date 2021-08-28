@@ -1,12 +1,6 @@
 # Sponzoři & partneři
 
-## Sponzoři
-
-Chcete akci sponzorovat? Děláte něco zajímavého, co by se dalo s ETHBrno spojit?
-
-Ozvěte se někomu z [Organizačního teamu](./#organizacni-team).
-
-## Partneři
+## Hlavní partneři
 
 ### Bankless.cz
 
@@ -15,4 +9,24 @@ Ozvěte se někomu z [Organizačního teamu](./#organizacni-team).
 ### Gwei.cz
 
 {% embed url="http://gwei.cz/" %}
+
+## Sponzoři
+
+Chcete akci sponzorovat? Děláte něco zajímavého, co by se dalo s ETHBrno spojit?
+
+Ozvěte se někomu z [Organizačního teamu](./#organizacni-team).
+
+## Mediální partneři
+
+### KryptoVláďa
+
+{% embed url="https://www.kryptovlada.win/" %}
+
+### Holky v kryptu
+
+{% embed url="https://holkyvkryptu.cz/" %}
+
+
+
+
 
