@@ -14,6 +14,9 @@
 * [Praktické informace](prakticke-informace/README.md)
   * [Doprava](prakticke-informace/doprava.md)
   * [Ubytování](prakticke-informace/ubytovani.md)
-* [Sponzoři](sponzori.md)
-* [Partneři](partneri.md)
+* [Sponzoři & partneři](sponzori.md)
+
+## Info in English
+
+* [ETHBrno 2021 🇬🇧](info-in-english/ethbrno-2021.md)
 

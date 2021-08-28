@@ -19,9 +19,9 @@ ETHBrno je v současné době ve fázi příprav a veškeré informace uvedené 
 ## Sobota 9.10.2021 \(celý den\)
 
 Místo: [**Komunitní centrum Skála**](misto-konani.md)**, Brno, Czech Republic**🇨🇿 ****  
-Kapacita: **max 150 lidí**, viz [Dostupné prostory](misto-konani.md)  
+Kapacita: **max ~200 lidí**, viz [Dostupné prostory](misto-konani.md)  
 Jazyk: **čeština/slovenština**  
-Vstupné: [**zdarma**](prakticke-informace/#vstupenky) \(nutnost rezervace - TBA\)  
+Vstupné: [**zdarma**](prakticke-informace/#vstupenky) \(nutnost rezervace - 180 vstupenek - TBA\)  
 Facebook událost: [https://www.facebook.com/events/1776160472585758](https://www.facebook.com/events/1776160472585758)
 
 Témata: **Ethereum, DeFi, Web3, DAO, NFT, Layer2 ...** \([Co tyhle zkratky znamenají?](https://komunita.gwei.cz/klicove-pojmy)\)
