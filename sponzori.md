@@ -12,6 +12,14 @@
 
 ## Sponzoři
 
+### **MakerDAO**
+
+{% embed url="https://makerdao.com/en/" %}
+
+### **PWN Finance**
+
+{% embed url="https://pwn.finance/" %}
+
 Chcete akci sponzorovat? Děláte něco zajímavého, co by se dalo s ETHBrno spojit?
 
 Ozvěte se někomu z [Organizačního teamu](./#organizacni-team).
