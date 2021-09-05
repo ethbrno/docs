@@ -4,7 +4,7 @@ description: Bez nich by nic nebylo
 
 # Sponzoři & partneři
 
-## Hlavní partneři
+## Organizátoři
 
 ### Bankless.cz
 
