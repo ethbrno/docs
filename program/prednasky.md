@@ -1,8 +1,10 @@
 ---
-description: Seznam všech přednášek a jejich stručný popis
+description: Detaily všech přednášek
 ---
 
 # Přednášky
+
+Tabulku s přehledem všem přednášek, najdete na stránce [Hlavní program](./). Zde si můžete přečíst jejich krátký popis.
 
 ## Čo sa môžme naučiť z historia krypta?
 
