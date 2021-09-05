@@ -49,6 +49,7 @@ Na workshopy bude připravený prostor [Zkušebny](../misto-konani.md#dostupne-p
 | Název | Lektoři | Délka |
 | :--- | :--- | :--- |
 | **Hackujeme DeFi arbitráže** \([popis](workshopy/hackujeme-defi-arbitraze.md)\) | Ondřej Vostal, Martin Vlach | 2x 45m |
+| **Rozšíření GETHu o pendingLogs websocket subscription** \([popis](workshopy/rozsireni-gethu-o-pendinglogs-websocket-subscription.md)\) | Ondřej Vostal | 45m |
 | **Jak založit vlastní DAO** \([popis](workshopy/jak-zalozit-vlastni-dao.md)\) | Tree | 60m |
 | **Jak na seed investice do DeFi protokolů** | HomΞr Shillson | 45m |
 | **Život bez fiatu** | KryptoVláďa | 60m |
