@@ -16,6 +16,7 @@
   * [Doprava](prakticke-informace/doprava.md)
   * [Ubytování](prakticke-informace/ubytovani.md)
 * [Sponzoři & partneři](sponzori.md)
+* [Media Kit](media-kit.md)
 
 ## Info in English
 
