@@ -14,7 +14,7 @@ Bývalý televizní reportér - nyní [nadšený YouTuber](https://www.youtube.c
 
 ## Ondřej Vostal
 
-Matematik a ekonom, který tíhne k uskutečňování datově orientovaných strategií na finančních trzích. Má bohaté zkušenosti z TradFi v oblasti arbitráží a market-making, drive a touhu globálně excelovat. Největší tahoun týmu [ChainKeepers](https://www.chainkeepers.io/) s ambicí stát se významnými DeFi a DEx keepery. Na ETHBrno představí úžasný svět MEV, DeFi likvidací a arbitráží. Otevřený návrhům a myšlenkám a kontaktu. \([linkedin](https://www.linkedin.com/in/ondrej-vostal/)\)
+Matematik a ekonom, který tíhne k uskutečňování datově orientovaných strategií na finančních trzích. Má bohaté zkušenosti z TradFi v oblasti arbitráží a market-making, drive a touhu globálně excelovat. Zakladatel [ChainKeepers](https://www.chainkeepers.io/) týmu s ambicí stát se významnými DeFi a DEx keepery. Na ETHBrno představí úžasný svět MEV, DeFi likvidací a arbitráží. Otevřený návrhům a myšlenkám a kontaktu. \([linkedin](https://www.linkedin.com/in/ondrej-vostal/)\)
 
 ## Martin Vlach
 
