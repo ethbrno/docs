@@ -48,6 +48,10 @@ Speaker: [ETH Flenders](../prednasejici.md#eth-flenders)
 
 Krátce bych představil aktuální stav v gamingu, hlavně co se týče Blizzardu a EA, jak fungují. Poté bych zmínil Axie, Sorare a God Unchained, ale nejvíce bych se chtěl potom věnovat Illuviu a na konci jenom zmínit pár dalších zajímavých projektů, co vznikají.
 
+## Ekonomie 2.0
+
+Speaker: [m0xt](../prednasejici.md#m-0-xt)
+
 ## Decentralizovaná koruna
 
 Speaker: [Radek Švarz](../prednasejici.md#radek-svarz)

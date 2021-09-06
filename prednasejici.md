@@ -32,6 +32,10 @@ Tajemná osoba s tajemnou přezdívkou, která se věnuje tajemnému tématu NFT
 
 Poctivý farmář a uživatel DeFi. Bývalý vášnivý hráč World of Warcraft a League of Legends, čekající na příchod podobné hry do decentralizovaného prostředí. \([twitter](https://twitter.com/flendersneth)\)
 
+## m0xt
+
+Filozofický ekonom a bývalý trader/investor na tradičních trzích. \([twitter](https://twitter.com/m0xt_)\)
+
 ## VeryVerum
 
 Investor a spekulant s kryptoměnami od roku 2013. \([twitter](https://twitter.com/VeryVerum)\)
