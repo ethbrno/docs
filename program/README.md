@@ -30,7 +30,7 @@ Na přednášky bude vyhrazený [Velký sál](../misto-konani.md#dostupne-prosto
 | **Proč potřebujeme DeFi?** | KryptoVláďa | 30m |
 | **Pět pilířů kryptoměn** | KryptoVláďa | 15m |
 | **Kognitivní zkreslení na Kryptoměnových trzích** | VeryVerum | 30m |
-| **MEV a ChainKeepers: Úžasná cesta světem DeFi** \([popis](prednasky.md#mev-a-chainkeepers-uzasna-cesta-svetem-defi)\) | Ondřej Vostal, Martin Vlach | 30m |
+| **MEV a ChainKeepers: Úžasná cesta světem DeFi** \([popis](prednasky.md#mev-a-chainkeepers-úžasná-cesta-světem-defi)\) | Ondřej Vostal, Martin Vlach | 30m |
 | **P2P brána do světa kryptoměn** | Petr Klein | 15m |
 | **Seed investice do DeFi protokolů** | HomΞr Shillson | 30m |
 | **Představení CZ/SK NFT komunity** \([popis](prednasky.md#predstaveni-cz-sk-nft-komunity)\) | RΞSISTANCΞ | 15m |

@@ -24,7 +24,7 @@ Speaker: [VeryVerum](../prednasejici.md#veryverum)
 
 ## MEV a ChainKeepers: Úžasná cesta světem DeFi
 
-Speakeři: [Ondřej Vostal](../prednasejici.md#ondrej-vostal), [Martin Vlach](../prednasejici.md#martin-vlach)
+Speakeři: [Ondřej Vostal](../prednasejici.md#ondřej-vostal), [Martin Vlach](../prednasejici.md#martin-vlach)
 
 Co je Miner Extractible Value a kde se nachází, proč některou MEV potřebujeme a podporujeme, jaké MEV příležitosti nám DeFi protokoly nabízejí a jak k nim v [ChainKeepers](https://www.chainkeepers.io/) přistupujeme, k čemu se chystáme a koho k tomu chceme vzít do party.
 
