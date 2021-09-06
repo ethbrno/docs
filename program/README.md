@@ -35,6 +35,7 @@ Na přednášky bude vyhrazený [Velký sál](../misto-konani.md#dostupne-prosto
 | **Seed investice do DeFi protokolů** | HomΞr Shillson | 30m |
 | **Představení CZ/SK NFT komunity** \([popis](prednasky.md#predstaveni-cz-sk-nft-komunity)\) | RΞSISTANCΞ | 15m |
 | **Gaming na blockchainu** \([popis](prednasky.md#gaming-na-blockchainu)\) | ETH Flenders | 30m |
+| **Ekonomie 2.0** | m0xt | 30m |
 | **Decentralizovaná koruna** | Radek Švarz | 30m |
 | **Projekt: Darovací smlouva** | Radek Švarz | 15m |
 | **DAOs: Teorie a praxe v BanklessDAO** \([popis](prednasky.md#daos-teorie-a-praxe-v-banklessdao)\) | Rixcian | 30m |
