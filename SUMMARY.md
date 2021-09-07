@@ -2,7 +2,8 @@
 
 * [ETHBrno 2021](README.md)
 * [Přednášející](prednasejici.md)
-* [Místo konání](misto-konani.md)
+* [Místo konání](misto-konani/README.md)
+  * [Kam se můžete těšit](misto-konani/kam-se-muzete-tesit.md)
 * [Hlavní program](program/README.md)
   * [Přednášky](program/prednasky.md)
   * [Workshopy](program/workshopy/README.md)

@@ -13,9 +13,9 @@ Webové stránky: [Komunitním centru Skála](https://novy-liskovec.cz/komunitni
 
 ♿Celý areál komunitního centra je bezbariérově přístupný.
 
-Jak se na místo dostat, naleznete v sekci [Doprava](prakticke-informace/doprava.md).
+Jak se na místo dostat, naleznete v sekci [Doprava](../prakticke-informace/doprava.md).
 
-![](.gitbook/assets/kc-skala.jpeg)
+![](../.gitbook/assets/kc-skala.jpeg)
 
 ## Dostupné prostory
 
@@ -36,15 +36,15 @@ Jak se na místo dostat, naleznete v sekci [Doprava](prakticke-informace/doprava
 
 {% tabs %}
 {% tab title="1. nadzemní podlaží" %}
-![](.gitbook/assets/kc-skala-1np%20%281%29.jpeg)
+![](../.gitbook/assets/kc-skala-1np%20%281%29.jpeg)
 {% endtab %}
 
 {% tab title="1. podzemní podlaží" %}
-![](.gitbook/assets/kc-skala-1pp.jpeg)
+![](../.gitbook/assets/kc-skala-1pp.jpeg)
 {% endtab %}
 
 {% tab title="2. nadzemní podlaží" %}
-![](.gitbook/assets/kc-skala-2np.jpeg)
+![](../.gitbook/assets/kc-skala-2np.jpeg)
 {% endtab %}
 {% endtabs %}
 

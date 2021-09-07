@@ -10,7 +10,7 @@ TBA
 
 ## Sobota 9. října
 
-Hlavní den ETHBrno, během kterého probíhá [hlavní program](../program/) v [Komunitním centru Skála](../misto-konani.md).
+Hlavní den ETHBrno, během kterého probíhá [hlavní program](../program/) v [Komunitním centru Skála](../misto-konani/).
 
 ### 22:00 \| Afterparty
 
