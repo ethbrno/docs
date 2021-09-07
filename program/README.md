@@ -22,7 +22,7 @@ Informace o konkrétním čase a umístění aktivit, budou zveřejněny v průb
 
 ### Přednášky a panelové diskuze
 
-Na přednášky bude vyhrazený [Velký sál](../misto-konani.md#dostupne-prostory) \(100 lidí\) a [Malý sál](../misto-konani.md#dostupne-prostory) \(25 lidí\).
+Na přednášky bude vyhrazený [Velký sál](../misto-konani/#dostupne-prostory) \(100 lidí\) a [Malý sál](../misto-konani/#dostupne-prostory) \(25 lidí\).
 
 | Název | Autor | Délka |
 | :--- | :--- | :--- |
@@ -45,7 +45,7 @@ Na přednášky bude vyhrazený [Velký sál](../misto-konani.md#dostupne-prosto
 
 ### Workshopy
 
-Na workshopy bude připravený prostor [Zkušebny](../misto-konani.md#dostupne-prostory) \(25 lidí\) a [Klubovny](../misto-konani.md#dostupne-prostory) \(15 lidí\).
+Na workshopy bude připravený prostor [Zkušebny](../misto-konani/#dostupne-prostory) \(25 lidí\) a [Klubovny](../misto-konani/#dostupne-prostory) \(15 lidí\).
 
 | Název | Lektoři | Délka |
 | :--- | :--- | :--- |

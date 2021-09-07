@@ -6,7 +6,7 @@ description: '9.10.2021, Information in english'
 
 **An open community conference and meeting for supporters of decentralised finance and smart contracts.**
 
-The main programme full of [talks and workshops](../program/) will take place on **Saturday, 9 October 2021** at the [Skála Community Centre](../misto-konani.md) in Brno, Czech Republic. Also we are preparing an accompanying programme for the whole weekend \(8 - 10 October\).
+The main programme full of [talks and workshops](../program/) will take place on **Saturday, 9 October 2021** at the [Skála Community Centre](../misto-konani/) in Brno, Czech Republic. Also we are preparing an accompanying programme for the whole weekend \(8 - 10 October\).
 
 Capacity: **max 200 people**  
 Language: **czech/slovak**  
