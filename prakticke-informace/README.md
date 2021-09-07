@@ -20,6 +20,10 @@ Vstupné je **zdarma**, ale kvůli nízké kapacitě bude jen omezený počet vs
 * [Apartmány \(Airbnb\)](ubytovani.md#apartmany-airbnb)
 * [Hotely](ubytovani.md#hotely)
 
+## Parkování
+
+Zaparkujete u nás jednoduše na volných místech přímo před komunitním centrem skála, nebo na přilehlých parkovištích
+
 ## Občerstvení
 
 TODO
