@@ -1,5 +1,5 @@
 ---
-description: 'aneb, jak to u nás vypadá'
+description: 'Aneb, jak to u nás vypadá'
 ---
 
 # Kam se můžete těšit
