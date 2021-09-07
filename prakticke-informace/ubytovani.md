@@ -8,7 +8,7 @@ description: Seznam hotelů a možností ubytování v blízkém okolí
 
 Pokud hledáte ubytování pro více osob, pak nejekonomičtější variantou je pronajmutí celého bytu na platformě [Airbnb](https://www.airbnb.cz/).
 
-## Hotely
+## Hotely a penziony
 
 ### **Hotel Myslivna \(v docházkové vzdálenosti - cca 15 min\)**
 
