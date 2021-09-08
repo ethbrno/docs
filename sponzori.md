@@ -16,6 +16,10 @@ description: Bez nich by nic nebylo
 
 ## Sponzoři
 
+### Road to Devcon grants
+
+![](.gitbook/assets/eth-rtd-badge-lightblue-darkblue.png)
+
 ### **MakerDAO**
 
 {% embed url="https://makerdao.com/en/" %}
