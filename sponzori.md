@@ -32,6 +32,10 @@ description: Bez nich by nic nebylo
 
 ![https://www.skovo.cz/](.gitbook/assets/117766995_242057113543421_5918718139505810789_n.png)
 
+### Anycoin.cz
+
+![](.gitbook/assets/anycoin.svg)
+
 Chcete akci sponzorovat? Děláte něco zajímavého, co by se dalo s ETHBrno spojit?  
 Ozvěte se někomu z [Organizačního teamu](./#organizacni-team).
 
