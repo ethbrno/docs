@@ -10,18 +10,12 @@ description: 'Sobota 9.10.2021 - Komunitní centrum Skála, Brno'
 
 [Hlavní program](program/) plný přednášek a workshopů bude probíhat v **sobotu 9. října** v [Komunitním centru Skála](misto-konani/#komunitni-centrum-skala), ale [doprovodný program](doprovodny-program/) připravujeme na celý víkend \(8 - 10. října\).
 
-{% hint style="warning" %}
-ETHBrno je v současné době ve fázi příprav a veškeré informace uvedené na tomto webu jsou předběžné. Potvrzený je jen termín a místo konání.  
-  
-**Finální program a informace o distribuci vstupenek očekávejte na začátku září.**
-{% endhint %}
-
 ## Sobota 9.10.2021 \(celý den\)
 
 Místo: [**Komunitní centrum Skála**](misto-konani/)**, Brno, Czech Republic**🇨🇿 ****  
 Kapacita: **max ~200 lidí**, viz [Dostupné prostory](misto-konani/)  
 Jazyk: **čeština/slovenština**  
-Vstupné: [**zdarma**](prakticke-informace/#vstupenky) \(nutnost rezervace - 180 vstupenek - TBA\)  
+Vstupné: [**zdarma**](prakticke-informace/#vstupenky)  
 Facebook událost: [https://www.facebook.com/events/1776160472585758](https://www.facebook.com/events/1776160472585758)
 
 Témata: **Ethereum, DeFi, Web3, DAO, NFT, Layer2 ...** \([Co tyhle zkratky znamenají?](https://komunita.gwei.cz/klicove-pojmy)\)
