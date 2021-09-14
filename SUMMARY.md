@@ -1,6 +1,7 @@
 # Table of contents
 
 * [ETHBrno 2021](README.md)
+* [Vstupenky](https://ethbrno-ticketing.gwei.cz/)
 * [Přednášející](prednasejici.md)
 * [Místo konání](misto-konani/README.md)
   * [Kam se můžete těšit](misto-konani/kam-se-muzete-tesit.md)
