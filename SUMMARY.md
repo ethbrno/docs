@@ -15,6 +15,7 @@
 * [Doprovodný program](doprovodny-program/README.md)
   * [Gwei.cz Hackathon](doprovodny-program/gwei.cz-hackathon.md)
 * [Praktické informace](prakticke-informace/README.md)
+  * [Covid Opatření](prakticke-informace/covid-opatreni.md)
   * [Doprava](prakticke-informace/doprava.md)
   * [Ubytování](prakticke-informace/ubytovani.md)
 * [Sponzoři & partneři](sponzori.md)
