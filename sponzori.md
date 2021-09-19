@@ -30,7 +30,7 @@ description: Bez nich by nic nebylo
 
 ### Skovo.CZ
 
-![https://www.skovo.cz/](.gitbook/assets/117766995_242057113543421_5918718139505810789_n.png)
+![](.gitbook/assets/skovo.png)
 
 ### Anycoin.cz
 
