@@ -78,3 +78,13 @@ Speaker: [Michael Repetný](../prednasejici.md#michael-repetny)
 
 Vysvětlíme si, jak [Solana](https://solana.com/) funguje a čím se liší od Etherea. Zjistíte, co je to liquid staking a jak ho využít k zabezpečení sítě a zároveň vyšším výnosům v DeFi. Nakouknete také pod pokličku projektu s českou stopou - [Marinade.finance](https://marinade.finance/) \(MNDE\).
 
+## **Psychologie Mainstreamové Adopce**
+
+Speaker: Štěpán Fau
+
+Podíváme se na charakteristiku mainstreamového uživatele a zjistíme, jak pro něj postavit appku, která ho vtáhne do světa DeFi a už nikdy nepustí zpátky.
+
+## Crypto Mortgages
+
+Speaker: Josef J
+
