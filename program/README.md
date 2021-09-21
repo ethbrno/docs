@@ -29,9 +29,12 @@ Na přednášky bude vyhrazený [Velký sál](../misto-konani/#dostupne-prostory
 | **Čo sa môžme naučiť z historia krypta?** | David Stancel | 30m |
 | **Proč potřebujeme DeFi?** | KryptoVláďa | 30m |
 | **Pět pilířů kryptoměn** | KryptoVláďa | 15m |
+| **5 Oblastí, které kryptoměny v dohledné době promění** | Adam Kracík | 30m |
+| **Smart kontrakt platformy mění způsob, jakým v digitálním prostředí fungujeme** \([popis](prednasky.md#smart-kontrakt-platformy-meni-zpusob-jakym-v-digitalnim-prostredi-fungujeme)\) | Adam Kracík | 30m |
+| **Psychologie Mainstreamové Adopce** \([popis](prednasky.md#psychologie-mainstreamove-adopce)\) | Štěpán Fau | 45m |
+| **Crypto Mortgages** \(Krypto hypotéky\) | Josef J | 30m |
 | **Kognitivní zkreslení na Kryptoměnových trzích** | VeryVerum | 30m |
 | **MEV a ChainKeepers: Úžasná cesta světem DeFi** \([popis](prednasky.md#mev-a-chainkeepers-uzasna-cesta-svetem-defi)\) | Ondřej Vostal, Martin Vlach | 30m |
-| **P2P brána do světa kryptoměn** | Petr Klein | 15m |
 | **Seed investice do DeFi protokolů** | HomΞr Shillson | 30m |
 | **Představení CZ/SK NFT komunity** \([popis](prednasky.md#predstaveni-cz-sk-nft-komunity)\) | RΞSISTANCΞ | 15m |
 | **Gaming na blockchainu** \([popis](prednasky.md#gaming-na-blockchainu)\) | ETH Flenders | 30m |
@@ -42,8 +45,6 @@ Na přednášky bude vyhrazený [Velký sál](../misto-konani/#dostupne-prostory
 | **BohemianDAO: podpořme lokální ekosystém** \([popis](prednasky.md#bohemiandao-podporme-lokalni-ekosystem)\) | Tree | 15m |
 | **To nejlepší ze Solana DeFi** \([popis](prednasky.md#to-nejlepsi-ze-solana-defi)\) | Michael Repetný | 30m |
 | **Hopiové deníky - Dystopické sny** \(CZ verze, projekce\) | Rekt | 15m |
-| **Psychologie Mainstreamové Adopce** | Štěpán Fau | 45m |
-| **Crypto Mortgages** \(Krypto hypotéky\) | Josef J | 30m |
 
 ### Workshopy
 
