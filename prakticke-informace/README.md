@@ -6,7 +6,9 @@ description: Užitečné informace pro návštěvníky
 
 ## Vstupenky
 
-Vstupné je **zdarma**, ale kvůli nízké kapacitě bude jen omezený počet vstupenek. Na začátku září spustíme systém, kde si budete moci vstupenku zarezervovat. Vše se včas dozvíte.
+Vstupné je **zdarma**, ale kvůli nízké kapacitě je jen omezený počet vstupenek.
+
+Systém rezervace vstupenek: [https://ethbrno-ticketing.gwei.cz/](https://ethbrno-ticketing.gwei.cz/)
 
 ## Doprava
 
