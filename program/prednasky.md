@@ -80,11 +80,11 @@ Vysvětlíme si, jak [Solana](https://solana.com/) funguje a čím se liší od 
 
 ## **Psychologie Mainstreamové Adopce**
 
-Speaker: Štěpán Fau
+Speaker: [Štěpán Fau](https://ethbrno.gwei.cz/prednasejici#stepan-fau)
 
 Podíváme se na charakteristiku mainstreamového uživatele a zjistíme, jak pro něj postavit appku, která ho vtáhne do světa DeFi a už nikdy nepustí zpátky.
 
 ## Crypto Mortgages
 
-Speaker: Josef J
+Speaker: [Josef J](https://ethbrno.gwei.cz/prednasejici#josef-j)
 
