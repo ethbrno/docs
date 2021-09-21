@@ -12,6 +12,10 @@ Dávid vyštudoval Ekonómiu na Masarykovej univerzite v Brne, a Master of Scien
 
 Bývalý televizní reportér - nyní [nadšený YouTuber](https://www.youtube.com/channel/UC827_PQYRRGxvqtN7Bh2yaQ) z plzeňska, kterého baví experimentování s DeFi a životem mimo svět tradičních financí. \([twitter](https://twitter.com/PinkerVladimir)\)
 
+## Adam Kracík
+
+Nezávislý žurnalista a kryptoměnový analytik.
+
 ## Ondřej Vostal
 
 Matematik a ekonom, který tíhne k uskutečňování datově orientovaných strategií na finančních trzích. Má bohaté zkušenosti z TradFi v oblasti arbitráží a market-making, drive a touhu globálně excelovat. Zakladatel [ChainKeepers](https://www.chainkeepers.io/) týmu s ambicí stát se významnými DeFi a DEx keepery. Na ETHBrno představí úžasný svět MEV, DeFi likvidací a arbitráží. Otevřený návrhům a myšlenkám a kontaktu. \([linkedin](https://www.linkedin.com/in/ondrej-vostal/)\)

@@ -18,6 +18,26 @@ Speaker: [KryptoVláďa](../prednasejici.md#kryptovlada)
 
 Speaker: [KryptoVláďa](../prednasejici.md#kryptovlada)
 
+## 5 Oblastí, které kryptoměny v dohledné době promění
+
+Speaker: [Adam Kracík](../prednasejici.md#adam-kracik)
+
+## Smart kontrakt platformy mění způsob, jakým v digitálním prostředí fungujeme
+
+Speaker: [Adam Kracík](../prednasejici.md#adam-kracik)
+
+Jejich dopad je zatím relativně malý pro obecnou společnost. To se nicméně v brzké době s největší pravděpodobností změní. V rámci přednášky se podíváme na to, jak se tyto oblasti budou proměňovat, jaké za tím stojí důvody a co bude výsledkem takové transformace.
+
+## **Psychologie Mainstreamové Adopce**
+
+Speaker: [Štěpán Fau](https://ethbrno.gwei.cz/prednasejici#stepan-fau)
+
+Podíváme se na charakteristiku mainstreamového uživatele a zjistíme, jak pro něj postavit appku, která ho vtáhne do světa DeFi a už nikdy nepustí zpátky.
+
+## Crypto Mortgages
+
+Speaker: [Josef J](https://ethbrno.gwei.cz/prednasejici#josef-j)
+
 ## Kognitivní zkreslení na Kryptoměnových trzích
 
 Speaker: [VeryVerum](../prednasejici.md#veryverum)
@@ -77,14 +97,4 @@ Speaker: [Tree](../prednasejici.md#tree)
 Speaker: [Michael Repetný](../prednasejici.md#michael-repetny)
 
 Vysvětlíme si, jak [Solana](https://solana.com/) funguje a čím se liší od Etherea. Zjistíte, co je to liquid staking a jak ho využít k zabezpečení sítě a zároveň vyšším výnosům v DeFi. Nakouknete také pod pokličku projektu s českou stopou - [Marinade.finance](https://marinade.finance/) \(MNDE\).
-
-## **Psychologie Mainstreamové Adopce**
-
-Speaker: [Štěpán Fau](https://ethbrno.gwei.cz/prednasejici#stepan-fau)
-
-Podíváme se na charakteristiku mainstreamového uživatele a zjistíme, jak pro něj postavit appku, která ho vtáhne do světa DeFi a už nikdy nepustí zpátky.
-
-## Crypto Mortgages
-
-Speaker: [Josef J](https://ethbrno.gwei.cz/prednasejici#josef-j)
 
