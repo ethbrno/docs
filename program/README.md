@@ -42,6 +42,8 @@ Na přednášky bude vyhrazený [Velký sál](../misto-konani/#dostupne-prostory
 | **BohemianDAO: podpořme lokální ekosystém** \([popis](prednasky.md#bohemiandao-podporme-lokalni-ekosystem)\) | Tree | 15m |
 | **To nejlepší ze Solana DeFi** \([popis](prednasky.md#to-nejlepsi-ze-solana-defi)\) | Michael Repetný | 30m |
 | **Hopiové deníky - Dystopické sny** \(CZ verze, projekce\) | Rekt | 15m |
+| **Psychologie Mainstreamové Adopce** | Štěpán Fau | 30m |
+| **Crypto Mortgages** \(Krypto hypotéky\) | Josef J | 30m |
 
 ### Workshopy
 

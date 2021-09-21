@@ -58,3 +58,11 @@ Ex-startupista, vývojář [Marinade.finance](https://marinade.finance/) - liqui
 
 Občasný programátor, který se ve volných chvílích věnuje [Gwei.cz](https://gwei.cz) komunitě, kterou spoluzaložil. Je to nadšenec do Etherea a propagátor nových technologií. \([twitter](https://twitter.com/treecz)\)
 
+## Josef J
+
+V krypto letech je Josef starý a moudrý jako Metuzalém. Začínal jako dobrovolník a komunitní organizátor. Přes DeFi projekty a hackathony se propracoval až k založení PWN.finance: DeFi platformy na peer-to-peer půjčky. \([twitter](https://twitter.com/JosefJ_)\)
+
+## Štěpán Fau
+
+V roce 2017 se během kurzu “blockchain & smart contracts” naprosto zamiloval do Etherea. Dlouhodobě se zabývá zlepšováním UX DeFi aplikací. Přes produktové role se dostal až k aktuálnímu angažmá: Založení PWN.finance, DeFi platformy na peer-to-peer půjčky. \([twitter](https://twitter.com/steve_fau)\)
+
