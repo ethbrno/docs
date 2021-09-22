@@ -58,6 +58,12 @@ Libertarián, který se celý život věnuje vývoji aplikací a systémů, nad�
 
 ## Radek Švarz
 
+Radek pracoval přes 17 let pro TradFi \(banky\) v různých externích a IT manažerských pozicích. Řídil např. systémovou integraci při změně core banking systému, v posledních letech se věnoval celkové business/IT architektuře bank.
+
+Užívá si posouvání hranic použitím cutting-edge technologií, kde se propojuje business a IT - aktuálně mimo jiné jako advisor projektu Alzheimerchain \( [https://www.alzheimerchain.com/](https://www.alzheimerchain.com/) \). 
+
+Od 2017 věří, že ČR je celosvětově velice silné v crypto engineeringu a rád by, aby nezahodilo šanci být tahounem crypto odvětví v Evropě.
+
 ## Rixcian
 
 Spoluzakladatel [BanklessCZ](https://bankless.cz/)🏴, člen [Gwei.cz](https://gwei.cz/) a [BanklessDAO](https://bankless.community/)🏴 komunity. Rád programuje, a to jak za peníze, tak i ve svém volném čase. Fanoušek všech technologií, které přispívají ke větší svobodě jednotlivce \(kryptoanarchista\). \([twitter](https://twitter.com/rixcian)\)
