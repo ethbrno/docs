@@ -74,9 +74,13 @@ Speaker: [m0xt](../prednasejici.md#m-0-xt)
 
 ## Decentralizovaná koruna
 
+Stablecoiny mají v kryptu své místo. Ostatně na to myslí i připravované regulace. Má ovšem smysl i stablecoin reprezentující Českou korunu? Probereme historii CZK stablecoinu, k čemu a komu by byl užitečný. Podíváme se i na možnosti realizace a související rizika.
+
 Speaker: [Radek Švarz](../prednasejici.md#radek-svarz)
 
 ## Projekt: Darovací smlouva
+
+Chcete darovat své krypto dětem, sourozencům, prostě v rodině, či někomu jinému? Jak to udělat právně a daňově dobře, aby obdarovávaný neměl v budoucnu problémy? Proto vznikl projekt - chatbot, který pomůže uživateli probrat alternativy darování a dle rozhodnutí generovat odpovídající smlouvy k podpisu.
 
 Speaker: [Radek Švarz](../prednasejici.md#radek-svarz)
 
