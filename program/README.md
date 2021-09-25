@@ -61,3 +61,9 @@ Na workshopy bude připravený prostor [Zkušebny](../misto-konani/#dostupne-pro
 | **Letem světem NFTs** \([popis](workshopy/letem-svetem-nfts.md)\) | RΞSISTANCΞ | 1h 30m |
 | **DeFi Toolkit: Nástroje pro práci s Ethereum síti** | Tree | 30m |
 
+### Další akce
+
+#### BrightID "Connection Party"
+
+Pokud ještě nejste verifikovaní na [BrightID](https://www.brightid.org/), pak běheme akce zorganizuje cca 2-3 sezení, kde se budete moci ověřit.
+

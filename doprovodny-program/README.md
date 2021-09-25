@@ -28,3 +28,12 @@ Po náročné sobotě přijde relax a společné grilování na čerstvém vzduc
 
 Nedělní odpoledne můžete strávit na [Gwei.cz](https://gwei.cz) hackathonu a pomoci s tvorbou lokálních edukačních materiálů a dalších našich projektů. Místo bude oznámeno.
 
+## Pondělí 11. října
+
+### 9:00 - 19:00 \| Inkubátor offline
+
+Hackaton, kde se budeme věnovat našim společným projektům, viz níže. Místo konání a další informace budou oznámeny.
+
+* Decentralizovaný CZK stablecoin \(dCZK\) - [Radek Švarz](../prednasejici.md#radek-svarz)
+* P2P aplikace na směnu kryptoměn za fiat - [Petr Klein](../prednasejici.md#petr-klein)
+
