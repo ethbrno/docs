@@ -4,6 +4,10 @@ description: Na koho se můžete těšit
 
 # Přednášející
 
+## Josef J
+
+V krypto letech je Josef starý a moudrý jako Metuzalém. Začínal jako dobrovolník a komunitní organizátor. Přes DeFi projekty a hackathony se propracoval až k založení PWN.finance: DeFi platformy na peer-to-peer půjčky. \([twitter](https://twitter.com/JosefJ_)\)
+
 ## David Stancel
 
 Dávid vyštudoval Ekonómiu na Masarykovej univerzite v Brne, a Master of Science v obore Digitálnych mien na Univerzite v Nikózii na Cypre. Pracoval ako IT auditor a konzultant v PwC Slovensko. Spoluzakladal Blockchain Slovakia a pracoval ako konzultant v oblasti kryptomien a blockchain technológií na niekoľkých slovenských ako aj zajhraničných startupoch a projektoch a v súčasnosti je na pozícii CTO v spoločnosti [Fumbi Network](https://fumbi.network/en). David často prednáša o kryptomenách a blockchaine na medzinárodných fórach, konferenciách či univerzitách. Taktiež učí vlastný predmet o kryptomenách na Slovenskej Technickej univerzite ako aj na Ekonomickej univerzite v Bratislave. Taktiež založil edukáčny portál o kryptomenách [CoinStory.tech](https://coinstory.tech/), kde pravidelne píše o dianí vo svete kryptomien. \([twitter](https://twitter.com/dave_stancel)\)
@@ -15,10 +19,6 @@ Bývalý televizní reportér - nyní [nadšený YouTuber](https://www.youtube.c
 ## Adam Kracík
 
 Nezávislý žurnalista a kryptoměnový analytik.
-
-## Josef J
-
-V krypto letech je Josef starý a moudrý jako Metuzalém. Začínal jako dobrovolník a komunitní organizátor. Přes DeFi projekty a hackathony se propracoval až k založení PWN.finance: DeFi platformy na peer-to-peer půjčky. \([twitter](https://twitter.com/JosefJ_)\)
 
 ## Štěpán Fau
 
