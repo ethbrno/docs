@@ -7,7 +7,7 @@ Nic by nevzniklo, bez těchto statečných a odvážných lidí :\)
 | Jméno | Organizace | Pozice |
 | :--- | :--- | :--- |
 | \*\*\*\*[**vojtch**](https://twitter.com/StudenyVojta) | Bankless.cz, Gwei.cz | hlavní šerif, financování |
-| \*\*\*\*[**damsky**](https://twitter.com/CryptoDamSky)\*\*\*\* |  | místo konání, logistika |
+| \*\*\*\*[**damsky**](https://twitter.com/CryptoDamSky)\*\*\*\* | Gwei.cz | místo konání, logistika |
 | [**tree**](https://twitter.com/treecz) | Gwei.cz | program, ticketing |
 | **DavidBankless** | Bankless.cz | financování, sociální sítě \(FB\) |
 | \*\*\*\*[**Coinmandeer**](https://twitter.com/keenofcoin) | Gwei.cz | vizuál konference |
