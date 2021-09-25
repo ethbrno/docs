@@ -6,7 +6,7 @@ description: Na koho se můžete těšit
 
 ## Josef J
 
-V krypto letech je Josef starý a moudrý jako Metuzalém. Začínal jako dobrovolník a komunitní organizátor. Přes DeFi projekty a hackathony se propracoval až k založení PWN.finance: DeFi platformy na peer-to-peer půjčky. \([twitter](https://twitter.com/JosefJ_)\)
+V krypto letech je Josef starý a moudrý jako Metuzalém. Začínal jako dobrovolník a komunitní organizátor. Přes DeFi projekty a hackathony se propracoval až k založení [PWN.finance](https://pwn.finance/): DeFi platformy na peer-to-peer půjčky. \([twitter](https://twitter.com/JosefJ_)\)
 
 ## David Stancel
 
@@ -22,7 +22,7 @@ Nezávislý žurnalista a kryptoměnový analytik.
 
 ## Štěpán Fau
 
-V roce 2017 se během kurzu “blockchain & smart contracts” naprosto zamiloval do Etherea. Dlouhodobě se zabývá zlepšováním UX DeFi aplikací. Přes produktové role se dostal až k aktuálnímu angažmá: Založení PWN.finance, DeFi platformy na peer-to-peer půjčky. \([twitter](https://twitter.com/steve_fau)\)
+V roce 2017 se během kurzu “blockchain & smart contracts” naprosto zamiloval do Etherea. Dlouhodobě se zabývá zlepšováním UX DeFi aplikací. Přes produktové role se dostal až k aktuálnímu angažmá: Založení [PWN.finance](https://pwn.finance/), DeFi platformy na peer-to-peer půjčky. \([twitter](https://twitter.com/steve_fau)\)
 
 ## Ondřej Vostal
 
@@ -58,11 +58,7 @@ Libertarián, který se celý život věnuje vývoji aplikací a systémů, nad�
 
 ## Radek Švarz
 
-Radek pracoval přes 17 let pro TradFi \(banky\) v různých externích a IT manažerských pozicích. Řídil např. systémovou integraci při změně core banking systému, v posledních letech se věnoval celkové business/IT architektuře bank.
-
-Užívá si posouvání hranic použitím cutting-edge technologií, kde se propojuje business a IT - aktuálně mimo jiné jako advisor projektu Alzheimerchain \( [https://www.alzheimerchain.com/](https://www.alzheimerchain.com/) \). 
-
-Od 2017 věří, že ČR je celosvětově velice silné v crypto engineeringu a rád by, aby nezahodilo šanci být tahounem crypto odvětví v Evropě.
+Radek pracoval přes 17 let pro TradFi \(banky\) v různých externích a IT manažerských pozicích. Řídil např. systémovou integraci při změně core banking systému, v posledních letech se věnoval celkové business/IT architektuře bank. Užívá si posouvání hranic použitím cutting-edge technologií, kde se propojuje business a IT - aktuálně mimo jiné jako advisor projektu [Alzheimerchain](https://www.alzheimerchain.com/%20). Od 2017 věří, že ČR je celosvětově velice silné v crypto engineeringu a rád by, aby nezahodilo šanci být tahounem crypto odvětví v Evropě.
 
 ## Rixcian
 
