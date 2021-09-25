@@ -14,6 +14,7 @@
     * [Hackujeme DeFi arbitráže](program/workshopy/hackujeme-defi-arbitraze.md)
     * [Rozšíření GETHu o pendingLogs websocket subscription](program/workshopy/rozsireni-gethu-o-pendinglogs-websocket-subscription.md)
 * [Doprovodný program](doprovodny-program/README.md)
+  * [Afterparty - bar anoda](doprovodny-program/afterparty-bar-anoda.md)
   * [Gwei.cz Hackathon](doprovodny-program/gwei.cz-hackathon.md)
 * [Praktické informace](prakticke-informace/README.md)
   * [Covid Opatření](prakticke-informace/covid-opatreni.md)
