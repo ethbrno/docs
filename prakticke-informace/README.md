@@ -10,14 +10,14 @@ Vstupné je **zdarma**, ale kvůli nízké kapacitě je jen omezený počet vstu
 
 Systém rezervace vstupenek: [https://ethbrno-ticketing.gwei.cz/](https://ethbrno-ticketing.gwei.cz/)
 
-## Doprava
+## [Doprava](doprava.md)
 
 * [Hromadná doprava \(MHD\)](doprava.md#hromadna-doprava-mhd)
 * [Vlak, bus](doprava.md#vlak-autobus-dalkovy)
 * [Letadlem](doprava.md#letadlem)
 * [Autem](doprava.md#autem)
 
-## Ubytování
+## [Ubytování](ubytovani.md)
 
 * [Apartmány \(Airbnb\)](ubytovani.md#apartmany-airbnb)
 * [Hotely](ubytovani.md#hotely)
@@ -30,7 +30,9 @@ Zaparkujete u nás jednoduše na volných místech přímo před komunitním cen
 
 TODO
 
-## COVID-19 opatření
+## [COVID-19 opatření](covid-opatreni.md)
 
-[https://covid.gov.cz/situace/kultura/spolecenske-akce](https://covid.gov.cz/situace/kultura/spolecenske-akce)
+**Jsme státem nucení vyžadovat očkování, PCR test starý 7 dnů nebo antigenní test starý maximálně 72 hodin.** 
+
+Pokud se cokoli změní budeme vás samozřejmě informovat.
 
