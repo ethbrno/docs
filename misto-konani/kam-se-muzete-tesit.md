@@ -2,9 +2,7 @@
 description: 'Aneb, jak to u nás vypadá'
 ---
 
-# Kam se můžete těšit
-
-
+# Fotky z místa konání
 
 ![](../.gitbook/assets/picture_7320_5.jpg-1600x1200-komunitni-centrum-skala-brno-novy-liskovec.jpg)
 
