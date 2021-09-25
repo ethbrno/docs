@@ -36,8 +36,12 @@ description: Bez nich by nic nebylo
 
 ![](.gitbook/assets/anycoin.svg)
 
+
+
+{% hint style="success" %}
 Chcete akci sponzorovat? Děláte něco zajímavého, co by se dalo s ETHBrno spojit?  
 Ozvěte se někomu z [Organizačního teamu](./#organizacni-team).
+{% endhint %}
 
 ## Mediální partneři
 

@@ -41,14 +41,9 @@ Potom kontaktujte náš organizační team - nejlépe na [Gwei.cz Discordu](http
 
 ## Organizační team
 
-* \*\*\*\*[**vojtch**](https://twitter.com/StudenyVojta) \(Bankless.cz, Gwei.cz\) - hlavní šerif, financování
-* \*\*\*\*[**damsky**](https://twitter.com/CryptoDamSky) **-** místo konání, logistika
-* \*\*\*\*[**tree**](https://twitter.com/treecz) \(Gwei.cz\) - kontaktování speakerů, marketing
-* **DavidBankless** \(Bankless.cz\) - financování
-* \*\*\*\*[**Coinmandeer**](https://twitter.com/keenofcoin) \(Gwei.cz\) - grafika
-* \*\*\*\*[**rixcian**](https://twitter.com/rixcian) ****\(Gwei.cz, Bankless.cz\) ****- doprovodný program
+Viz stránka [Organizační team](organizacni-team.md).
 
-
+## Písnička
 
 {% embed url="https://www.youtube.com/watch?v=YJVrnewNT88" %}
 

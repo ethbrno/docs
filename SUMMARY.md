@@ -17,10 +17,11 @@
   * [Afterparty - bar anoda](doprovodny-program/afterparty-bar-anoda.md)
   * [Gwei.cz Hackathon](doprovodny-program/gwei.cz-hackathon.md)
 * [Praktické informace](prakticke-informace/README.md)
-  * [Covid Opatření](prakticke-informace/covid-opatreni.md)
+  * [COVID-19 opatření](prakticke-informace/covid-opatreni.md)
   * [Doprava](prakticke-informace/doprava.md)
   * [Ubytování](prakticke-informace/ubytovani.md)
 * [Sponzoři & partneři](sponzori.md)
+* [Organizační team](organizacni-team.md)
 * [Media Kit](media-kit.md)
 
 ## Info in English
