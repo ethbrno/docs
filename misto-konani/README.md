@@ -28,9 +28,11 @@ Jak se na místo dostat, naleznete v sekci [Doprava](../prakticke-informace/dopr
 
 ### Společné prostory
 
-* **Kavárna** - networking, občerstvení
+* \*\*\*\*[**Kavárna Coffee Trail Garden**](kavarna-coffee-trail-garden.md) ****- networking, občerstvení
 * **Dřevěná venkovní terasa** - posezení, kuřácký koutek
 * **Skleník -** chillout
+
+Můžete si prohlédnout [Fotky](kam-se-muzete-tesit.md).
 
 ## Plán objektu
 
