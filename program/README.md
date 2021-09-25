@@ -13,8 +13,8 @@ Všechny přednášky, workshopy a panelové diskuze budou v češtině nebo slo
 * **10:00 - 13:00** - dopolední programový blok \(3 hodiny\)
 * **13:00 - 14:00** - oběd
 * **14:00 - 20:00** - odpolední programový blok \(6 hodin\)
-* **20:00 - 22:00** - večerní networking
-* **22:00** - ukončení akce, přesun na [Afterparty](../doprovodny-program/#22-00-afterparty)
+* **20:00 - 21:30** - večerní networking
+* **21:30** - ukončení akce, přesun na [Afterparty](../doprovodny-program/afterparty-bar-anoda.md) v centru brna
 
 ## Seznam všech aktivit
 
@@ -60,6 +60,7 @@ Na workshopy bude připravený prostor [Zkušebny](../misto-konani/#dostupne-pro
 | **Život bez fiatu** | KryptoVláďa | 60m |
 | **Letem světem NFTs** \([popis](workshopy/letem-svetem-nfts.md)\) | RΞSISTANCΞ | 1h 30m |
 | **DeFi Toolkit: Nástroje pro práci s Ethereum síti** | Tree | 30m |
+| **BohemianDAO session** | Tree | 60m |
 
 ### Další akce
 
