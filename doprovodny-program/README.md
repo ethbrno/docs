@@ -12,9 +12,11 @@ TBA
 
 Hlavní den ETHBrno, během kterého probíhá [hlavní program](../program/) v [Komunitním centru Skála](../misto-konani/).
 
-### 22:00 \| Afterparty
+### 21:30 - 🥴 \| [Afterparty - bar anoda ![](../.gitbook/assets/anoda.jpeg)](afterparty-bar-anoda.md)
 
-TBA
+Naše afterparty se uskuteční v centru brna - v baru [**anoda**](https://www.facebook.com/anodabar/), kde společně popijeme za doprovodu místních DJs \(klidná elektronika\). Všichni návštěvníci jsou zváni!
+
+Více informací, včetně adresy, FB události a jak se na místo dostat po akci z komunitního centra, najdete na pod stránce [Afterparty](afterparty-bar-anoda.md).
 
 ## Neděle 10. října
 
