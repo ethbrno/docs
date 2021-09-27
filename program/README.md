@@ -18,7 +18,7 @@ Všechny přednášky, workshopy a panelové diskuze budou v češtině nebo slo
 
 ## Seznam všech aktivit
 
-Informace o konkrétním čase a umístění aktivit, budou zveřejněny v průběhu září.
+Tento seznam je pouze orientační - finální časový harmonogram přednášek a workshopů bude zveřejněn zhruba týden před akcí.
 
 ### Přednášky a panelové diskuze
 
@@ -40,8 +40,8 @@ Na přednášky bude vyhrazený [Velký sál](../misto-konani/#dostupne-prostory
 | **Představení CZ/SK NFT komunity** \([popis](prednasky.md#predstaveni-cz-sk-nft-komunity)\) | RΞSISTANCΞ | 15m |
 | **Gaming na blockchainu** \([popis](prednasky.md#gaming-na-blockchainu)\) | ETH Flenders | 30m |
 | **Ekonomie 2.0** | m0xt | 30m |
-| **Decentralizovaná koruna** | Radek Švarz | 30m |
-| **Projekt: Darovací smlouva** | Radek Švarz | 15m |
+| **Decentralizovaná koruna** \([popis](prednasky.md#decentralizovana-koruna)\) | Radek Švarz | 30m |
+| **Projekt: Darovací smlouva** \([popis](prednasky.md#projekt-darovaci-smlouva)\) | Radek Švarz | 15m |
 | **DAOs: Teorie a praxe v BanklessDAO** \([popis](prednasky.md#daos-teorie-a-praxe-v-banklessdao)\) | Rixcian | 30m |
 | **BohemianDAO: podpořme lokální ekosystém** \([popis](prednasky.md#bohemiandao-podporme-lokalni-ekosystem)\) | Tree | 15m |
 | **Internet of Blockchains - Ethereum vs Polkadot** | Petr Menšík | 45m |
