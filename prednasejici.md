@@ -64,6 +64,10 @@ Radek pracoval přes 17 let pro TradFi \(banky\) v různých externích a IT man
 
 Spoluzakladatel [BanklessCZ](https://bankless.cz/)🏴, člen [Gwei.cz](https://gwei.cz/) a [BanklessDAO](https://bankless.community/)🏴 komunity. Rád programuje, a to jak za peníze, tak i ve svém volném čase. Fanoušek všech technologií, které přispívají ke větší svobodě jednotlivce \(kryptoanarchista\). \([twitter](https://twitter.com/rixcian)\)
 
+## Petr Menšík
+
+Spoluzakladatel [Polkadotters](https://polkadotters.medium.com/) - největší Polkadot komunity v CZ/SK a jedné z nejvlivnějších skupin v rámci celého Polkadotu. Autor mnoha článků z Polkadot ekosystému, nadšenec do nových technologií a zakladatel DOT Validator Alliance, která pomáhá novým i běžícím projektům s jejich infrastrukturou a bojuje za větši decentralizaci. \(Polkadotters - [twitter](https://twitter.com/Polkadotters1/), [telegram](https://t.me/Polkadot_CZSK), [facebook](https://www.facebook.com/groups/232197797602358)\)
+
 ## Michael Repetný
 
 Ex-startupista, vývojář [Marinade.finance](https://marinade.finance/) - liquid staking protokolu na Solaně, DeFi nadšenec, validátor. \([twitter](https://twitter.com/repetny)\)
