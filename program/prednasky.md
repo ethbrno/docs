@@ -42,6 +42,10 @@ Speaker: [Josef J](https://ethbrno.gwei.cz/prednasejici#josef-j)
 
 Speaker: [VeryVerum](../prednasejici.md#veryverum)
 
+## Baserank - Crypto Asset Research Platform
+
+Speaker: [Ondřej Pilný](../prednasejici.md#ondrej-pilny)
+
 ## MEV a ChainKeepers: Úžasná cesta světem DeFi
 
 Speakeři: [Ondřej Vostal](../prednasejici.md#ondrej-vostal), [Martin Vlach](../prednasejici.md#martin-vlach)
