@@ -20,6 +20,8 @@ Bývalý televizní reportér - nyní [nadšený YouTuber](https://www.youtube.c
 
 Nezávislý žurnalista a kryptoměnový analytik.
 
+## Ondřej Pilný
+
 ## Štěpán Fau
 
 V roce 2017 se během kurzu “blockchain & smart contracts” naprosto zamiloval do Etherea. Dlouhodobě se zabývá zlepšováním UX DeFi aplikací. Přes produktové role se dostal až k aktuálnímu angažmá: Založení [PWN.finance](https://pwn.finance/), DeFi platformy na peer-to-peer půjčky. \([twitter](https://twitter.com/steve_fau)\)

@@ -34,6 +34,7 @@ Na přednášky bude vyhrazený [Velký sál](../misto-konani/#dostupne-prostory
 | **Psychologie Mainstreamové Adopce** \([popis](prednasky.md#psychologie-mainstreamove-adopce)\) | Štěpán Fau | 45m |
 | **Crypto Mortgages** \(Krypto hypotéky\) | Josef J | 30m |
 | **Kognitivní zkreslení na Kryptoměnových trzích** | VeryVerum | 30m |
+| **Baserank - Crypto Asset Research Platform** | Ondřej Pilný | 30m |
 | **MEV a ChainKeepers: Úžasná cesta světem DeFi** \([popis](prednasky.md#mev-a-chainkeepers-uzasna-cesta-svetem-defi)\) | Ondřej Vostal, Martin Vlach | 30m |
 | **P2P brána do světa kryptoměn** | Petr Klein | 15m |
 | **Seed investice do DeFi protokolů** \(do 17:00\) | HomΞr Shillson | 30m |
