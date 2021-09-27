@@ -44,6 +44,7 @@ Na přednášky bude vyhrazený [Velký sál](../misto-konani/#dostupne-prostory
 | **Projekt: Darovací smlouva** | Radek Švarz | 15m |
 | **DAOs: Teorie a praxe v BanklessDAO** \([popis](prednasky.md#daos-teorie-a-praxe-v-banklessdao)\) | Rixcian | 30m |
 | **BohemianDAO: podpořme lokální ekosystém** \([popis](prednasky.md#bohemiandao-podporme-lokalni-ekosystem)\) | Tree | 15m |
+| **Internet of Blockchains - Ethereum vs Polkadot** | Petr Menšík | 45m |
 | **To nejlepší ze Solana DeFi** \([popis](prednasky.md#to-nejlepsi-ze-solana-defi)\) | Michael Repetný | 30m |
 | **Hopiové deníky - Dystopické sny** \(CZ verze, projekce\) | Rekt | 15m |
 

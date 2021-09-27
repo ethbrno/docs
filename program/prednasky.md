@@ -96,6 +96,10 @@ Speaker: [Tree](../prednasejici.md#tree)
 
 [BohemianDAO](http://bohemiandao.cz/) je první české neziskové DAO, které se snaží pomocí grantů financovat lokální projekty podporující vzdělání a adopci Etherea a decentralizovaných financí. Tato přednáška představí aktuální stav DAO, jeho vize, co se již podařilo a nastíní jaká bude jeho budoucnost.
 
+## Internet of Blockchains - Ethereum vs Polkadot
+
+Speaker: [Petr Menšík](../prednasejici.md#petr-mensik)
+
 ## To nejlepší ze Solana DeFi
 
 Speaker: [Michael Repetný](../prednasejici.md#michael-repetny)
