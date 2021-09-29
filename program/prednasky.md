@@ -104,6 +104,12 @@ Speaker: [Tree](../prednasejici.md#tree)
 
 Speaker: [Petr Menšík](../prednasejici.md#petr-mensik)
 
+## Eth2 neexistuje \(a nebude\)
+
+Speaker: [Mario Havel](https://ethbrno.gwei.cz/prednasejici#mario-havel)
+
+Ethereum 2.0 je široko očakávané vylepšenie Ethereum siete. Prináša fundamentálne zmeny, ktoré umožnia lepšiu škálovatelnosť, efektivitu a udržatelnosť. Komunita aj širšia verejnosť o ňom slýcha už zopár rokov, no Eth2 neexistuje ani nikdy nebude. Prednáška vám priblíži reálne dopady týchto vylepšení. Prevedie aktuálnym stavom vývoja a výskumu, potencionálnymi rizikami a možnosťami sa participovať.
+
 ## To nejlepší ze Solana DeFi
 
 Speaker: [Michael Repetný](../prednasejici.md#michael-repetny)
