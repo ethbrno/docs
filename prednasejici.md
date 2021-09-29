@@ -74,6 +74,10 @@ Spoluzakladatel [Polkadotters](https://polkadotters.medium.com/) - největší P
 
 Ex-startupista, vývojář [Marinade.finance](https://marinade.finance/) - liquid staking protokolu na Solaně, DeFi nadšenec, validátor. \([twitter](https://twitter.com/repetny)\)
 
+## Mario Havel
+
+Kryptoanarchista, ktorý rád učí o Bitcoine, Lightningu, Ethereu, digitálnom súkromí a bezpečnosti. Venuje sa výskumu a projekt manažmentu vrámci Ethereum Foindation, je členom Paralelní Polis a Bordel Hackerspace. \([twitter](https://twitter.com/_TaxMeIfYouCan_)\)
+
 ## Tree
 
 Občasný programátor, který se ve volných chvílích věnuje [Gwei.cz](https://gwei.cz) komunitě, kterou spoluzaložil. Je to nadšenec do Etherea a propagátor nových technologií. \([twitter](https://twitter.com/treecz)\)
