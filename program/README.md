@@ -48,7 +48,7 @@ Na přednášky bude vyhrazený [Velký sál](../misto-konani/#dostupne-prostory
 | **Internet of Blockchains - Ethereum vs Polkadot** | Petr Menšík | 45m |
 | **To nejlepší ze Solana DeFi** \([popis](prednasky.md#to-nejlepsi-ze-solana-defi)\) | Michael Repetný | 30m |
 | **Hopiové deníky - Dystopické sny** \(CZ verze, projekce\) | Rekt | 15m |
-| **Eth2 neexistuje \(a nebude\)** \([popis](https://ethbrno.gwei.cz/program/prednasky#eth2-neexistuje-a-nebude)\) | Mario Havel | 30m |
+| **Eth2 neexistuje \(a nebude\)** \([popis](https://ethbrno.gwei.cz/program/prednasky#eth2-neexistuje-a-nebude)\) | Mario Havel | 45m |
 
 ### Workshopy
 
