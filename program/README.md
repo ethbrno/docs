@@ -33,6 +33,7 @@ Na přednášky bude vyhrazený [Velký sál](../misto-konani/#dostupne-prostory
 | **Smart kontrakt platformy mění způsob, jakým v digitálním prostředí fungujeme** \([popis](prednasky.md#smart-kontrakt-platformy-meni-zpusob-jakym-v-digitalnim-prostredi-fungujeme)\) | Adam Kracík | 30m |
 | **Psychologie Mainstreamové Adopce** \([popis](prednasky.md#psychologie-mainstreamove-adopce)\) | Štěpán Fau | 45m |
 | **Crypto Mortgages** \(Krypto hypotéky\) | Josef J | 30m |
+| **Eth2 neexistuje \(a nebude\)** \([popis](https://ethbrno.gwei.cz/program/prednasky#eth2-neexistuje-a-nebude)\) | Mario Havel | 45m |
 | **Kognitivní zkreslení na Kryptoměnových trzích** | VeryVerum | 30m |
 | **Baserank - Crypto Asset Research Platform** | Ondřej Pilný | 30m |
 | **MEV a ChainKeepers: Úžasná cesta světem DeFi** \([popis](prednasky.md#mev-a-chainkeepers-uzasna-cesta-svetem-defi)\) | Ondřej Vostal, Martin Vlach | 30m |
@@ -43,12 +44,12 @@ Na přednášky bude vyhrazený [Velký sál](../misto-konani/#dostupne-prostory
 | **Ekonomie 2.0** | m0xt | 30m |
 | **Decentralizovaná koruna** \([popis](prednasky.md#decentralizovana-koruna)\) | Radek Švarz | 30m |
 | **Projekt: Darovací smlouva** \([popis](prednasky.md#projekt-darovaci-smlouva)\) | Radek Švarz | 15m |
+| **Kryptoekonomika na pedagogické fakultě a ještě i DAO?** \([popis](prednasky.md#kryptoekonomika-na-pedagogicke-fakulte-a-jeste-i-dao)\) | Jan Nehyba, Jakub Lanc | 45m |
 | **DAOs: Teorie a praxe v BanklessDAO** \([popis](prednasky.md#daos-teorie-a-praxe-v-banklessdao)\) | Rixcian | 30m |
 | **BohemianDAO: podpořme lokální ekosystém** \([popis](prednasky.md#bohemiandao-podporme-lokalni-ekosystem)\) | Tree | 15m |
 | **Internet of Blockchains - Ethereum vs Polkadot** | Petr Menšík | 45m |
 | **To nejlepší ze Solana DeFi** \([popis](prednasky.md#to-nejlepsi-ze-solana-defi)\) | Michael Repetný | 30m |
 | **Hopiové deníky - Dystopické sny** \(CZ verze, projekce\) | Rekt | 15m |
-| **Eth2 neexistuje \(a nebude\)** \([popis](https://ethbrno.gwei.cz/program/prednasky#eth2-neexistuje-a-nebude)\) | Mario Havel | 45m |
 
 ### Workshopy
 
