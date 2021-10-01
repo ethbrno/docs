@@ -88,6 +88,12 @@ Chcete darovat své krypto dětem, sourozencům, prostě v rodině, či někomu 
 
 Speaker: [Radek Švarz](../prednasejici.md#radek-svarz)
 
+## Kryptoekonomika na pedagogické fakultě a ještě i DAO?
+
+Speaker: [Jan Nehyba](../prednasejici.md#jan-nehyba), [Jakub Lanc](../prednasejici.md#jakub-lanc)
+
+Přednáška a workshop zve k účasti na přemýšlení o navrhovaném konceptu projektu, který při dobré konstelaci hvězd bude podpořen grantem od Otevřené výzvy \([https://otevreno.org/otevrena-vyzva/](https://otevreno.org/otevrena-vyzva/)\) Jednoduše jde o projekt, který má za cíl vytvořit nově volitelný předmět na Pedagogické fakultě Masarykovy univerzity. Tento předmět má za cíl vzdělávat budoucí učitele o problematice kryptoekonomiky a hlavně předat dovednosti, jak o této problematice mluvit a učit žáky a žákyně na školách \(ZŠ a SŠ\). Aby toho nebylo málo, tak si autor projekt usmyslel, že by rád udělal tento předmět finančně nezávislý. Tedy, aby se například lektoři předmětu se hradili z nově vzniklého kryptofondu, který má za účel podporovat lektorské aktivity na Pedagogické fakultě. A nejlépe, aby to bylo celé řízené přes DAO a studenti tak měli reálný příklad toho, jak to vše může fungovat. Jednoduše, to o čem se mluví, tak se i realizuje na příkladu tohoto předmětu. Zváni na workshop jsou všichni, koho baví přemýšlet o tom, jak by se tento scénář mohl stát skutečným nebo jednoduše všichni, kteří se zajímají o to, jak předávat znalosti o kryptoměnách \(předně mladším generacím\). [Více o projektu](https://miro.com/app/board/o9J_lt9BzOE=/?invite_link_id=925805194630).
+
 ## DAOs: Teorie a praxe v BanklessDAO
 
 Speaker: [Rixcian](../prednasejici.md#rixcian)

@@ -8,6 +8,10 @@ description: Na koho se můžete těšit
 
 V krypto letech je Josef starý a moudrý jako Metuzalém. Začínal jako dobrovolník a komunitní organizátor. Přes DeFi projekty a hackathony se propracoval až k založení [PWN.finance](https://pwn.finance/): DeFi platformy na peer-to-peer půjčky. \([twitter](https://twitter.com/JosefJ_)\)
 
+## Mario Havel
+
+Kryptoanarchista, ktorý rád učí o Bitcoine, Lightningu, Ethereu, digitálnom súkromí a bezpečnosti. Venuje sa výskumu a projekt manažmentu vrámci Ethereum Foindation, je členom Paralelní Polis a Bordel Hackerspace. \([twitter](https://twitter.com/_TaxMeIfYouCan_)\)
+
 ## David Stancel
 
 Dávid vyštudoval Ekonómiu na Masarykovej univerzite v Brne, a Master of Science v obore Digitálnych mien na Univerzite v Nikózii na Cypre. Pracoval ako IT auditor a konzultant v PwC Slovensko. Spoluzakladal Blockchain Slovakia a pracoval ako konzultant v oblasti kryptomien a blockchain technológií na niekoľkých slovenských ako aj zajhraničných startupoch a projektoch a v súčasnosti je na pozícii CTO v spoločnosti [Fumbi Network](https://fumbi.network/en). David často prednáša o kryptomenách a blockchaine na medzinárodných fórach, konferenciách či univerzitách. Taktiež učí vlastný predmet o kryptomenách na Slovenskej Technickej univerzite ako aj na Ekonomickej univerzite v Bratislave. Taktiež založil edukáčny portál o kryptomenách [CoinStory.tech](https://coinstory.tech/), kde pravidelne píše o dianí vo svete kryptomien. \([twitter](https://twitter.com/dave_stancel)\)
@@ -33,6 +37,14 @@ Matematik a ekonom, který tíhne k uskutečňování datově orientovaných str
 ## Martin Vlach
 
 Zvídavá hlava, miniarchista, teoretický všeuměl, programátor, myslitel. V týmu [ChainKeepers](https://www.chainkeepers.io/cs/hiring) pomáhá s vývojem a testováním smart contractů, trading botů a rozšiřováním kolektivu. \([twitter](https://twitter.com/userhuge), [linkedin](https://www.linkedin.com/in/uhuge/)\)
+
+## Jan Nehyba
+
+Jan si o sobě uvědomuje, že o kryptosvětě toho ví asi tolik jako mravenec o lidské botě. Přestože se od roku 2018 snažil porozumět tomu co je to Holochain a verifiable credentials, a aplikovat to do pedagogického prostředí. Následně shodou různých krypto náhod a nehod se mu částečně rozsvítilo a řekl si, že by chtěl téma podnikavosti ve vzdělávání posunout na novou krypto úroveň. Z toho důvodu usiluje na Pedagogické fakultě MU o založení předmětu o kryptoměnách pro budoucí učitele, který samozřejmě učit nebude, ale rád jej zaštítí.
+
+## Jakub Lanc
+
+Jakub Lanc absolvoval informatiku na FIT VUT a psychologii na FSS MU v Brně. Ve svém zaměření se postupně posunul od studia prokrastinace přes peer projekt pro mladé psychology až k tématům, o nichž bude tento workshop. Vyučuje předmět “Commons, P2P a Digitální Identita” na KISKu a červenou nití je mu otázka: _“Jak mohou Web 3.0 technologie napomáhat zdravějším a udržitelnějším formám spolupráce?”._ Nyní se věnuje mj. přípravě sympozia v Kutné Hoře, zaměřeného na komplementární měny v kontextu města, snaží se programovat hAplikace na Holochainu a plánuje vychýlený nanofestival “Vykloubení”.
 
 ## HomΞr Shillson
 
@@ -73,10 +85,6 @@ Spoluzakladatel [Polkadotters](https://polkadotters.medium.com/) - největší P
 ## Michael Repetný
 
 Ex-startupista, vývojář [Marinade.finance](https://marinade.finance/) - liquid staking protokolu na Solaně, DeFi nadšenec, validátor. \([twitter](https://twitter.com/repetny)\)
-
-## Mario Havel
-
-Kryptoanarchista, ktorý rád učí o Bitcoine, Lightningu, Ethereu, digitálnom súkromí a bezpečnosti. Venuje sa výskumu a projekt manažmentu vrámci Ethereum Foindation, je členom Paralelní Polis a Bordel Hackerspace. \([twitter](https://twitter.com/_TaxMeIfYouCan_)\)
 
 ## Tree
 
