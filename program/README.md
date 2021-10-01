@@ -39,6 +39,7 @@ Na přednášky bude vyhrazený [Velký sál](../misto-konani/#dostupne-prostory
 | **MEV a ChainKeepers: Úžasná cesta světem DeFi** \([popis](prednasky.md#mev-a-chainkeepers-uzasna-cesta-svetem-defi)\) | Ondřej Vostal, Martin Vlach | 30m |
 | **P2P brána do světa kryptoměn** | Petr Klein | 15m |
 | **Seed investice do DeFi protokolů** \(do 17:00\) | HomΞr Shillson | 30m |
+| **MakerDAO: Decentralizovaná rezervní banka Ethereum ekosystému?** | VeryVerum | 30m |
 | **Představení CZ/SK NFT komunity** \([popis](prednasky.md#predstaveni-cz-sk-nft-komunity)\) | RΞSISTANCΞ | 15m |
 | **Gaming na blockchainu** \([popis](prednasky.md#gaming-na-blockchainu)\) | ETH Flenders | 30m |
 | **Ekonomie 2.0** | m0xt | 30m |

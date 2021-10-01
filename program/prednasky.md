@@ -60,6 +60,10 @@ Speaker: [Petr Klein](../prednasejici.md#petr-klein)
 
 Speaker: [HomΞr Shillson](../prednasejici.md#homksr-shillson)
 
+## MakerDAO: Decentralizovaná rezervní banka Ethereum ekosystému?
+
+Speaker: [VeryVerum](../prednasejici.md#veryverum)
+
 ## Představení CZ/SK NFT komunity
 
 Speaker: [RΞSISTANCΞ](../prednasejici.md#rkssistancks)
