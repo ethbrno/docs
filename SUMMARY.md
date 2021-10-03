@@ -15,6 +15,7 @@
     * [Rozšíření GETHu o pendingLogs websocket subscription](program/workshopy/rozsireni-gethu-o-pendinglogs-websocket-subscription.md)
 * [Doprovodný program](doprovodny-program/README.md)
   * [Afterparty - bar anoda](doprovodny-program/afterparty-bar-anoda.md)
+  * [Krypto-grilování v parku Lužánky](doprovodny-program/krypto-grilovani-v-parku-luzanky.md)
   * [Gwei.cz Hackathon](doprovodny-program/gwei.cz-hackathon.md)
 * [Praktické informace](prakticke-informace/README.md)
   * [COVID-19 opatření](prakticke-informace/covid-opatreni.md)
