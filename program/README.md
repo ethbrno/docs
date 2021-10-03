@@ -42,7 +42,9 @@ Na přednášky bude vyhrazený [Velký sál](../misto-konani/#dostupne-prostory
 | **MakerDAO: Decentralizovaná rezervní banka Ethereum ekosystému?** | VeryVerum | 30m |
 | **Představení CZ/SK NFT komunity** \([popis](prednasky.md#predstaveni-cz-sk-nft-komunity)\) | RΞSISTANCΞ | 15m |
 | **Gaming na blockchainu** \([popis](prednasky.md#gaming-na-blockchainu)\) | ETH Flenders | 30m |
-| **Ekonomie 2.0** | m0xt | 30m |
+| **Tokenová privatizace** \([popis](prednasky.md#tokenova-privatizace)\) | m0xt | 30m |
+| **Proč nepotřebujete VCs** \([popis](prednasky.md#proc-nepotrebujete-vcs)\) | Jirka Zlatohlávek | 30m |
+| **Jak budou vypadat digitální peníze?** \([popis](prednasky.md#jak-budou-vypadat-digitalni-penize)\) | David Antoš | 30m |
 | **Decentralizovaná koruna** \([popis](prednasky.md#decentralizovana-koruna)\) | Radek Švarz | 30m |
 | **Projekt: Darovací smlouva** \([popis](prednasky.md#projekt-darovaci-smlouva)\) | Radek Švarz | 15m |
 | **Kryptoekonomika na pedagogické fakultě a ještě i DAO?** \([popis](prednasky.md#kryptoekonomika-na-pedagogicke-fakulte-a-jeste-i-dao)\) | Jan Nehyba, Jakub Lanc | 45m |

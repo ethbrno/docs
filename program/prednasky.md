@@ -76,21 +76,35 @@ Speaker: [ETH Flenders](../prednasejici.md#eth-flenders)
 
 Krátce bych představil aktuální stav v gamingu, hlavně co se týče Blizzardu a EA, jak fungují. Poté bych zmínil Axie, Sorare a God Unchained, ale nejvíce bych se chtěl potom věnovat Illuviu a na konci jenom zmínit pár dalších zajímavých projektů, co vznikají.
 
-## Ekonomie 2.0
+## Tokenová privatizace
 
 Speaker: [m0xt](../prednasejici.md#m-0-xt)
 
+Změnilo se nějak investování od dob kuponové privatizace a mají s tim něco společného tokeny? Jsme svědky obrovské bubliny nebo je před námi generační příležitost?
+
+## Proč nepotřebujete VCs
+
+Speaker: [Jirka Zlatohlávek](../prednasejici.md#jirka-zlatohlavek)
+
+Kapitál v kryptu je dostupnější než kdykoliv předtím. Proč se mu obloukem vyhnout? Jirka z fondu Miton C bude střílet do vlastních řad.
+
+## Jak budou vypadat digitální peníze?
+
+Speaker: [David Antoš](../prednasejici.md#david-antos)
+
+Autonomní „internetová měna“ měla být prvním využitím blockchainu. Většinu krypto tokenů vč. BTC a ETH tak ale nikdo nepoužívá. Nejrozšířenější stablecoiny pevně navázané na dolar zase nejsou autonomní. Může uspět nová generace algoritmických stablecoinů, nebo se vrátíme k centrálním bankám?
+
 ## Decentralizovaná koruna
+
+Speaker: [Radek Švarz](../prednasejici.md#radek-svarz)
 
 Stablecoiny mají v kryptu své místo. Ostatně na to myslí i připravované regulace. Má ovšem smysl i stablecoin reprezentující Českou korunu? Probereme historii CZK stablecoinu, k čemu a komu by byl užitečný. Podíváme se i na možnosti realizace a související rizika.
 
-Speaker: [Radek Švarz](../prednasejici.md#radek-svarz)
-
 ## Projekt: Darovací smlouva
 
-Chcete darovat své krypto dětem, sourozencům, prostě v rodině, či někomu jinému? Jak to udělat právně a daňově dobře, aby obdarovávaný neměl v budoucnu problémy? Proto vznikl projekt - chatbot, který pomůže uživateli probrat alternativy darování a dle rozhodnutí generovat odpovídající smlouvy k podpisu.
-
 Speaker: [Radek Švarz](../prednasejici.md#radek-svarz)
+
+Chcete darovat své krypto dětem, sourozencům, prostě v rodině, či někomu jinému? Jak to udělat právně a daňově dobře, aby obdarovávaný neměl v budoucnu problémy? Proto vznikl projekt - chatbot, který pomůže uživateli probrat alternativy darování a dle rozhodnutí generovat odpovídající smlouvy k podpisu.
 
 ## Kryptoekonomika na pedagogické fakultě a ještě i DAO?
 

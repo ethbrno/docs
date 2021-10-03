@@ -26,6 +26,12 @@ Nezávislý žurnalista a kryptoměnový analytik.
 
 ## Ondřej Pilný
 
+## Jirka Zlatohlávek
+
+## David Antoš
+
+David je skeptický Ethereum maximalista s ekonomickým a právním vzděláním. Potenciál krypta vidí zejména v otevření internetových „platforem“, které si účtují monopolistické renty a brání inovacím. Zatím ale v kryptosféře nezná nic než Ponzi hry – proto je skeptik. \([twitter](https://twitter.com/jilm)\)
+
 ## Štěpán Fau
 
 V roce 2017 se během kurzu “blockchain & smart contracts” naprosto zamiloval do Etherea. Dlouhodobě se zabývá zlepšováním UX DeFi aplikací. Přes produktové role se dostal až k aktuálnímu angažmá: Založení [PWN.finance](https://pwn.finance/), DeFi platformy na peer-to-peer půjčky. \([twitter](https://twitter.com/steve_fau)\)
