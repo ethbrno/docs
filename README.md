@@ -18,15 +18,16 @@ Jazyk: **čeština/slovenština**
 Vstupné: [**zdarma**](prakticke-informace/#vstupenky)  
 Facebook událost: [https://www.facebook.com/events/1776160472585758](https://www.facebook.com/events/1776160472585758)
 
-Témata: **Ethereum, DeFi, Web3, DAO, NFT, Layer2 ...** \([Co tyhle zkratky znamenají?](https://komunita.gwei.cz/klicove-pojmy)\)
+Témata: **Ethereum, DeFi, DAO, NFT, gaming, ekonomie, stablecoiny,  ...** \([Co tyhle zkratky znamenají?](https://komunita.gwei.cz/klicove-pojmy)\)
 
 Summit organizuje společnými silami [Bankless.cz](https://bankless.cz/) a [Gwei.cz](http://gwei.cz/).
 
 ## Na co se můžete těšit
 
-* Přednášky
-* Workshopy
-* Panelové diskuze
+* 25 speakerů
+* 28 přednášek
+* 12 workshopů
+* 3 panelové diskuze
 * Networking
 * Doprovodný program
 * [POAP](https://poap.xyz/) badge za účast
