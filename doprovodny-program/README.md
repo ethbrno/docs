@@ -20,7 +20,7 @@ Více informací, včetně adresy, FB události a jak se na místo dostat po akc
 
 ## Neděle 10. října
 
-### 10:30 - 13:30 \| Krypto-grilování v parku Lužánky
+### 11:00 - 13:30 \| [Krypto-grilování v parku Lužánky](krypto-grilovani-v-parku-luzanky.md)
 
 Po náročné sobotě přijde relax a společné grilování na čerstvém vzduchu uprostřed zeleně, v populárním brněnském parku Lužánky. Uvidíme jak vyjde počasí, ale teplým oblečením nic nezkazíte. Detaily TBA
 
