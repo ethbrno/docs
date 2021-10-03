@@ -40,6 +40,7 @@ Na přednášky bude vyhrazený [Velký sál](../misto-konani/#dostupne-prostory
 | **P2P brána do světa kryptoměn** | Petr Klein | 15m |
 | **Seed investice do DeFi protokolů** \(do 17:00\) | HomΞr Shillson | 30m |
 | **MakerDAO: Decentralizovaná rezervní banka Ethereum ekosystému?** | VeryVerum | 30m |
+| **Holky v kryptu: představení** | Tereza | 20m |
 | **Představení CZ/SK NFT komunity** \([popis](prednasky.md#predstaveni-cz-sk-nft-komunity)\) | RΞSISTANCΞ | 15m |
 | **Gaming na blockchainu** \([popis](prednasky.md#gaming-na-blockchainu)\) | ETH Flenders | 30m |
 | **Tokenová privatizace** \([popis](prednasky.md#tokenova-privatizace)\) | m0xt | 30m |
@@ -70,7 +71,16 @@ Na workshopy bude připravený prostor [Zkušebny](../misto-konani/#dostupne-pro
 | **BohemianDAO session** | Tree | 60m |
 | **Gaming na blockchainu** | ETH Flenders | 45m |
 | **PWN Workshop** | Josef J, Štěpán Fau | 45m |
-| Holky v kryptu \(TBA\) | Holky v kryptu | 60m |
+| **Holky v kryptu** \(TBA\) | Holky v kryptu | 60m |
+| **Skovo.cz workshop** | Skovo.cz | 30m |
+
+### Panelové diskuze
+
+| Název | Účastníci |
+| :--- | :--- |
+| **Budoucnost DeFi v ČR** | KryptoVláďa \(TBA\), Adam Kracík \(TBA\), Marek \(Anycoin\) \(TBA\), Radek Švarc \(TBA\), Petr Klein \(TBA\) |
+| **DAO dnes a zítra** | m0xt, David \(Miton\), Michal Repetny \(Marinade\), Rixcian \(BanklessDAO\) |
+| **NFT** | RΞSISTANCΞ, David \(Bankless.cz\) \(TBA\), Pethalusa \(TBA\) |
 
 ### Další akce
 

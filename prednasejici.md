@@ -92,6 +92,8 @@ Spoluzakladatel [Polkadotters](https://polkadotters.medium.com/) - největší P
 
 Ex-startupista, vývojář [Marinade.finance](https://marinade.finance/) - liquid staking protokolu na Solaně, DeFi nadšenec, validátor. \([twitter](https://twitter.com/repetny)\)
 
+## Tereza \(Holky v kryptu\)
+
 ## Tree
 
 Občasný programátor, který se ve volných chvílích věnuje [Gwei.cz](https://gwei.cz) komunitě, kterou spoluzaložil. Je to nadšenec do Etherea a propagátor nových technologií. \([twitter](https://twitter.com/treecz)\)
