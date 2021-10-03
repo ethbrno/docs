@@ -68,6 +68,9 @@ Na workshopy bude připravený prostor [Zkušebny](../misto-konani/#dostupne-pro
 | **Letem světem NFTs** \([popis](workshopy/letem-svetem-nfts.md)\) | RΞSISTANCΞ | 1h 30m |
 | **DeFi Toolkit: Nástroje pro práci s Ethereum síti** | Tree | 30m |
 | **BohemianDAO session** | Tree | 60m |
+| **Gaming na blockchainu** | ETH Flenders | 45m |
+| **PWN Workshop** | Josef J, Štěpán Fau | 45m |
+| Holky v kryptu \(TBA\) | Holky v kryptu | 60m |
 
 ### Další akce
 
