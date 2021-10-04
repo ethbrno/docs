@@ -74,7 +74,7 @@ Na workshopy bude připravený prostor [Zkušebny](../misto-konani/#dostupne-pro
 | **Gaming na blockchainu** | ETH Flenders | 45m |
 | **PWN Workshop** | Josef J, Štěpán Fau | 45m |
 | **Holky v kryptu** \(TBA\) | Holky v kryptu | 60m |
-| **Skovo.cz workshop** | Skovo.cz | 30m |
+| **Skovo.cz workshop** | Jiří Skřivan | 30m |
 
 ### Panelové diskuze
 
