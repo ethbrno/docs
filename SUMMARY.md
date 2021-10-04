@@ -4,6 +4,7 @@
 * [Vstupenky](https://ethbrno-ticketing.gwei.cz/)
 * [Přednášející](prednasejici.md)
 * [Místo konání](misto-konani/README.md)
+  * [Skleník](misto-konani/sklenik.md)
   * [Fotky z místa konání](misto-konani/kam-se-muzete-tesit.md)
   * [Kavárna Coffee Trail Garden](misto-konani/kavarna-coffee-trail-garden.md)
 * [Hlavní program](program/README.md)
