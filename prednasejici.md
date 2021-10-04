@@ -94,6 +94,10 @@ Ex-startupista, vývojář [Marinade.finance](https://marinade.finance/) - liqui
 
 ## Tereza \(Holky v kryptu\)
 
+## Jiří Skřivan \(Skovo.cz\)
+
+Jirka je zástupce Skovo.cz. Výrobce produktů pro bezpečné zabezpečení Vašeho seedu. \([Skovo](https://skovo.cz/)\)
+
 ## Tree
 
 Občasný programátor, který se ve volných chvílích věnuje [Gwei.cz](https://gwei.cz) komunitě, kterou spoluzaložil. Je to nadšenec do Etherea a propagátor nových technologií. \([twitter](https://twitter.com/treecz)\)
