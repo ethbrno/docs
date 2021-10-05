@@ -32,7 +32,7 @@ Lektoři: [Ondřej Vostal](../../prednasejici.md#ondrej-vostal)
 ## S sebou přineste v počítači
 
 * notebook, na kterém běží git, node.js a yarn
-* naklonujte si \([https://github.com/chainkeepers/20210918\_workshop\_dex\_arb](https://github.com/chainkeepers/20210918_workshop_dex_arb)\) - budeme připravovat na začátku září
+* naklonujte si \([https://github.com/chainkeepers/20211009\_workshop\_dex\_arb](https://github.com/chainkeepers/20211009_workshop_dex_arb)\) - budeme připravovat na začátku září
 * nainstalujte potřebné node balíčky: `cd 20210918_workshop_dex_arb; yarn install`
 
 ## Doporučujeme si přečíst
