@@ -6,7 +6,7 @@ description: Seznam aktivit na ETHBrno - 9.10.2021
 
 Všechny přednášky, workshopy a panelové diskuze budou v češtině nebo slovenštině.
 
-## Časový plán \(sobota 9. října\)
+## Základní harmonogram \(sobota 9. října\)
 
 * **9:00** - otevření areálu
 * **9:00 - 10:00** - snídaně
@@ -18,9 +18,13 @@ Všechny přednášky, workshopy a panelové diskuze budou v češtině nebo slo
 * **20:30 - 21:30** - večerní networking
 * **21:30** - [Afterparty](../doprovodny-program/afterparty-bar-anoda.md) v centru brna
 
-## Seznam všech aktivit
+## Časový rozpis
 
-Tento seznam je pouze orientační - finální časový harmonogram přednášek a workshopů bude zveřejněn zhruba týden před akcí.
+Odkaz: [https://docs.google.com/spreadsheets/d/e/2PACX-1vRJTlf2YGrMLu4afMdeQ-XHsVL2o3RHntWIn7L1L-sMwtSBLsTAmg1ySrX0TN-bzgeI8B4Epjkmp5ev/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vRJTlf2YGrMLu4afMdeQ-XHsVL2o3RHntWIn7L1L-sMwtSBLsTAmg1ySrX0TN-bzgeI8B4Epjkmp5ev/pubhtml)
+
+{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vRJTlf2YGrMLu4afMdeQ-XHsVL2o3RHntWIn7L1L-sMwtSBLsTAmg1ySrX0TN-bzgeI8B4Epjkmp5ev/pubhtml" %}
+
+## Seznam všech aktivit
 
 ### Přednášky a panelové diskuze
 
