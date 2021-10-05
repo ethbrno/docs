@@ -22,6 +22,7 @@
   * [COVID-19 opatření](prakticke-informace/covid-opatreni.md)
   * [Doprava](prakticke-informace/doprava.md)
   * [Ubytování](prakticke-informace/ubytovani.md)
+  * [Pro přednášející](prakticke-informace/pro-prednasejici.md)
 * [Sponzoři & partneři](sponzori.md)
 * [Organizační team](organizacni-team.md)
 * [Media Kit](media-kit.md)
