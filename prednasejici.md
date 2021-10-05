@@ -40,6 +40,10 @@ V roce 2017 se během kurzu “blockchain & smart contracts” naprosto zamilova
 
 Matematik a ekonom, který tíhne k uskutečňování datově orientovaných strategií na finančních trzích. Má bohaté zkušenosti z TradFi v oblasti arbitráží a market-making, drive a touhu globálně excelovat. Zakladatel [ChainKeepers](https://www.chainkeepers.io/) týmu s ambicí stát se významnými DeFi a DEx keepery. Na ETHBrno představí úžasný svět MEV, DeFi likvidací a arbitráží. Otevřený návrhům a myšlenkám a kontaktu. \([linkedin](https://www.linkedin.com/in/ondrej-vostal/)\)
 
+## Ondra Chaloupka
+
+Programátor se zájmem o distribuované systémy. Obdivuje krypto a nadšeně hltá všechny jeho technické aspekty. Vystudoval FI MUNI.  Expert na Javu v níž již dlouho vyvíjí pro Red Hat.  Ted se vrhá na hackování DeFi s ChainKeepers.
+
 ## Jan Nehyba
 
 Jan si o sobě uvědomuje, že o kryptosvětě toho ví asi tolik jako mravenec o lidské botě. Přestože se od roku 2018 snažil porozumět tomu co je to Holochain a verifiable credentials, a aplikovat to do pedagogického prostředí. Následně shodou různých krypto náhod a nehod se mu částečně rozsvítilo a řekl si, že by chtěl téma podnikavosti ve vzdělávání posunout na novou krypto úroveň. Z toho důvodu usiluje na Pedagogické fakultě MU o založení předmětu o kryptoměnách pro budoucí učitele, který samozřejmě učit nebude, ale rád jej zaštítí.
