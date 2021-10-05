@@ -128,6 +128,8 @@ Speaker: [Tree](../prednasejici.md#tree)
 
 Speaker: [Petr Menšík](../prednasejici.md#petr-mensik)
 
+Začátek aukcí na Polkadotu se nám kvapem blíží a tak si pojďme povědět co to vlastně ten Polkadot je, jaká je jeho vize Web 3.0 a decentralizovaného internetu a jak tohle vše souvisí s nejpopulárnější smart contract platformou dnešní doby - Ethereem. Součástí přednášky bude také představení několika vznikajících či běžících projektů \(parachainů\), které usilují o kompatibilitu s Ethereum platformou a přinášejí také několik zajímavých vlastností navíc.
+
 ## Eth2 neexistuje \(a nebude\)
 
 Speaker: [Mario Havel](https://ethbrno.gwei.cz/prednasejici#mario-havel)
