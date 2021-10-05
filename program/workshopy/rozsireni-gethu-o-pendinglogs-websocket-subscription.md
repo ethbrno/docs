@@ -5,7 +5,7 @@ description: Workshop
 # Rozšíření GETHu o pendingLogs websocket subscription
 
 Délka: **45min**  
-Lektoři: [Ondřej Vostal](../../prednasejici.md#ondrej-vostal)
+Lektoři: [Ondřej Chaloupka](../../prednasejici.md#ondrej-chaloupka)
 
 ## Na co se můžete těšit
 
