@@ -8,7 +8,7 @@ description: Důležité informace pro přednášející
 
 Je jen na vás, jakým způsobem budete svoji přednášku či workshop koncipovat a jak daný čas využijete - pokud to bude k tématu.
 
-Do sálu, kde budete přednášet se dostavte s 5 minutovým předstihem.
+Do sálu, kde budete přednášet se dostavte s 5 minutovým předstihem \(před přednáškou máte 5 minut na přípravu\).
 
 ### Přednášky
 
