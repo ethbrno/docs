@@ -11,6 +11,8 @@ Každá přednáška nebo workshop bude mít předem stanoveného uvaděče.
 * **David Bankless**
 * Tereza \(TBA\)
 * Brigádnice Aneta \(TBA\)
+* ??
+* ??
 
 ## Hlavní úkoly
 
