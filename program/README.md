@@ -77,8 +77,8 @@ Na workshopy bude připravený prostor [Zkušebny](../misto-konani/#dostupne-pro
 | **BohemianDAO session** | Tree | 60m |
 | **Gaming na blockchainu** | ETH Flenders | 45m |
 | **PWN Workshop** | Josef J, Štěpán Fau | 45m |
-| **Holky v kryptu** \(TBA\) | Holky v kryptu | 60m |
-| **Skovo.cz workshop** | Jiří Skřivan | 30m |
+| **Temná strana krypta - prevence a omezení scamů a podvodů tam, kde je to nejvíce třeba** \(popis\) | Soňa, Tereza \(Holky v kryptu\) | 60m |
+| **Skovo.cz workshop** \([popis](workshopy/skovo.cz-workshop.md)\) | Jiří Skřivan | 30m |
 
 ### Panelové diskuze
 
