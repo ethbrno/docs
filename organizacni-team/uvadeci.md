@@ -2,13 +2,13 @@
 
 Uvaděči se starají o to, aby všichni přednášející byli tam kde mají být, aby přednášky či workshopy začínali na čas - zkrátka aby z hlediska programu vše šlapalo.
 
-Každá přednáška nebo workshop bude mít předem stanoveného uvaděče.
+Každá přednáška nebo workshop bude mít předem stanoveného uvaděče. A každý přednášející bude mít tudíž přiřazeného uvaděče s kterým bude komunikovat.
 
 ## Uvaděči
 
 * **Tree** \(hlavní uvaděč\)
 * **Vojtch**
-* **David Bankless**
+* **DavidBankless**
 * Tereza \(TBA\)
 * Brigádnice Aneta \(TBA\)
 * ??
