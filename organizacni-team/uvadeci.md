@@ -8,12 +8,14 @@ Každá přednáška nebo workshop bude mít předem stanoveného uvaděče.
 
 * **Tree** \(hlavní uvaděč\)
 * **Vojtch**
-* ??
-* ??
+* **David Bankless**
+* Tereza \(TBA\)
+* Brigádnice Aneta \(TBA\)
 
 ## Hlavní úkoly
 
-* obecně komunikace s přednášejícím
+* na začátku 9:00 - 10:00 být k dispozici poblíž registrace - přivítat přednášející a pomoci jim s obstaráním visačky
+* obecně komunikace s přednášejícím - domluvit si s ním nějaký komunikační kanál
 * zajistit aby byl přednášející na místě ve správny čas \(cca 5 minut před přednáškou\)
 * pomoc přednášejícímu s připojením notebooku na projektor, vysvětlení jak funguje mikrofon, příp. nahrávání
 * uvedení přednášky - pred přednáškou říct pár slov o přednašejícím a přednášce
@@ -24,6 +26,23 @@ Každá přednáška nebo workshop bude mít předem stanoveného uvaděče.
 
 Každý uvaděč dostane seznam přednášek s přesným časovým rozpisem toho co musí udělat a které přednášky bude uvádět.
 
-Součastí budou informace o přednášejícím a přednášce, kterým to uvedou.  
+Součastí budou informace o přednášejícím a přednášce, kterým to uvedou.
 
+## Průběh přednášky nebo workshopu
+
+* 5 - 15 min před přednáškou - najít přednášejícího a nasměrovat ho do sálu
+* 5 min před přednáškou - setup přednášky s přednášejícím:
+  * nastavení projekce - připojení HDMI
+  * vysvětlení jak funguje mikrofon, a jak ho použít
+  * sdělit že se přednáška nahrává \(přednášky\)
+* Těsně před začátkem přednášky - uvedení přednášky:
+  * Intro o přednášejícím
+  * Intro o přednášce
+* 10 - 0 min před koncem přednášky - kontrola času, upozornění přednášejícího
+* Po skončení přednášky - outro:
+  * Poděkování za přednášku přednášejícímu
+  * Sdělení mimořádností
+  * Informace o tom jaké přednášky budou následovat
+    * v tomto sále
+    * v jiných sálech
 
