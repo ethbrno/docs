@@ -46,3 +46,9 @@ Autorem grafiky je [Coinmandeer](https://twitter.com/keenofcoin).
 
 {% file src=".gitbook/assets/pozadi-facebook-short.png" %}
 
+## Rollup \(na tisk\)
+
+![](.gitbook/assets/banner-rollup-preview.png)
+
+{% file src=".gitbook/assets/banner-rollup.pdf" %}
+

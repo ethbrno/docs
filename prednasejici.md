@@ -28,6 +28,10 @@ Nezávislý žurnalista a kryptoměnový analytik.
 
 ## Jirka Zlatohlávek
 
+## David \(Miton C\)
+
+David je ex pokerový hráč a trader, v krypto světě se přeorientoval na hry s pozitivním součtem a mimo aktivní participaci v DeFi pomáhá projektům se strategickým rozhodováním. Vše pod deštníkem [Miton C](https://mitonc.com/). Milovník game theory a příležitostný filozof, který ve všem vidí vzorce. \([telegram](https://t.me/davidbala1)\)
+
 ## David Antoš
 
 David je skeptický Ethereum maximalista s ekonomickým a právním vzděláním. Potenciál krypta vidí zejména v otevření internetových „platforem“, které si účtují monopolistické renty a brání inovacím. Zatím ale v kryptosféře nezná nic než Ponzi hry – proto je skeptik. \([twitter](https://twitter.com/jilm)\)

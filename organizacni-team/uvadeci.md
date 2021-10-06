@@ -9,10 +9,10 @@ Každá přednáška nebo workshop bude mít předem stanoveného uvaděče. A k
 * **Tree** \(hlavní uvaděč\)
 * **Vojtch**
 * **DavidBankless**
-* Tereza \(TBA\)
-* Brigádnice Aneta \(TBA\)
-* ??
-* ??
+* **Tereza**
+* **Brigádnice Aneta**
+* **m0xt**
+* **Rixcian**
 
 ## Hlavní úkoly
 
