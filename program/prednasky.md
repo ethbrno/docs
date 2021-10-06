@@ -22,11 +22,11 @@ Speaker: [KryptoVláďa](../prednasejici.md#kryptovlada)
 
 Speaker: [Adam Kracík](../prednasejici.md#adam-kracik)
 
-## Smart kontrakt platformy mění způsob, jakým v digitálním prostředí fungujeme
+Smart kontrakt platformy mění způsob, jakým v digitálním prostředí fungujeme. Jejich dopad je zatím relativně malý pro obecnou společnost. To se nicméně v brzké době s největší pravděpodobností změní. V rámci přednášky se podíváme na to, jak se tyto oblasti budou proměňovat, jaké za tím stojí důvody a co bude výsledkem takové transformace.
+
+## Jak "správně" investovat do altcoinů
 
 Speaker: [Adam Kracík](../prednasejici.md#adam-kracik)
-
-Jejich dopad je zatím relativně malý pro obecnou společnost. To se nicméně v brzké době s největší pravděpodobností změní. V rámci přednášky se podíváme na to, jak se tyto oblasti budou proměňovat, jaké za tím stojí důvody a co bude výsledkem takové transformace.
 
 ## **Psychologie Mainstreamové Adopce**
 
