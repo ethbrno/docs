@@ -68,7 +68,7 @@ Speaker: [VeryVerum](../prednasejici.md#veryverum)
 
 Speaker: [RΞSISTANCΞ](../prednasejici.md#rkssistancks)
 
-Představení asi největšího nadšence NFT v České republice, [CZ/SK NFT komunity](https://discord.gg/KDDz6GCG) a pozvánka na navazující workshop. V krátkosti také o tom, co teď frčí, a o tom proč je NFT technologie pro dnešní umělce tak zajímavá.
+Představení asi největšího nadšence NFT v České republice, [CZ/SK NFT komunity](https://discord.gg/fkdNsmvCQ8) a pozvánka na navazující workshop. V krátkosti také o tom, co teď frčí, a o tom proč je NFT technologie pro dnešní umělce tak zajímavá.
 
 ## Gaming na blockchainu
 

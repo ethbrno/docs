@@ -84,9 +84,9 @@ Na workshopy bude připravený prostor [Zkušebny](../misto-konani/#dostupne-pro
 
 | Název | Účastníci |
 | :--- | :--- |
-| **Budoucnost DeFi v ČR** | KryptoVláďa \(TBA\), Adam Kracík \(TBA\), Marek \(Anycoin\) \(TBA\), Radek Švarc \(TBA\), Petr Klein \(TBA\) |
-| **DAO dnes a zítra** | m0xt, David \(Miton C\), Michal Repetny \(Marinade\), Rixcian \(BanklessDAO\) |
-| **NFT** | RΞSISTANCΞ, David \(Bankless.cz\) \(TBA\), Pethalusa \(TBA\) |
+| **Budoucnost DeFi v ČR** | KryptoVláďa, Marek \(Anycoin\), Radek Švarc, Petr Klein |
+| **DAO dnes a zítra** | m0xt, David \(Miton C\), Michal Repetny \(Marinade\) |
+| **NFT** | RΞSISTANCΞ, ETH Flenders, David \(Bankless.cz\), Pethalusa \(TBA\) |
 
 ### Další akce
 
