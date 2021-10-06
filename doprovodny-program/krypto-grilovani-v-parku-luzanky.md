@@ -1,8 +1,10 @@
 ---
-description: 'Neděle 10. října, 11:00-13:30'
+description: 'Neděle 10. října, 11:00 - 13:30'
 ---
 
 # Krypto-grilování v parku Lužánky
+
+![](../.gitbook/assets/cover-grilovacka.png)
 
 Po náročné sobotě přijde relax a společné grilování na čerstvém vzduchu uprostřed zeleně, v populárním brněnském parku Lužánky. Uvidíme jak vyjde počasí, ale teplým oblečením nic nezkazíte.
 

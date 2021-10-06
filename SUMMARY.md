@@ -17,6 +17,7 @@
     * [Ukázka materiálů recovery seedů se Skovo](program/workshopy/skovo.cz-workshop.md)
     * [Temná strana krypta - prevence a omezení scamů a podvodů tam, kde je to nejvíce třeba](program/workshopy/temna-strana-krypta-prevence-a-omezeni-scamu-a-podvodu-tam-kde-je-to-nejvice-treba.md)
 * [Doprovodný program](doprovodny-program/README.md)
+  * [Tour de ETHBrno](doprovodny-program/tour-de-ethbrno.md)
   * [Afterparty - bar anoda](doprovodny-program/afterparty-bar-anoda.md)
   * [Krypto-grilování v parku Lužánky](doprovodny-program/krypto-grilovani-v-parku-luzanky.md)
   * [Gwei.cz Hackathon](doprovodny-program/gwei.cz-hackathon.md)

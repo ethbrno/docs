@@ -4,6 +4,8 @@ description: 'Sobota 9. října, start 21:30'
 
 # Afterparty - bar anoda
 
+![](../.gitbook/assets/cover-afterparty.png)
+
 Naše afterparty se uskuteční v centru brna - v baru [**anoda**](https://www.facebook.com/anodabar/), kde společně popijeme za doprovodu místních DJs \(klidná elektronika\). Všichni návštěvníci jsou zváni!
 
 FB událost: [https://www.facebook.com/events/195240039345593](https://www.facebook.com/events/195240039345593)  

@@ -6,13 +6,11 @@ description: 'Různé aktivity, které pro vás chystáme na celý víkend'
 
 ## Pátek 8. října
 
-### 19:00 \| Tour de ETHBrno
+### 19:00 - 22:00 \| [Tour de ETHBrno](tour-de-ethbrno.md)
 
-V rámci doprovodného programu pro ETHBrno 2021 si dáme sraz 8.10. v 19:00 v Brně, před pohodovým venkovním klubem FBB Na dráze, kde si dáme pivo/limo a mezi 20:00-20:30 se přesuneme na Jakubské náměstí, kde si Na Stojáka dáme, na co každý bude mít chuť, poklábosíme a přesuneme se do poslední lokace, kousek od Hlavního nádraží, podnik jménem Charlie's square.
+Společná procházka po brně a návštěva klubů FBB Na dráze a Charlie's square. Program se může měnit podle počtu účastníků a počasí - akce bude probíhat venku. Start je v 19:00 před klubem FBB Na dráze \(Nádražní 9\).
 
- Nutno upozornit, že se program může měnit v závislosti na počtu účastníků a počasí. Budeme informovat v rámci následujicích dnů o případných změnách. Akce bude pravděpodobně probíhat po celou dobu venku.
-
-Adresa a čas startovacího místa: Nádražní 9, 602 00 Brno, Czechia  -- FBB Klub Na Dráze, 19:00
+Více informaci naleznete na stránce [Tour de ETHBrno](tour-de-ethbrno.md).
 
 ## Sobota 9. října
 
