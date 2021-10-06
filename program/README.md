@@ -35,8 +35,8 @@ Na přednášky bude vyhrazený [Velký sál](../misto-konani/#dostupne-prostory
 | **Čo sa môžme naučiť z historia krypta?** | David Stancel | 30m |
 | **Proč potřebujeme DeFi?** | KryptoVláďa | 30m |
 | **Pět pilířů kryptoměn** | KryptoVláďa | 15m |
-| **5 Oblastí, které kryptoměny v dohledné době promění** | Adam Kracík | 30m |
-| **Smart kontrakt platformy mění způsob, jakým v digitálním prostředí fungujeme** \([popis](prednasky.md#smart-kontrakt-platformy-meni-zpusob-jakym-v-digitalnim-prostredi-fungujeme)\) | Adam Kracík | 30m |
+| **5 Oblastí, které kryptoměny v dohledné době promění** \([popis](prednasky.md#5-oblasti-ktere-kryptomeny-v-dohledne-dobe-promeni)\) | Adam Kracík | 25m |
+| **Jak "správně" investovat do altcoinů** | Adam Kracík | 35m |
 | **Psychologie Mainstreamové Adopce** \([popis](prednasky.md#psychologie-mainstreamove-adopce)\) | Štěpán Fau | 45m |
 | **Crypto Mortgages** \(Krypto hypotéky\) | Josef J | 30m |
 | **Eth2 neexistuje \(a nebude\)** \([popis](https://ethbrno.gwei.cz/program/prednasky#eth2-neexistuje-a-nebude)\) | Mario Havel | 45m |
