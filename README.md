@@ -42,7 +42,7 @@ Potom kontaktujte náš organizační team - nejlépe na [Gwei.cz Discordu](http
 
 ## Organizační team
 
-Viz stránka [Organizační team](organizacni-team.md).
+Viz stránka [Organizační team](organizacni-team/).
 
 ## Písnička
 

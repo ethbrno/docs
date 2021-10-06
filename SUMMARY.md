@@ -25,7 +25,8 @@
   * [Ubytování](prakticke-informace/ubytovani.md)
   * [Pro přednášející](prakticke-informace/pro-prednasejici.md)
 * [Sponzoři & partneři](sponzori.md)
-* [Organizační team](organizacni-team.md)
+* [Organizační team](organizacni-team/README.md)
+  * [Uvaděči](organizacni-team/uvadeci.md)
 * [Media Kit](media-kit.md)
 
 ## Info in English

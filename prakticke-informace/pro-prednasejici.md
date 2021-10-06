@@ -4,11 +4,19 @@ description: Důležité informace pro přednášející
 
 # Pro přednášející
 
+## Vstup - registrace
+
+Přednášející mají přednostní vstup do areálu. Pro rychlejší odbavení pomůže, pokud budete mít po ruce kód vaší vstupenky \(např. `#a1b2c`\).
+
+U vstupu se seznámíte s týmem [uvaděčů](../organizacni-team/uvadeci.md), kteří vám budou pomáhat s vaší přednáškou.
+
 ## Průběh přednášky či workshopu
 
 Je jen na vás, jakým způsobem budete svoji přednášku či workshop koncipovat a jak daný čas využijete - pokud to bude k tématu.
 
 Do sálu, kde budete přednášet se dostavte s 5 minutovým předstihem \(před přednáškou máte 5 minut na přípravu\).
+
+S připojením počítače na projektor, mikrofonem nebo čímkoliv dalším vám pomůže uvaděč - každá přednáška má stanoveného [uvaděče](../organizacni-team/uvadeci.md), který se stará o to, aby vše proběhlo tak jak má.
 
 ### Přednášky
 
@@ -47,7 +55,7 @@ Přednášky ve velkém a malém sále se budou audiovizuálně nahrávat, bude 
 
 Pro přednášející máme speciální Google Drive složku, kam se ukládají všechny prezentace. Tato složka bude přístupná na erárních počítačích.
 
-Pro přístup k této složce kontaktujte organizátora "[tree](../organizacni-team.md#hlavni-team)".
+Pro přístup k této složce kontaktujte organizátora "[tree](../organizacni-team/#hlavni-team)".
 
 ## Občerstvení
 
