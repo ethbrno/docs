@@ -4,7 +4,9 @@ description: 'Různé aktivity, které pro vás chystáme na celý víkend'
 
 # Doprovodný program
 
-## Pátek 8. října - Tour de ETHBrno
+## Pátek 8. října
+
+### 19:00 \| Tour de ETHBrno
 
 V rámci doprovodného programu pro ETHBrno 2021 si dáme sraz 8.10. v 19:00 v Brně, před pohodovým venkovním klubem FBB Na dráze, kde si dáme pivo/limo a mezi 20:00-20:30 se přesuneme na Jakubské náměstí, kde si Na Stojáka dáme, na co každý bude mít chuť, poklábosíme a přesuneme se do poslední lokace, kousek od Hlavního nádraží, podnik jménem Charlie's square.
 

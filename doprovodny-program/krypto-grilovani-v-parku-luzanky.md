@@ -10,6 +10,8 @@ Na akci si budete moci koupit nějaké krypto za cash a rovnou si pomocí něj k
 
 Můžete se ale pouze jenom stavit a popovídat si s námi o kryptoměnách :\)
 
+FB Událost: [https://www.facebook.com/events/582043239803207](https://www.facebook.com/events/582043239803207)
+
 ### Místo konání
 
 **Adresa:** Pionýrská 247/11, 602 00 Brno-Královo Pole-Ponava
