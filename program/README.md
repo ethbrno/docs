@@ -42,7 +42,7 @@ Na přednášky bude vyhrazený [Velký sál](../misto-konani/#dostupne-prostory
 | **Eth2 neexistuje \(a nebude\)** \([popis](https://ethbrno.gwei.cz/program/prednasky#eth2-neexistuje-a-nebude)\) | Mario Havel | 45m |
 | **Kognitivní zkreslení na Kryptoměnových trzích** | VeryVerum | 30m |
 | **Baserank - Crypto Asset Research Platform** | Ondřej Pilný | 30m |
-| **MEV a ChainKeepers: Úžasná cesta světem DeFi** \([popis](prednasky.md#mev-a-chainkeepers-uzasna-cesta-svetem-defi)\) | Ondřej Vostal, Martin Vlach | 30m |
+| **MEV a ChainKeepers: Úžasná cesta světem DeFi** \([popis](prednasky.md#mev-a-chainkeepers-uzasna-cesta-svetem-defi)\) | Ondřej Vostal | 30m |
 | **P2P brána do světa kryptoměn** | Petr Klein | 15m |
 | **Seed investice do DeFi protokolů** \(do 17:00\) | HomΞr Shillson | 30m |
 | **MakerDAO: Decentralizovaná rezervní banka Ethereum ekosystému?** | VeryVerum | 30m |
