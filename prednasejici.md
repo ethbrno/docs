@@ -46,7 +46,7 @@ Matematik a ekonom, který tíhne k uskutečňování datově orientovaných str
 
 ## Ondra Chaloupka
 
-Programátor se zájmem o distribuované systémy. Obdivuje krypto a nadšeně hltá všechny jeho technické aspekty. Vystudoval FI MUNI.  Expert na Javu v níž již dlouho vyvíjí pro Red Hat.  Ted se vrhá na hackování DeFi s ChainKeepers.
+Programátor se zájmem o distribuované systémy. Obdivuje krypto a nadšeně hltá všechny jeho technické aspekty. Vystudoval FI MUNI. Expert na Javu v níž již dlouho vyvíjí pro Red Hat. Ted se vrhá na hackování DeFi s ChainKeepers.
 
 ## Jan Nehyba
 

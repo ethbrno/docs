@@ -22,7 +22,7 @@ Všechny přednášky, workshopy a panelové diskuze budou v češtině nebo slo
 
 Odkaz: [https://docs.google.com/spreadsheets/d/e/2PACX-1vRJTlf2YGrMLu4afMdeQ-XHsVL2o3RHntWIn7L1L-sMwtSBLsTAmg1ySrX0TN-bzgeI8B4Epjkmp5ev/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vRJTlf2YGrMLu4afMdeQ-XHsVL2o3RHntWIn7L1L-sMwtSBLsTAmg1ySrX0TN-bzgeI8B4Epjkmp5ev/pubhtml)
 
-{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vRJTlf2YGrMLu4afMdeQ-XHsVL2o3RHntWIn7L1L-sMwtSBLsTAmg1ySrX0TN-bzgeI8B4Epjkmp5ev/pubhtml" %}
+{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vRJTlf2YGrMLu4afMdeQ-XHsVL2o3RHntWIn7L1L-sMwtSBLsTAmg1ySrX0TN-bzgeI8B4Epjkmp5ev/pubhtml" caption="" %}
 
 ## Seznam všech aktivit
 
@@ -67,8 +67,8 @@ Na workshopy bude připravený prostor [Zkušebny](../misto-konani/#dostupne-pro
 
 | Název | Lektoři | Délka |
 | :--- | :--- | :--- |
-| **Hackujeme DeFi arbitráže** \([popis](workshopy/hackujeme-defi-arbitraze.md)\) | Ondřej Vostal, Martin Vlach | 2x 45m |
-| **Rozšíření GETHu o pendingLogs websocket subscription** \([popis](workshopy/rozsireni-gethu-o-pendinglogs-websocket-subscription.md)\) | Ondřej Vostal | 45m |
+| **Hackujeme DeFi arbitráže** \([popis](workshopy/hackujeme-defi-arbitraze.md)\) | Ondřej Vostal | 2x 45m |
+| **Rozšíření GETHu o pendingLogs websocket subscription** \([popis](workshopy/rozsireni-gethu-o-pendinglogs-websocket-subscription.md)\) | Ondra Chaloupka | 45m |
 | **Jak založit vlastní DAO** \([popis](workshopy/jak-zalozit-vlastni-dao.md)\) | Tree | 60m |
 | **Jak na seed investice do DeFi protokolů** | HomΞr Shillson | 45m |
 | **Život bez fiatu** | KryptoVláďa | 60m |
