@@ -27,6 +27,7 @@
   * [Doprava](prakticke-informace/doprava.md)
   * [Ubytování](prakticke-informace/ubytovani.md)
   * [Pro přednášející](prakticke-informace/pro-prednasejici.md)
+  * [Systém obědů a večeří + platba](prakticke-informace/system-obedu-a-veceri-+-platba.md)
 * [Sponzoři & partneři](sponzori.md)
 * [Organizační team](organizacni-team/README.md)
   * [Uvaděči](organizacni-team/uvadeci.md)
