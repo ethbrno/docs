@@ -39,3 +39,7 @@
   * [ETHBrno 2021 🇬🇧](predchozi-rocniky/ethbrno-2021/ethbrno-2021.md)
 
 ## Info in English
+
+***
+
+* [ETHBrno - EN 🇬🇧](ethbrno-en.md)
