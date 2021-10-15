@@ -1,8 +1,10 @@
 # Table of contents
 
+* [ETHBrno 2022](README.md)
+
 ## Předchozí ročníky
 
-* [ETHBrno 2021](README.md)
+* [ETHBrno 2021](<README (1).md>)
   * [Vstupenky](https://ethbrno-ticketing.gwei.cz)
   * [Přednášející](predchozi-rocniky/ethbrno-2021/prednasejici.md)
   * [Místo konání](predchozi-rocniky/ethbrno-2021/misto-konani/README.md)

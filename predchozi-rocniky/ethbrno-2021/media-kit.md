@@ -51,3 +51,9 @@ Autorem grafiky je [Coinmandeer](https://twitter.com/keenofcoin).
 ![](../../.gitbook/assets/banner-rollup-preview.png)
 
 {% file src="../../.gitbook/assets/banner-rollup.pdf" %}
+
+## Wallpaper
+
+![](../../.gitbook/assets/welcome-screen-eth-brno.jpeg)
+
+{% file src="../../.gitbook/assets/welcome-screen-eth-brno.jpeg" %}
