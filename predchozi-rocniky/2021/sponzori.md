@@ -8,7 +8,7 @@ description: Bez nich by nic nebylo
 
 {% hint style="success" %}
 Chcete akci sponzorovat? Děláte něco zajímavého, co by se dalo s ETHBrno spojit?\
-Ozvěte se někomu z [Organizačního teamu](<../../README (1).md#organizacni-team>).
+Ozvěte se někomu z [Organizačního teamu](./#organizacni-team).
 {% endhint %}
 
 ### Road to Devcon grants
