@@ -5,6 +5,7 @@
 ## Předchozí ročníky
 
 * [ETHBrno 2021](predchozi-rocniky/2021/README.md)
+  * [Fotky](https://photos.app.goo.gl/me5WxkPG4DjcS8xF7)
   * [Vstupenky](https://ethbrno-ticketing.gwei.cz)
   * [Přednášející](predchozi-rocniky/2021/prednasejici.md)
   * [Místo konání](predchozi-rocniky/2021/misto-konani/README.md)
