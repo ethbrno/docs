@@ -1,11 +1,5 @@
----
-description: Datum a místo neznámé (?) - TBA
----
+# What is ETHBrno?
 
-# ETHBrno 2022
+ETHBrno is an annual open community conference and meeting for supporters of decentralised finance and smart contracts happening in Brno, Czech Republic.
 
- ![](<.gitbook/assets/ethbrno (1).png>)
-
-**Otevřená komunitní konference a setkání příznivců **[**decentralizovaných financí a smart-kontraktů**](https://komunita.gwei.cz/klicove-pojmy)**.**
-
-TBA
+ETHBrno events are organized by [Gwei.cz](https://gwei.cz) community.
