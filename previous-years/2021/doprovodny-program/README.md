@@ -16,7 +16,7 @@ Více informaci naleznete na stránce [Tour de ETHBrno](tour-de-ethbrno.md).
 
 Hlavní den ETHBrno, během kterého probíhá [hlavní program](../program/) v [Komunitním centru Skála](../misto-konani/).
 
-### 21:30 - 🥴 | [Afterparty - bar anoda ![](../../../.gitbook/assets/anoda.jpeg)](afterparty-bar-anoda.md)
+### 21:30 - 🥴 | [Afterparty - bar anoda <img src="../../../.gitbook/assets/anoda.jpeg" alt="" data-size="line">](afterparty-bar-anoda.md)
 
 Naše afterparty se uskuteční v centru brna - v baru [**anoda**](https://www.facebook.com/anodabar/), kde společně popijeme za doprovodu místních DJs (klidná elektronika). Všichni návštěvníci jsou zváni!
 

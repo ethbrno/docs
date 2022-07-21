@@ -15,7 +15,7 @@ Ozvěte se někomu z [Organizačního teamu](./#organizacni-team).
 
 ![](../../.gitbook/assets/eth-rtd-badge-lightblue-darkblue.png)
 
-### [**Miton C**](https://mitonc.com)****
+### [**Miton C**](https://mitonc.com/)****
 
 ### **MakerDAO**
 
