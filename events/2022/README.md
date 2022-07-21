@@ -6,7 +6,7 @@ description: October 2022 @ Brno, Czech Republic
 
 ## Manifesto
 
-We believe that the right to privacy is a fundamental human right. And good privacy needs good security foundations. Therefore, this year's ETHBrno will be mainly dedicated to these important topics ― **privacy & security**.
+We believe that the right to privacy is a fundamental human right. And good privacy needs good security foundations. Therefore, the second edition of ETHBrno (ETHBrno²) will be mainly dedicated to these important topics ― **privacy & security**.
 
 Our conference and hackathon is for all founders, developers, users and other people who are aware of the urgency of these topics.
 
