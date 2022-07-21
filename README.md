@@ -1,6 +1,6 @@
 # What is ETHBrno?
 
-ETHBrno is an annual open community conference (hackathon) for supporters of decentralised finance and smart contracts happening in Brno, Czech Republic.
+ETHBrno is an annual open community conference (hackathon) for supporters of decentralised finance and smart contracts happening in [Brno, Czech Republic](why-brno.md).
 
 ETHBrno events are organized by [Gwei.cz](https://gwei.cz) community with the help of the non-profit [UTXO Foundation](https://utxo.foundation).
 
