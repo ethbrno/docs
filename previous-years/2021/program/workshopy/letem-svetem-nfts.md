@@ -4,7 +4,7 @@ description: Workshop
 
 # Letem světem NFTs
 
-Délka: **1h 30min**  
+Délka: **1h 30min**\
 Lektor: [RΞSISTANCΞ](../../prednasejici.md#rkssistancks)
 
 CZ/SK NFT Komunita: [Discord](https://discord.gg/KDDz6GCG)
@@ -14,4 +14,3 @@ Tento program bude zaměřený především na NFT zaměřené na umění a coll
 S sebou si odnesete přehled o nejzajímavějších projektech, které v české NFT komunitě sledujeme a zjistíte, že NFT nejsou jen o umění, ale mohou držitelům přinést určité výhody, pasivní příjem, atd. Cílem workshopu by mělo být také to, aby jste měli určité ponětí o tom, na co se při vyhledávání kvalitních NFT projektů zaměřit a jak najít projekt, který bude úspěšný z dlouhodobého hlediska a to třeba i v NFT bear marketu. Tedy nějaké základní ponětí o tom, jak na NFT neprodělat. Komu nebude vadit utratit i pár babek, tak si může na workshopu třeba i pořídit nějaké své první NFT.
 
 Doporučuji s sebou mít notebook v případě, že si budete chtít něco poznamenat, či do záložek uložit odkazy na zajímavé projekty. Bylo by fajn, kdyby účastníci měli již znalosti o tom, jak funguje Ethereum a jak se používá Metamask.
-

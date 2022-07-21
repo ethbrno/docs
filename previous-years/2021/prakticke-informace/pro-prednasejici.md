@@ -6,7 +6,7 @@ description: Důležité informace pro přednášející
 
 ## Vstup - registrace
 
-Přednášející mají přednostní vstup do areálu. Pro rychlejší odbavení pomůže, pokud budete mít po ruce kód vaší vstupenky \(např. `#a1b2c`\).
+Přednášející mají přednostní vstup do areálu. Pro rychlejší odbavení pomůže, pokud budete mít po ruce kód vaší vstupenky (např. `#a1b2c`).
 
 U vstupu se seznámíte s týmem [uvaděčů](../organizacni-team/uvadeci.md), kteří vám budou pomáhat s vaší přednáškou.
 
@@ -14,15 +14,15 @@ U vstupu se seznámíte s týmem [uvaděčů](../organizacni-team/uvadeci.md), k
 
 Je jen na vás, jakým způsobem budete svoji přednášku či workshop koncipovat a jak daný čas využijete - pokud to bude k tématu.
 
-Do sálu, kde budete přednášet se dostavte s 5 minutovým předstihem \(před přednáškou máte 5 minut na přípravu\).
+Do sálu, kde budete přednášet se dostavte s 5 minutovým předstihem (před přednáškou máte 5 minut na přípravu).
 
 S připojením počítače na projektor, mikrofonem nebo čímkoliv dalším vám pomůže uvaděč - každá přednáška má stanoveného [uvaděče](../organizacni-team/uvadeci.md), který se stará o to, aby vše proběhlo tak jak má.
 
 ### Přednášky
 
-Každá přednáška bude uvedená organizátory - řekneme pár slov o vás \(řečníkovi\) a o čem bude vaše přednáška.
+Každá přednáška bude uvedená organizátory - řekneme pár slov o vás (řečníkovi) a o čem bude vaše přednáška.
 
-Vzhledem k naplněnému programu a minimálním rezervám prosíme o respektování přiřazeného času \(viz. [Časový rozpis](../program/#casovy-rozpis)\) - budeme muset končit opravdu na čas. Pokud chcete diskuzi, musíte si na to vyčlenit část přiřazeného času.
+Vzhledem k naplněnému programu a minimálním rezervám prosíme o respektování přiřazeného času (viz. [Časový rozpis](../program/#casovy-rozpis)) - budeme muset končit opravdu na čas. Pokud chcete diskuzi, musíte si na to vyčlenit část přiřazeného času.
 
 Přednášky se budou nahrávat a je nutné použít mikrofon.
 
@@ -38,7 +38,7 @@ Ve všech sálech bude k dispozici projektor s připojením přes HDMI. Budeme m
 
 V každém sále bude pro přednášející k dispozici:
 
-* projektor \(HDMI\)
+* projektor (HDMI)
 * wifi internet
 * 230V zásuvky
 * balená voda
@@ -66,4 +66,3 @@ Oběd a večeři si můžete objednat jako běžní návštěvníci skrz náš h
 ### Přístup na snídani
 
 Jako přednášející máte volný přístup na naší "raut" snídani. Teplé nápoje si můžete zakoupit v kavárně.
-

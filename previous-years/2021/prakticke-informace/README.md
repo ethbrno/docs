@@ -12,20 +12,20 @@ Systém rezervace vstupenek: [https://ethbrno-ticketing.gwei.cz/](https://ethbrn
 
 ## [COVID-19 opatření](covid-opatreni.md)
 
-**Jsme státem nucení vyžadovat očkování, PCR test starý 7 dnů nebo antigenní test starý maximálně 72 hodin.** 
+**Jsme státem nucení vyžadovat očkování, PCR test starý 7 dnů nebo antigenní test starý maximálně 72 hodin.**&#x20;
 
 Pokud se cokoli změní budeme vás samozřejmě informovat.
 
 ## [Doprava](doprava.md)
 
-* [Hromadná doprava \(MHD\)](doprava.md#hromadna-doprava-mhd)
+* [Hromadná doprava (MHD)](doprava.md#hromadna-doprava-mhd)
 * [Vlak, bus](doprava.md#vlak-autobus-dalkovy)
 * [Letadlem](doprava.md#letadlem)
 * [Autem](doprava.md#autem)
 
 ## [Ubytování](ubytovani.md)
 
-* [Apartmány \(Airbnb\)](ubytovani.md#apartmany-airbnb)
+* [Apartmány (Airbnb)](ubytovani.md#apartmany-airbnb)
 * [Hotely](ubytovani.md#hotely)
 
 ## Parkování
@@ -35,4 +35,3 @@ Zaparkujete u nás jednoduše na volných místech přímo před komunitním cen
 ## Občerstvení
 
 TODO
-
