@@ -1,7 +1,9 @@
 # Table of contents
 
 * [What is ETHBrno?](README.md)
-* [ETHBrno²](2022.md)
+* [ETHBrno²](2022/README.md)
+  * [Sponsors](2022/sponsors.md)
+  * [Organizing team](2022/organizing-team.md)
 
 ## Previous years
 
