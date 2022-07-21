@@ -1,6 +1,7 @@
 # Table of contents
 
 * [What is ETHBrno?](README.md)
+* [Why Brno?](why-brno.md)
 
 ## Events
 
