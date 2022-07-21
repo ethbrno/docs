@@ -5,6 +5,7 @@
 ## Events
 
 * [ETHBrno² (2022)](events/2022/README.md)
+  * [Venue](events/2022/venue.md)
   * [Sponsors](events/2022/sponsors.md)
   * [Organizing team](events/2022/organizing-team.md)
 * [ETHBrno 2021](events/2021/README.md)
