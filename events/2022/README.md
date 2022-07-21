@@ -15,3 +15,9 @@ Let's learn together to defend against all threats, whether it's loss of privacy
 ## Venue
 
 TBA
+
+## Links
+
+* [Website](https://ethbrno.cz/)
+* [Twitter](https://twitter.com/ethbrno)
+* [GitHub](https://github.com/gweicz/ethbrno)
