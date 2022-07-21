@@ -1,7 +1,7 @@
 # Table of contents
 
 * [What is ETHBrno?](README.md)
-* [ETHBrno²](ethbrno-2022.md)
+* [ETHBrno²](2022.md)
 
 ## Previous years
 

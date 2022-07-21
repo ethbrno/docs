@@ -110,13 +110,13 @@ Chcete darovat své krypto dětem, sourozencům, prostě v rodině, či někomu 
 
 Speaker: [Jan Nehyba](../prednasejici.md#jan-nehyba), [Jakub Lanc](../prednasejici.md#jakub-lanc)
 
-Přednáška a workshop zve k účasti na přemýšlení o navrhovaném konceptu projektu, který při dobré konstelaci hvězd bude podpořen grantem od Otevřené výzvy \([https://otevreno.org/otevrena-vyzva/](https://otevreno.org/otevrena-vyzva/)\) Jednoduše jde o projekt, který má za cíl vytvořit nově volitelný předmět na Pedagogické fakultě Masarykovy univerzity. Tento předmět má za cíl vzdělávat budoucí učitele o problematice kryptoekonomiky a hlavně předat dovednosti, jak o této problematice mluvit a učit žáky a žákyně na školách \(ZŠ a SŠ\). Aby toho nebylo málo, tak si autor projekt usmyslel, že by rád udělal tento předmět finančně nezávislý. Tedy, aby se například lektoři předmětu se hradili z nově vzniklého kryptofondu, který má za účel podporovat lektorské aktivity na Pedagogické fakultě. A nejlépe, aby to bylo celé řízené přes DAO a studenti tak měli reálný příklad toho, jak to vše může fungovat. Jednoduše, to o čem se mluví, tak se i realizuje na příkladu tohoto předmětu. Zváni na workshop jsou všichni, koho baví přemýšlet o tom, jak by se tento scénář mohl stát skutečným nebo jednoduše všichni, kteří se zajímají o to, jak předávat znalosti o kryptoměnách \(předně mladším generacím\). [Více o projektu](https://miro.com/app/board/o9J_lt9BzOE=/?invite_link_id=925805194630).
+Přednáška a workshop zve k účasti na přemýšlení o navrhovaném konceptu projektu, který při dobré konstelaci hvězd bude podpořen grantem od Otevřené výzvy ([https://otevreno.org/otevrena-vyzva/](https://otevreno.org/otevrena-vyzva/)) Jednoduše jde o projekt, který má za cíl vytvořit nově volitelný předmět na Pedagogické fakultě Masarykovy univerzity. Tento předmět má za cíl vzdělávat budoucí učitele o problematice kryptoekonomiky a hlavně předat dovednosti, jak o této problematice mluvit a učit žáky a žákyně na školách (ZŠ a SŠ). Aby toho nebylo málo, tak si autor projekt usmyslel, že by rád udělal tento předmět finančně nezávislý. Tedy, aby se například lektoři předmětu se hradili z nově vzniklého kryptofondu, který má za účel podporovat lektorské aktivity na Pedagogické fakultě. A nejlépe, aby to bylo celé řízené přes DAO a studenti tak měli reálný příklad toho, jak to vše může fungovat. Jednoduše, to o čem se mluví, tak se i realizuje na příkladu tohoto předmětu. Zváni na workshop jsou všichni, koho baví přemýšlet o tom, jak by se tento scénář mohl stát skutečným nebo jednoduše všichni, kteří se zajímají o to, jak předávat znalosti o kryptoměnách (předně mladším generacím). [Více o projektu](https://miro.com/app/board/o9J\_lt9BzOE=/?invite\_link\_id=925805194630).
 
 ## DAOs: Teorie a praxe v BanklessDAO
 
 Speaker: [Rixcian](../prednasejici.md#rixcian)
 
-Nejdříve si povíme co jsou tzv. DAOs \(decentralizované autonomní organizace\), k čemu slouží a jak se liší od tradičních organizací. Hned po té, si ale už prakticky řekneme, jak to funguje uvnitř BanklessDAO \(bDAO\), jejíž členem speaker je. bDAO je poměrně nová mezinárodní organizace dobrovolníků, kteří si dávají za cíl šířit osvětu o kryptoměnách a odpojení od tradičních fin. institucí. Povíme si něco i o nejzajímavějších projektech DAO, jako např. [BED Indexu](https://www.coingecko.com/en/coins/bankless-bed-index) nebo právě chystaném [Venture Capital DAO](https://forum.bankless.community/t/bankless-vc-dao-aka-fight-club-proposal/1432).
+Nejdříve si povíme co jsou tzv. DAOs (decentralizované autonomní organizace), k čemu slouží a jak se liší od tradičních organizací. Hned po té, si ale už prakticky řekneme, jak to funguje uvnitř BanklessDAO (bDAO), jejíž členem speaker je. bDAO je poměrně nová mezinárodní organizace dobrovolníků, kteří si dávají za cíl šířit osvětu o kryptoměnách a odpojení od tradičních fin. institucí. Povíme si něco i o nejzajímavějších projektech DAO, jako např. [BED Indexu](https://www.coingecko.com/en/coins/bankless-bed-index) nebo právě chystaném [Venture Capital DAO](https://forum.bankless.community/t/bankless-vc-dao-aka-fight-club-proposal/1432).
 
 ## BohemianDAO: podpořme lokální ekosystém
 
@@ -128,9 +128,9 @@ Speaker: [Tree](../prednasejici.md#tree)
 
 Speaker: [Petr Menšík](../prednasejici.md#petr-mensik)
 
-Začátek aukcí na Polkadotu se nám kvapem blíží a tak si pojďme povědět co to vlastně ten Polkadot je, jaká je jeho vize Web 3.0 a decentralizovaného internetu a jak tohle vše souvisí s nejpopulárnější smart contract platformou dnešní doby - Ethereem. Součástí přednášky bude také představení několika vznikajících či běžících projektů \(parachainů\), které usilují o kompatibilitu s Ethereum platformou a přinášejí také několik zajímavých vlastností navíc.
+Začátek aukcí na Polkadotu se nám kvapem blíží a tak si pojďme povědět co to vlastně ten Polkadot je, jaká je jeho vize Web 3.0 a decentralizovaného internetu a jak tohle vše souvisí s nejpopulárnější smart contract platformou dnešní doby - Ethereem. Součástí přednášky bude také představení několika vznikajících či běžících projektů (parachainů), které usilují o kompatibilitu s Ethereum platformou a přinášejí také několik zajímavých vlastností navíc.
 
-## Eth2 neexistuje \(a nebude\)
+## Eth2 neexistuje (a nebude)
 
 Speaker: [Mario Havel](https://ethbrno.gwei.cz/prednasejici#mario-havel)
 
@@ -140,5 +140,4 @@ Ethereum 2.0 je široko očakávané vylepšenie Ethereum siete. Prináša funda
 
 Speaker: [Michael Repetný](../prednasejici.md#michael-repetny)
 
-Vysvětlíme si, jak [Solana](https://solana.com/) funguje a čím se liší od Etherea. Zjistíte, co je to liquid staking a jak ho využít k zabezpečení sítě a zároveň vyšším výnosům v DeFi. Nakouknete také pod pokličku projektu s českou stopou - [Marinade.finance](https://marinade.finance/) \(MNDE\).
-
+Vysvětlíme si, jak [Solana](https://solana.com/) funguje a čím se liší od Etherea. Zjistíte, co je to liquid staking a jak ho využít k zabezpečení sítě a zároveň vyšším výnosům v DeFi. Nakouknete také pod pokličku projektu s českou stopou - [Marinade.finance](https://marinade.finance/) (MNDE).
