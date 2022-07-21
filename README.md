@@ -4,13 +4,17 @@ ETHBrno is an annual open community conference (hackathon) for supporters of dec
 
 ETHBrno events are organized by [Gwei.cz](https://gwei.cz) community.
 
-### Current event
+### Planned events
 
-* [ETHBrno² (2022)](2022.md)
+| Name                            | Date         | Location |
+| ------------------------------- | ------------ | -------- |
+| [ETHBrno² (2022)](events/2022/) | October 2022 | TBA      |
 
 ### Past events
 
-* [ETHBrno 2021](past-events/2021/)
+| Name                         | Date      | Location                              |
+| ---------------------------- | --------- | ------------------------------------- |
+| [ETHBrno 2021](events/2021/) | 9.10.2021 | [KC Skála](events/2021/misto-konani/) |
 
 ## Links
 
