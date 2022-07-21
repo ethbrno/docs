@@ -6,15 +6,15 @@ ETHBrno events are organized by [Gwei.cz](https://gwei.cz) community with the he
 
 ### Planned events
 
-| Name                            | Date         | Location |
-| ------------------------------- | ------------ | -------- |
-| [ETHBrno² (2022)](events/2022/) | October 2022 | TBA      |
+| Name                            | Date         | Topic              | Location |
+| ------------------------------- | ------------ | ------------------ | -------- |
+| [ETHBrno² (2022)](events/2022/) | October 2022 | Privacy & security | TBA      |
 
 ### Past events
 
-| Name                         | Date      | Location                              |
-| ---------------------------- | --------- | ------------------------------------- |
-| [ETHBrno 2021](events/2021/) | 9.10.2021 | [KC Skála](events/2021/misto-konani/) |
+| Name                         | Date      | Topic | Location                              |
+| ---------------------------- | --------- | ----- | ------------------------------------- |
+| [ETHBrno 2021](events/2021/) | 9.10.2021 | -     | [KC Skála](events/2021/misto-konani/) |
 
 ## Links
 
