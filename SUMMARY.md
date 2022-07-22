@@ -7,8 +7,11 @@
 
 * [ETHBrno² (2022)](events/2022/README.md)
   * [Venue](events/2022/venue.md)
+  * [Hackathon](events/2022/hackathon.md)
+  * [Speakers](events/2022/speakers.md)
   * [Sponsors](events/2022/sponsors.md)
   * [Organizing team](events/2022/organizing-team.md)
+  * [Impressum](events/2022/impressum.md)
 * [ETHBrno 2021](events/2021/README.md)
   * [Fotky](https://photos.app.goo.gl/me5WxkPG4DjcS8xF7)
   * [Vstupenky](https://ethbrno-ticketing.gwei.cz)
