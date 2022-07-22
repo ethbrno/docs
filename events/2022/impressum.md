@@ -1,3 +1,7 @@
+---
+description: Legal entity
+---
+
 # Impressum
 
 UTXO Foundation, z.s.\
