@@ -9,7 +9,9 @@ Identification (IČO): 14320070\
 Associations registry (Spolkový rejstřík): L 76005 vedená u Městského soudu v Praze\
 Data box (Datová schránka): i63qmxw
 
+More info: [utxo.foundation](https://utxo.foundation/)
+
 ### Contact
 
 Tereza Starostová\
-E-Mail: tereza@utxo.foundation
+E-Mail: [tereza@utxo.foundation](mailto:tereza@utxo.foundation)
