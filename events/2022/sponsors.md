@@ -1,5 +1,5 @@
 ---
-description: Sponsor Us!
+description: Sponsor us!
 ---
 
 # Sponsors
