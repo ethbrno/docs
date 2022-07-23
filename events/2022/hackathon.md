@@ -6,7 +6,7 @@ description: '@ ETHBrno² - Privacy & Security'
 
 Becoming a _hacker_ is the main way you can get a ticket (for free!) and secure your participation in ETHBrno². We're expecting a few hundred hackers, and only dozens of tickets will go on general sale.
 
-You don't have to be a smart-contract developer or programmer to participate in our hackathon - you can be also a copywriter, economist, graphic designer, community builder, translator... Today's world of Web3 and cryptocurrencies is no longer just a nerd tech thing, but we need collaboration across professions to move forward.&#x20;
+You don't have to be a smart-contract developer or programmer to participate in our hackathon - you can be also a copywriter, economist, graphic designer, community builder, translator... Today's world of cryptocurrencies and Web3 is no longer just a nerd tech thing, but we need collaboration across professions to move forward.&#x20;
 
 Our hackathon is open to all open minds who don't want to stand passively by, but want to put their own hands and heads to work and _be part of our collective effort_. But, that doesn't mean you have to sit at your laptop and work all the time. The main thing is to enjoy the event - meet new interesting people or learn something new that will broaden your horizons.
 
