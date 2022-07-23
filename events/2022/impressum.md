@@ -4,7 +4,7 @@ description: Legal entity
 
 # Impressum
 
-**UTXO Foundation, z.s.**\
+UTXO Foundation, z.s.\
 Korunní 2569/108\
 101 00 Praha 10 - Vinohrady\
 Czech Republic
