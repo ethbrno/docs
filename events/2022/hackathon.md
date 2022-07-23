@@ -8,7 +8,7 @@ Becoming a _hacker_ is the main way you can get a ticket (for free!) and secure 
 
 You don't have to be a smart-contract developer or programmer to participate in our hackathon - you can be also a copywriter, economist, graphic designer, community builder, translator... Today's world of Web3 and cryptocurrencies is no longer just a nerd tech thing, but we need collaboration across professions to move forward.&#x20;
 
-Our hackathon is open to all open minds who don't want to stand passively by, but want to put their own hands and heads to work. But, that doesn't mean you have to sit at your laptop and work all the time. The main thing is to enjoy the event, meet new people and learn something new.
+Our hackathon is open to all open minds who don't want to stand passively by, but want to put their own hands and heads to work. But, that doesn't mean you have to sit at your laptop and work all the time. The main thing is to enjoy the event, meet new people, learn something new and be _part of it_.
 
 This year's theme is **privacy and security** (read [our Manifesto](./#manifesto)).
 
