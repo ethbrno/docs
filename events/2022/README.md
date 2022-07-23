@@ -14,7 +14,7 @@ Let's learn together to defend against all threats, whether it's loss of privacy
 
 ### Topics
 
-Privacy, Security, Self-sovereignty, Non-KYC, Encryption, Peer-to-peer (P2P), Open-source, Web3, Smart-contracts, Audits, Vulnerabilities, Analytics, Wallets, Scams, Dark Forest, Maximal extractable value (MEV), Zero-knowledge Proofs (zkp)
+_Privacy, Security, Self-sovereignty, Non-KYC, Encryption, Peer-to-peer (P2P), Open-source, Web3, Smart-contracts, Audits, Vulnerabilities, Analytics, Wallets, Scams, Dark Forest, Maximal extractable value (MEV), Zero-knowledge Proofs (zkp)_
 
 ## Venue
 
