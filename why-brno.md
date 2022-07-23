@@ -12,11 +12,11 @@ Being _Central Europe’s most central city_ makes getting to and from Brno extr
 
 ### Approximate journey times
 
-* **Bratislava** - 1,5 hour (130 km)
-* **Vienna** - 1,5-2 hours (140 km)
-* **Prague** -  2,5-3 hours (200 km)
-* **Budapest** - 3-5 hours (320 km)
-* **Krakow** - 3,5-5,5 hours (330 km)
+* Bratislava - 1,5 hour (130 km)
+* Vienna - 1,5-2 hours (140 km)
+* Prague -  2,5-3 hours (200 km)
+* Budapest - 3-5 hours (320 km)
+* Krakow - 3,5-5,5 hours (330 km)
 * Berlin - 5-8 hours (550 km)
 
 ## Industrious and innovative
