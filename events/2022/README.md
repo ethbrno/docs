@@ -12,6 +12,10 @@ Our hackathon is for all founders, developers, users and other people who are aw
 
 Let's learn together to defend against all threats, whether it's loss of privacy and state oppression, smart-contract exploits or simple phishing scams. Let's learn how to prevent these threats and how to analyse them retrospectively. Let's learn how to use the right tools, and if we don't have them, let's create them together.
 
+### Topics
+
+Privacy, Security, Self-sovereignty, Non-KYC, Encryption, Peer-to-peer (P2P), Open-source, Web3, Smart-contracts, Audits, Vulnerabilities, Analytics, Wallets, Scams, Dark Forest, Maximal extractable value (MEV), Zero-knowledge Proofs (zkp)
+
 ## Venue
 
 TBA

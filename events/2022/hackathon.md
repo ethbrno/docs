@@ -1,24 +1,16 @@
 # Hackathon
 
-## Topics
+{% hint style="info" %}
+The application form for the hackathon will be published during August.
+{% endhint %}
 
-* Privacy
-* Security
-* Non-KYC
-* Encryption
-* Self-sovereignty
-* Peer-to-peer (P2P)
-* Open-source
-* Web3
-* Smart-contracts
-* Audits
-* Vulnerabilities
-* Analytics
-* Wallets
-* Scams
-* Dark Forest
-* Maximal extractable value (MEV)
-* Zero-knowledge Proofs (zkp)
+## Examples of hacks
+
+* A privacy- or security-enhancing tool of any kind
+* Blockchain or smart-contract analysis tool
+* Marketing campaign to promote privacy and security
+* Practical demonstration of the use of Zero-knowledge proofs
+* Identification of risks associated with Layer2s
 
 ## Rules
 
