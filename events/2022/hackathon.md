@@ -4,15 +4,20 @@ description: '@ ETHBrno² - Privacy & Security'
 
 # Hackathon
 
-{% hint style="info" %}
-The application form for the hackathon will be published during August.
-{% endhint %}
-
 Our hackathon is open to all open minds who don't want to stand passively by, but want to put their own hands and heads to work.
 
 You don't have to be a smart-contract developer or programmer - you can be also a copywriter, economist, graphic designer, community builder, translator... Today's world of Web3 and cryptocurrencies is no longer just a nerd tech thing, but we need collaboration across professions to move forward.
 
 This year's theme is **privacy and security** (read [our Manifesto](./#manifesto)).
+
+### How to apply for the hackathon
+
+{% hint style="info" %}
+The application form for the hackathon will be published during August.
+{% endhint %}
+
+1. Complete and submit the application form - TBA
+2. The organisers will consider your application - if you are accepted then you will receive a free ticket
 
 ## Examples of hacks
 
