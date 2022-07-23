@@ -34,7 +34,7 @@ Here are some examples of what you can start building:
 ## Rules
 
 * Maximum of 5 people per team
-* Projects must be related to "Privacy & Security" topic
+* Projects must be related to the "Privacy & Security" topic
 * All code for projects must be written during the event
 * You cannot steal another team’s source code
 * The decision of judges is final in terms of determining prizes and awards
