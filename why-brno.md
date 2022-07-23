@@ -43,8 +43,8 @@ Not only is Brno a friendly and hospitable city, with over 50 public parks and n
 
 The Czech Republic was recently ranked the [8th safest country in the world](https://www.visionofhumanity.org/wp-content/uploads/2022/06/GPI-2022-web.pdf) – that’s safer than even Switzerland! Medical care here is also very affordable and with the highest doctor-to-patient ratio in the country, Brno is the perfect place to make use of it.
 
+![](.gitbook/assets/25821774902\_973baffc95\_k.jpeg)
+
 {% hint style="info" %}
 Source: [https://www.brnoexpatcentre.eu/im-an-expat/why-brno/](https://www.brnoexpatcentre.eu/im-an-expat/why-brno/)
 {% endhint %}
-
-![](.gitbook/assets/25821774902\_973baffc95\_k.jpeg)
