@@ -19,7 +19,7 @@ The application form for the hackathon will be published during August.
 {% endhint %}
 
 1. Complete and submit the application form - TBA
-2. The organisers will consider your application - if you are accepted then you will receive a free ticket
+2. The organisers will consider your application - if you are accepted then you will receive a email confirmation with free ticket
 
 ## Examples of hacks
 
