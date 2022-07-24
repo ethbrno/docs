@@ -12,7 +12,7 @@ Our hackathon is for all founders, developers, users and other people who are aw
 
 Let's learn together to defend against all threats, whether it's loss of privacy and state oppression, smart-contract exploits or simple phishing scams. Let's learn how to prevent these threats and how to analyse them retrospectively. Let's learn how to use the right tools, and if we don't have them, let's create them together.
 
-Our goal is to be more free and safe - Don't Trust, Verify.
+Don't Trust, Verify.
 
 ### Topics
 
