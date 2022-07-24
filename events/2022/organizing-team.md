@@ -15,6 +15,7 @@ description: Who's behind this
 
 * ****[**Mario Havel**](https://twitter.com/TMIYChao) - Ethereum Foundation
 * ****[**dcbuilder.eth**](https://twitter.com/DCbuild3r) - devpill.me (👨‍💻,💊)
+* [Anett Rolikova](https://twitter.com/AnettRolikova) - Fellowship of Ethereum Magicians
 
 ## Contact Us
 
