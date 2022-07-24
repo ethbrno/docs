@@ -17,5 +17,5 @@ More info: [utxo.foundation](https://utxo.foundation/)
 
 ### Contact
 
-Tereza Starostová\
-E-Mail: [tereza@utxo.foundation](mailto:tereza@utxo.foundation)
+**Tereza Starostová**\
+****E-Mail: [tereza@utxo.foundation](mailto:tereza@utxo.foundation)

@@ -16,7 +16,7 @@ description: Who's behind this
 * ****[**Mario Havel**](https://twitter.com/TMIYChao) - Ethereum Foundation
 * ****[**dcbuilder.eth**](https://twitter.com/DCbuild3r) - devpill.me (👨‍💻,💊)
 
-## Contact
+## Contact Us
 
 * Matrix chat: [#ethbrno:matrix.org](https://matrix.to/#/#ethbrno:matrix.org)
 * Email:
