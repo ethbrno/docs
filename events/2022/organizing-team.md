@@ -15,5 +15,5 @@ description: Who's behind this
 
 * Matrix chat: [#ethbrno:matrix.org](https://matrix.to/#/#ethbrno:matrix.org)
 * Email:
-  * Production: [tereza@utxo.foundation](mailto:tereza@utxo.foundation)
-  * Schedule: [tree@utxo.foundation](mailto:tree@utxo.foundation)
+  * Production / Sponsors: [tereza@utxo.foundation](mailto:tereza@utxo.foundation)
+  * Speakers / Schedule: [tree@utxo.foundation](mailto:tree@utxo.foundation)
