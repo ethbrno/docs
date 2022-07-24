@@ -18,13 +18,19 @@ Don't Trust, Verify.
 
 _Privacy, Security, Self-sovereignty, Non-KYC, Encryption, Peer-to-peer (P2P), Open-source, Web3, Smart-contracts, Audits, Vulnerabilities, Analytics, Wallets, Scams, Dark Forest, Maximal extractable value (MEV), Zero-knowledge Proofs (zkp)_
 
+* [About Hackathon](hackathon.md)
+* [Speakers](speakers.md)
+* [Sponsor us!](sponsors.md)
+* [Organizing team](organizing-team.md)
+* [Impressum](impressum.md)
+
 ## Venue
 
 TBA
 
 ## Links
 
-* [Website](https://ethbrno.cz/)
-* [Matrix chat](https://matrix.to/#/#ethbrno:matrix.org)
-* [Twitter](https://twitter.com/ethbrno)
-* [GitHub](https://github.com/gweicz/ethbrno)
+* Website: [ethbrno.cz](https://ethbrno.cz)
+* Matrix chat: [#ethbrno:matrix.org](https://matrix.to/#/#ethbrno:matrix.org)
+* Twitter: [@ethbrno](https://twitter.com/ethbrno)
+* GitHub: [gweicz/ethbrno](https://github.com/gweicz/ethbrno)
