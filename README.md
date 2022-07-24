@@ -19,5 +19,6 @@ ETHBrno events are organized by [Gwei.cz](https://gwei.cz) community with the he
 ## Links
 
 * [Website](https://ethbrno.cz/)
+* [Matrix chat](https://matrix.to/#/#ethbrno:matrix.org)
 * [Twitter](https://twitter.com/ethbrno)
 * [GitHub](https://github.com/gweicz/ethbrno)
