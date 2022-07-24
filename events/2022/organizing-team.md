@@ -13,7 +13,7 @@ description: Who's behind this
 
 ## Advisors
 
-* ****[**Mario Havel**](https://twitter.com/TMIYChao) - Ethereum Foundation, Paralelní Polis
+* ****[**Mario Havel**](https://twitter.com/TMIYChao) - Ethereum Foundation
 * ****[**dcbuilder.eth**](https://twitter.com/DCbuild3r) - devpill.me (👨‍💻,💊)
 
 ## Contact
