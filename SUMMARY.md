@@ -10,6 +10,7 @@
   * [Speakers](events/2022/speakers.md)
   * [Sponsors](events/2022/sponsors.md)
   * [Organizing team](events/2022/organizing-team.md)
+  * [Related events](events/2022/related-events.md)
   * [Impressum](events/2022/impressum.md)
 * [ETHBrno 2021](events/2021/README.md)
   * [Fotky](https://photos.app.goo.gl/me5WxkPG4DjcS8xF7)
