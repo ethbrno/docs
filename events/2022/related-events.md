@@ -17,3 +17,4 @@
 ### Sources
 
 * [Ethereum events in 2022](https://docs.google.com/spreadsheets/d/1NEu\_FCc1hnGAuRgPmbXXpf0h2lCrCOlMKbbFEqgkVDQ/edit#gid=0)
+* [Upcoming events @ Ethereum.org](https://ethereum.org/en/community/events/)
