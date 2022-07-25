@@ -6,10 +6,10 @@ description: Who's behind this
 
 ## Core team
 
-| Name                                                           | Organization    | Role                       |
-| -------------------------------------------------------------- | --------------- | -------------------------- |
-| ****[**tree**](https://twitter.com/treecz)****                 | Gwei.cz         | vision, speakers, schedule |
-| ****[**Tereza Starostová**](https://twitter.com/tatereza5)**** | UTXO Foundation | production, sponsors       |
+| Name                                                           | Organization    | Role                 |
+| -------------------------------------------------------------- | --------------- | -------------------- |
+| ****[**tree**](https://twitter.com/treecz)****                 | Gwei.cz         | vision, dramaturgy   |
+| ****[**Tereza Starostová**](https://twitter.com/tatereza5)**** | UTXO Foundation | production, sponsors |
 
 ## Advisors
 
