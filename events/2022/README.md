@@ -24,10 +24,6 @@ _Privacy, Security, Self-sovereignty, Non-KYC, Encryption, Peer-to-peer (P2P), O
 * [Organizing team](organizing-team.md)
 * [Impressum](impressum.md)
 
-## Venue
-
-TBA
-
 ## Links
 
 * Website: [ethbrno.cz](https://ethbrno.cz)
