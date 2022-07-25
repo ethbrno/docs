@@ -10,7 +10,7 @@
 | 7.-9.10.    | Bogota **🇨🇴**    | [ETHBogotá](https://bogota.ethglobal.com/) **🇬🇧**                            |
 | 10.10.      | Bogota **🇨🇴**    | [DeFi Bogotá](https://2022.defibogota.org/) **🇬🇧**                           |
 | 11.-14.10.  | Bogota **🇨🇴**    | [Devcon 6](https://devcon.org/en/) **🇬🇧**                                    |
-| ??.-??.10.  | Prague 🇨🇿        | ETHBrno² **🇬🇧**🇨🇿 (this event)                                             |
+| ??.-??.10.  | Brno 🇨🇿          | ETHBrno² **🇬🇧**🇨🇿 (this event)                                             |
 | 28.-30.10.  | Lisbon **🇵🇹**    | [ETHLisbon 2022](https://www.ethlisbon.org/) **🇬🇧**                          |
 | 4.-6.11.    | San Fransisco 🇺🇸 | [ETHSanFransisco 2022](https://sf.ethglobal.com/) **🇬🇧**                     |
 
