@@ -34,3 +34,7 @@ In the local part (which will be in Czech or Slovak language) we expect hundreds
 
 No, this is not an Ethereum-only event. The hackathon is organized by the Czech Ethereum community, but anyone can participate (and give a talk) as long as their topic is security and privacy. The same applies to the projects in the hackathon.
 
+### I can't attend in person - will the lectures be livestreamed?
+
+Yes, we plan to livestream all talks for free. Links will be posted later.
+
