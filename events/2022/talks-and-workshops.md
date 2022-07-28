@@ -21,6 +21,6 @@ Do you have an interesting project or ideas related to privacy or security? Get 
 
 * Privacy and security basics for regular users as well as developers and founders
 * Tools that allow us to increase our privacy
-* Security and decentralisation of blockchains, second layers or sidechains
+* Security and decentralisation of blockchains, second layers, sidechains, bridges etc.
 * Ethereum PoS - Post-merge findings
 
