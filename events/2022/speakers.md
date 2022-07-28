@@ -7,3 +7,7 @@ We would like to open up various topics and issues related to privacy and securi
 {% hint style="info" %}
 The first confirmed speakers will be announced during August.
 {% endhint %}
+
+{% hint style="success" %}
+Do you have an interesting project or ideas related to privacy or security? Get in touch with us at [tree@utxo.foundation](mailto:tree@utxo.foundation).
+{% endhint %}

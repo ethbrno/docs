@@ -9,6 +9,7 @@
   * [Hackathon](events/2022/hackathon.md)
   * [Speakers](events/2022/speakers.md)
   * [Sponsors](events/2022/sponsors.md)
+  * [FAQ](events/2022/faq.md)
   * [Organizing team](events/2022/organizing-team.md)
   * [Related events](events/2022/related-events.md)
   * [Impressum](events/2022/impressum.md)
