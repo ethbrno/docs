@@ -1,8 +1,8 @@
 # Why Brno?
 
-![](.gitbook/assets/32446582714\_2f1fd6a930\_k.jpeg)
-
 With over 400,000 inhabitants, Brno is the Czech Republic’s second largest city after Prague and as the saying goes, **We’re number two – we try harder**, and it shows. The city has invested a great deal into its own development in recent years, putting it on the map in many different ways.
+
+{% embed url="https://www.youtube.com/watch?v=spQwWG0BPHY" %}
 
 ## Location
 
@@ -36,6 +36,8 @@ This student population not only attracts new opportunities in the form of prest
 The city’s heart beats with culture, both modern and classic. Brno has **over 9 city theatres**, two opera companies, a ballet company and countless music venues and clubs. This is also where you will find the world-famous, functionalist Tugendhat Villa (a UNESCO World Cultural Heritage Site) and 1800+ other cultural monuments.
 
 Beyond theatre and music, the young population of Brno ensures a strong, steady flow of fun, new ideas and concepts. There is always something new to experience here, whether it’s a new art gallery opening, an interesting cafe (we have over 170), or one of the city’s novel bars, some of which have even become [globally](https://www.nytimes.com/2017/04/12/travel/cafe-and-cocktail-culture-brno-czech-republic.html?\_r=1).
+
+![](.gitbook/assets/32446582714\_2f1fd6a930\_k.jpeg)
 
 ## Comfortable and safe
 
