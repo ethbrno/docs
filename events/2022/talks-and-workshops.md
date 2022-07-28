@@ -16,3 +16,11 @@ The first confirmed speakers will be announced during August.
 {% hint style="success" %}
 Do you have an interesting project or ideas related to privacy or security? Get in touch with us at [tree@utxo.foundation](mailto:tree@utxo.foundation).
 {% endhint %}
+
+## Key topics
+
+* Privacy and security basics for regular users as well as developers and founders
+* Tools that allow us to increase our privacy
+* Security and decentralisation of blockchains, second layers or sidechains
+* Ethereum PoS - Post-merge findings
+
