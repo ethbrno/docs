@@ -4,7 +4,7 @@ ETHBrno is an annual open community conference and hackathon for supporters of d
 
 ETHBrno events are organized by [Gwei.cz](https://gwei.cz) community with the help of the [UTXO Foundation](https://utxo.foundation).
 
-![](<.gitbook/assets/DSC02036 (1).jpeg>) ![](.gitbook/assets/DSC02086.jpeg) ![](<.gitbook/assets/DSC02139 (1).jpeg>) ![](.gitbook/assets/DSC02098.jpeg)
+![](.gitbook/assets/ethbrno21-1.jpg) ![](<.gitbook/assets/DSC02139 (1).jpeg>) ![](.gitbook/assets/ethbrno21-3.jpg) ![](.gitbook/assets/ethbrno21-4.jpg)
 
 ### Planned events
 
