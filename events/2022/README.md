@@ -19,7 +19,7 @@ Don't Trust, Verify.
 _Privacy, Security, Self-sovereignty, Non-KYC, Encryption, Peer-to-peer (P2P), Open-source, Web3, Smart-contracts, Audits, Vulnerabilities, Analytics, Wallets, Scams, Dark Forest, Maximal extractable value (MEV), Zero-knowledge Proofs (zkp)_
 
 * [About Hackathon](hackathon.md)
-* [Speakers](speakers.md)
+* [Speakers](talks-and-workshops.md)
 * [Sponsor us!](sponsors.md)
 * [Organizing team](organizing-team.md)
 * [Impressum](impressum.md)

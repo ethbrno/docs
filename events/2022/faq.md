@@ -17,7 +17,7 @@ There are several different ways:
 * **sign up for the** [**hackathon**](hackathon.md) **as a hacker** (free) - _applications will open during August_
 * **buy a general admission ticket**: only a limited number will be available (paid) - _sales will start during August_
 * **apply as** [**volunteer**](organizing-team.md#volunteers) **** (free): contact [tereza@utxo.foundation](mailto:tereza@utxo.foundation)
-* **apply as a** [**speaker**](speakers.md) **** (free): contact [tree@utxo.foundation](mailto:tree@utxo.foundation)
+* **apply as a** [**speaker**](talks-and-workshops.md) **** (free): contact [tree@utxo.foundation](mailto:tree@utxo.foundation)
 * **apply as a** [**sponsor**](sponsors.md) **** (paid): contact [tereza@utxo.foundation](mailto:tereza@utxo.foundation)
 
 ### How many visitors will the event be sized for?
