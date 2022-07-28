@@ -1,3 +1,7 @@
+---
+description: Frequently Asked Questions
+---
+
 # FAQ
 
 ### When will the event be held and for how long?
