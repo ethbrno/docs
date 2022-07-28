@@ -20,6 +20,7 @@ _Privacy, Security, Self-sovereignty, Non-KYC, Encryption, Peer-to-peer (P2P), O
 
 * [About Hackathon](hackathon.md)
 * [Talks & workshops](talks-and-workshops.md)
+* [Frequently Asked Questions (FAQ)](faq.md)
 * [Sponsor us!](sponsors.md)
 * [Organizing team](organizing-team.md)
 * [Impressum](impressum.md)
