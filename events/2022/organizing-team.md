@@ -10,6 +10,7 @@ description: Who's behind this
 | -------------------------------------------------------------- | --------------- | -------------------- |
 | ****[**tree**](https://twitter.com/treecz)****                 | Gwei.cz         | vision, dramaturgy   |
 | ****[**Tereza Starostová**](https://twitter.com/tatereza5)**** | UTXO Foundation | production, sponsors |
+| [**Exez**](https://twitter.com/OndraPulc)****                  | BanklessDAO     | visual identity      |
 
 ## Advisors
 
