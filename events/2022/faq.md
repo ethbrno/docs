@@ -4,9 +4,11 @@
 
 The event will take place in the second half of October. We are working on the final dates. The event will not be just a one-day event, but we expect at least Friday and Saturday. We are also considering extending it to Thursday and Sunday.
 
-### What will be the main venue?
+### Where will the event take place?
 
-We are in the process of finding the most suitable location. The main venue will be announced during August.
+We are in the process of selecting the most suitable venue for the main venue, which will be announced during August.
+
+We would like to offer other venues in addition to the main venue. These may host additional lectures and workshops for the general public (local audience).
 
 ### How do I get a ticket or ensure my attendance?
 
