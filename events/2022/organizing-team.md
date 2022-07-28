@@ -18,6 +18,12 @@ description: Who's behind this
 * [Anett Rolikova](https://twitter.com/AnettRolikova) - Ethereum Magicians
 * ****[dcbuilder.eth](https://twitter.com/DCbuild3r) - devpill.me (👨‍💻,💊)
 
+## Volunteers
+
+{% hint style="success" %}
+If you want to help us with the organization as a volunteer, we would be happy if you contact Tereza at [tereza@utxo.foundation](mailto:tereza@utxo.foundation).
+{% endhint %}
+
 ## Contact Us
 
 * Matrix chat: [#ethbrno:matrix.org](https://matrix.to/#/#ethbrno:matrix.org)
