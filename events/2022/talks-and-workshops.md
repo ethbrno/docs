@@ -23,5 +23,6 @@ Do you have an interesting project or ideas related to privacy or security? Get 
 * Tools that allow us to increase our privacy
 * Security and decentralisation of blockchains, second layers, sidechains, bridges etc.
 * Smart-contract audits, analytics tools
+* Scams and various phishing attacks - digital self-defence
 * Ethereum PoS - Post-merge findings
 
