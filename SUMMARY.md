@@ -47,3 +47,11 @@
     * [Uvaděči](events/2021/organizacni-team/uvadeci.md)
   * [Media Kit](events/2021/media-kit.md)
   * [ETHBrno 2021 🇬🇧](events/2021/ethbrno-2021.md)
+
+***
+
+* [Webpage](https://ethbrno.cz)
+* [Twitter](https://twitter.com/ethbrno)
+* [Discord](https://discord.com/invite/qTCka7qtPZ)
+* [Matrix](https://matrix.to/#/#ethbrno:matrix.org)
+* [GitHub](https://github.com/gweicz/ethbrno)
