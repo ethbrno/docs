@@ -28,6 +28,7 @@ _Privacy, Security, Self-sovereignty, Non-KYC, Encryption, Peer-to-peer (P2P), C
 ## Links
 
 * Website: [ethbrno.cz](https://ethbrno.cz)
-* Matrix chat: [#ethbrno:matrix.org](https://matrix.to/#/#ethbrno:matrix.org)
+* Discord: [ETHBrno²](https://discord.com/invite/qTCka7qtPZ)
+* Matrix: [#ethbrno:matrix.org](https://matrix.to/#/#ethbrno:matrix.org)
 * Twitter: [@ethbrno](https://twitter.com/ethbrno)
 * GitHub: [gweicz/ethbrno](https://github.com/gweicz/ethbrno)
