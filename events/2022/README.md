@@ -1,10 +1,8 @@
 ---
-description: October 2022 @ Brno, Czech Republic
+description: 'October 2022 @ Brno, Czech Republic - #privacy #security #lunarpunk'
 ---
 
 # ETHBrno² (2022)
-
-\#privacy #security #lunarpunk
 
 ## Manifesto
 
