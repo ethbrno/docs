@@ -32,7 +32,7 @@ In the local part (which will be in Czech or Slovak language) we expect hundreds
 
 ### Is this an Ethereum-only event? Does my project have to be Ethereum based?
 
-No, this is not an Ethereum-only event. The hackathon is organized by the Czech Ethereum community, but anyone can participate (and give a talk) as long as their topic is security and privacy. The same applies to the projects in the hackathon.
+No, this is not an Ethereum-only event. The hackathon is organized by the Czech Ethereum community ([gwei.cz](https://gwei.cz)), but anyone can participate (and give a talk) as long as their topic is security and privacy. The same applies to the projects in the hackathon.
 
 ### I can't attend in person - will the talks be livestreamed?
 
