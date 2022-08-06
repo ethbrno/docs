@@ -30,6 +30,7 @@ Here are some examples of what you can start building:
 * Marketing campaign to promote privacy and security
 * Practical demonstration of the use of Zero-knowledge proofs
 * Identification of risks associated with Layer2s
+* Analysis of risks and threats in relation to the supply chain (wallets, node providers etc.)
 
 ### Specific Ideas
 
