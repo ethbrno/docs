@@ -18,7 +18,7 @@ We would like to offer other venues in addition to the main venue. These may hos
 
 There are several different ways:
 
-* **sign up for the** [**hackathon**](hackathon.md) **as a hacker** (free) - _applications will open during August_
+* **sign up for the** [**hackathon**](hackathon/) **as a hacker** (free) - _applications will open during August_
 * **buy a general admission ticket**: only a limited number will be available (paid) - _sales will start during August_
 * **apply as volunteer** (free) - _applications will open during August_
 * **apply as a mentor** (free) - _applications will open during August_

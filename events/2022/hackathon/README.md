@@ -10,7 +10,7 @@ You don't have to be a smart-contract developer or programmer to participate in 
 
 Our hackathon is open to all open minds who don't want to stand passively by, but want to put their own hands and heads to work in our _collective effort_. But, that doesn't mean you have to sit at your laptop and work all the time. The main thing is to enjoy the event - meet new interesting people or learn something new that will broaden your horizons.
 
-This year's theme is **privacy and security** (read [our Manifesto](./#manifesto)).
+This year's theme is **privacy and security** (read [our Manifesto](../#manifesto)).
 
 ### How to apply for the hackathon
 
@@ -32,11 +32,11 @@ Here are some examples of what you can start building:
 * Identification of risks associated with Layer2s
 * Analysis of risks and threats in relation to the supply chain (wallets, node providers etc.)
 
-### Free Ideas
+More specific examples can be found in the [Ideas Shop](ideas-shop.md) section.
 
-#### Security-focused Ethereum/cryptocurrency wallet catalog
-
-As recent hacks [have shown](https://twitter.com/0xTre/status/1554916547940196352), the wrong choice of wallet can put its users at great risk. Following the example of bitcoin site [Wallet Scrutiny](https://walletscrutiny.com/), it would be a good idea to make a list of wallets, their features and most importantly - their security.
+{% content-ref url="ideas-shop.md" %}
+[ideas-shop.md](ideas-shop.md)
+{% endcontent-ref %}
 
 ## Rules
 
