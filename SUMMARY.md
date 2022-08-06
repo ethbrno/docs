@@ -6,8 +6,7 @@
 ## Events
 
 * [ETHBrno² (2022)](events/2022/README.md)
-  * [Hackathon](events/2022/hackathon/README.md)
-    * [Ideas Shop](events/2022/hackathon/ideas-shop.md)
+  * [Hackathon](events/2022/hackathon.md)
   * [Talks & workshops](events/2022/talks-and-workshops.md)
   * [FAQ](events/2022/faq.md)
   * [Sponsors](events/2022/sponsors.md)
@@ -48,11 +47,3 @@
     * [Uvaděči](events/2021/organizacni-team/uvadeci.md)
   * [Media Kit](events/2021/media-kit.md)
   * [ETHBrno 2021 🇬🇧](events/2021/ethbrno-2021.md)
-
-***
-
-* [Webpage](https://ethbrno.cz)
-* [Twitter](https://twitter.com/ethbrno)
-* [Discord](https://discord.com/invite/qTCka7qtPZ)
-* [Matrix](https://matrix.to/#/#ethbrno:matrix.org)
-* [GitHub](https://github.com/gweicz/ethbrno)
