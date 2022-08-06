@@ -3,7 +3,7 @@
 Here you will find a list of ideas that you can adopt (for free of course) and work on as part of our [hackathon](../hackathon.md).
 
 {% hint style="success" %}
-If you have an interesting idea, please post it to our [Discord](https://discord.com/invite/qTCka7qtPZ) or [Matrix](https://matrix.to/#/#ethbrno:matrix.org) channels.
+If you have an interesting idea that you want to appear here, please post it to our [Discord](https://discord.com/invite/qTCka7qtPZ) or [Matrix](https://matrix.to/#/#ethbrno:matrix.org) channels.
 {% endhint %}
 
 ## List of ideas
