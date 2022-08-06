@@ -4,6 +4,8 @@ description: October 2022 @ Brno, Czech Republic
 
 # ETHBrno² (2022)
 
+\#privacy #security #lunarpunk
+
 ## Manifesto
 
 We believe that the right to privacy is a fundamental human right. And good privacy needs good security foundations. Especially today, in a digital age full of people, organizations or governments that want to control you, your money or your data. Therefore, the second edition of [ETHBrno](../../) (ETHBrno²) will be mainly dedicated to these important topics ― **privacy & security**.
