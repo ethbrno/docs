@@ -6,7 +6,8 @@
 ## Events
 
 * [ETHBrno² (2022)](events/2022/README.md)
-  * [Hackathon](events/2022/hackathon.md)
+  * [Hackathon](events/2022/hackathon/README.md)
+    * [Ideas Shop](events/2022/hackathon/ideas-shop.md)
   * [Talks & workshops](events/2022/talks-and-workshops.md)
   * [FAQ](events/2022/faq.md)
   * [Sponsors](events/2022/sponsors.md)
