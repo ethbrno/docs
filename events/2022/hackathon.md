@@ -31,12 +31,13 @@ Here are some examples of what you can start building:
 * Practical demonstration of the use of Zero-knowledge proofs
 * Identification of risks associated with Layer2s
 * Analysis of risks and threats in relation to the supply chain (wallets, node providers etc.)
+* Contribute to public good open-source projects
 
-### Free Ideas
+More specific examples can be found in the [Ideas Shop](hackathon/ideas-shop.md) section.
 
-#### Security-focused Ethereum/cryptocurrency wallet catalog
-
-As recent hacks [have shown](https://twitter.com/0xTre/status/1554916547940196352), the wrong choice of wallet can put its users at great risk. Following the example of bitcoin site [Wallet Scrutiny](https://walletscrutiny.com/), it would be a good idea to make a list of wallets, their features and most importantly - their security.
+{% content-ref url="hackathon/ideas-shop.md" %}
+[ideas-shop.md](hackathon/ideas-shop.md)
+{% endcontent-ref %}
 
 ## Rules
 
