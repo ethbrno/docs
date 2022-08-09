@@ -1,5 +1,5 @@
 ---
-description: 'October 2022 @ Brno ← #privacy #security #lunarpunk'
+description: 'Autumn 2022 @ Brno ← #privacy #security #lunarpunk'
 ---
 
 # ETHBrno² (2022)
