@@ -12,7 +12,7 @@ Our [hackathon](hackathon.md) is for all founders, developers, users and other p
 
 Let's learn together to defend against all threats, whether it's loss of privacy and state oppression, smart-contract exploits or simple phishing scams. Let's learn how to analyse them retrospectively. Let's learn how to use the right tools, and if we don't have them, let's create them together.
 
-_Don't Trust. Verify._
+_Don't Trust. Verify. - Run a node - Protect privacy_
 
 {% embed url="https://www.youtube.com/watch?v=QA3YZVDUN5s" %}
 
