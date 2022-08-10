@@ -15,6 +15,7 @@ description: Who's behind this
 ## Advisors
 
 * ****[Mario Havel](https://twitter.com/TMIYChao) - Ethereum Foundation
+* [Josef J](https://twitter.com/JosefJ\_) - ETHPrague mastermind
 * [Anett Rolikova](https://twitter.com/AnettRolikova) - Ethereum Magicians
 * ****[dcbuilder.eth](https://twitter.com/DCbuild3r) - devpill.me (👨‍💻,💊)
 
