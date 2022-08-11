@@ -4,7 +4,7 @@ description: '@ ETHBrno² - Privacy & Security'
 
 # Hackathon
 
-Becoming a _hacker_ is the main way you can get a ticket (for free!) and secure your participation in ETHBrno². We're expecting a few hundred hackers, and only dozens of tickets will go on general sale.
+Becoming a _hacker_ is the main way you can get a ticket and secure your participation in ETHBrno². We're expecting a few hundred hackers, and only dozens of tickets will go on general sale (if any at all).
 
 You don't have to be a smart-contract developer or programmer to participate in our hackathon - you can be also a copywriter, economist, graphic designer, community builder, translator... Today's world of cryptocurrencies and Web3 is no longer just a nerd tech thing, but we need collaboration across professions to move forward.&#x20;
 
@@ -12,7 +12,17 @@ Our hackathon is open to all open minds who don't want to stand passively by, bu
 
 This year's theme is **privacy and security** (read [our Manifesto](./#manifesto)).
 
-### How to apply for the hackathon
+## What to expect
+
+We will do our best to make your experience as pleasant as possible:
+
+* 🌱 Pleasant and friendly environment full of enthusiastic people
+* :speech\_balloon: Dozens of experienced mentors who will be happy to help you with your project
+* :salad: Food and drinks for all participants (for free)
+* ⛺ Meeting rooms, for team private meetings etc. (reservation required)
+* :electric\_plug: Ultra fast internet connection and power sockets everywhere
+
+## Apply for the hackathon
 
 {% hint style="info" %}
 The application form for the hackathon will be published during August.
