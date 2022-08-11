@@ -18,9 +18,10 @@ We will do our best to make your experience as pleasant as possible:
 
 * 🌱 Pleasant and friendly environment full of enthusiastic people
 * :speech\_balloon: Dozens of experienced mentors who will be happy to help you with your project
-* :salad: Food and drinks for all participants (for free)
+* :salad: Food and drinks for all participants
 * ⛺ Meeting rooms, for team private meetings etc. (reservation required)
 * :electric\_plug: Ultra fast internet connection and power sockets everywhere
+* 👕 Swag bag with ETHBrno t-shirt and sponsors' items for each participant
 
 ## Apply for the hackathon
 
