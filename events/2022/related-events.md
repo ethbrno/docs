@@ -10,11 +10,14 @@
 | 7.-9.10.    | Bogota **🇨🇴**    | [ETHBogotá](https://bogota.ethglobal.com/) **🇬🇧**                            |
 | 10.10.      | Bogota **🇨🇴**    | [DeFi Bogotá](https://2022.defibogota.org/) **🇬🇧**                           |
 | 11.-14.10.  | Bogota **🇨🇴**    | [Devcon 6](https://devcon.org/en/) **🇬🇧**                                    |
-| ??.-??.10.  | Brno 🇨🇿          | ETHBrno² **🇬🇧**🇨🇿 (this event)                                             |
-| 28.-30.10.  | Lisbon **🇵🇹**    | [ETHLisbon 2022](https://www.ethlisbon.org/) **🇬🇧**                          |
+| 28.-30.10.  | Lisbon **🇵🇹**    | [ETHLisbon 2022](https://www.ethlisbon.org/) **🇬🇧**🇵🇹                      |
 | 4.-6.11.    | San Fransisco 🇺🇸 | [ETHSanFransisco 2022](https://sf.ethglobal.com/) **🇬🇧**                     |
+| 4.-5.11.    | Prague 🇨🇿        | [NON-FUNGIBLE CASTLE](https://www.nfcastle.com/) **🇬🇧**                      |
+| 9.-10.11.   | London 🇬🇧        | [Token2049](https://www.europe.token2049.com/) **🇬🇧**                        |
+| ??.-??.11.  | Brno 🇨🇿          | ETHBrno² **🇬🇧**🇨🇿 (this event)                                             |
+| 18.-20.11.  | Barcelona 🇪🇸     | [ETHGathering](https://www.ethgathering.com/) **🇬🇧**                         |
 
 ### Sources
 
-* [Ethereum events in 2022](https://docs.google.com/spreadsheets/d/1NEu\_FCc1hnGAuRgPmbXXpf0h2lCrCOlMKbbFEqgkVDQ/edit#gid=0)
+* [CryptoEvents 2022](https://docs.google.com/spreadsheets/d/1J8C3cLbruoKEPrvoO1ym4RGE2VX-WU4HyXsM7H1GqWM/edit#gid=0)
 * [Upcoming events @ Ethereum.org](https://ethereum.org/en/community/events/)
