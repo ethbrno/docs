@@ -5,5 +5,5 @@ ETHBrno² will be accompanied by various side-events that will take place at var
 | When       | What                                  | Where |
 | ---------- | ------------------------------------- | ----- |
 | Sat-Sun    | [ETHBrno² Česky](../ethbrno-cesky.md) | TBA   |
-| Sat 21:00+ | ETHBrno² Party                        | TBA   |
-| Sun 20:00+ | ETHBrno² Afterparty                   | TBA   |
+| Sat 21:00+ | Party                                 | TBA   |
+| Sun 20:00+ | Afterparty                            | TBA   |
