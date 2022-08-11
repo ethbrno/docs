@@ -5,3 +5,5 @@ We want to complement [the hackathon](hackathon.md) in the main venue with anoth
 ETHBrno² Česky will take place over the weekend (Saturday-Sunday).
 
 Anyone with an ETHBrno wristband will have free entry (reservation required), others will be able to purchase a ticket.
+
+The topics to be presented should be in line with the hackathon and [our manifesto](./#manifesto).
