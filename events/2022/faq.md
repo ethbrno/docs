@@ -6,7 +6,7 @@ description: Frequently Asked Questions
 
 ### When will the event be held and for how long?
 
-The event will take place in the second half of October. We are working on the final dates. The event will not be just a one-day event, but we expect at least Friday and Saturday. We are also considering extending it to Thursday and Sunday.
+The event will take place in November ~~October~~. We are working on the final dates. The event will not be just a one-day event, but we expect at least Friday and Saturday. We are also considering extending it to Thursday and Sunday.
 
 ### Where will the event take place?
 
