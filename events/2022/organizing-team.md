@@ -30,6 +30,7 @@ If you want to help us with the organization as a volunteer, we would be happy i
 ## Contact Us
 
 * Matrix chat: [#ethbrno:matrix.org](https://matrix.to/#/#ethbrno:matrix.org)
+* Discord: [https://discord.com/invite/qTCka7qtPZ](https://discord.com/invite/qTCka7qtPZ)
 * Email:
   * Production / Sponsors: [tereza@utxo.foundation](mailto:tereza@utxo.foundation)
   * Speakers / Schedule: [tree@utxo.foundation](mailto:tree@utxo.foundation)
