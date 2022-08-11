@@ -4,6 +4,8 @@ description: Who's behind this
 
 # Organizing team
 
+The organizing team is legally backed by the local non-profit organization UTXO Foundation, see [Impressum](impressum.md).
+
 ## Core team
 
 | Name                                                           | Organization    | Role                 |
@@ -15,7 +17,7 @@ description: Who's behind this
 ## Advisors
 
 * ****[Mario Havel](https://twitter.com/TMIYChao) - Ethereum Foundation
-* [Josef J](https://twitter.com/JosefJ\_) - ETHPrague mastermind
+* [Josef J](https://twitter.com/JosefJ\_) - ETHPrague, PWN Finance (previously Ethereum Foundation & Devcon)
 * [Anett Rolikova](https://twitter.com/AnettRolikova) - Ethereum Magicians
 * ****[dcbuilder.eth](https://twitter.com/DCbuild3r) - devpill.me (👨‍💻,💊)
 
