@@ -18,9 +18,10 @@ We will do our best to make your experience as pleasant as possible:
 
 * 🌱 Pleasant and friendly environment full of enthusiastic people
 * :speech\_balloon: Dozens of experienced mentors who will be happy to help you with your project
-* :salad: Food and drinks for all participants
+* 📚 Lots of [talks and workshops](talks-and-workshops.md) where you can learn about current trends
+* :salad: Food and drinks for all participants (for free of course!)
 * ⛺ Meeting rooms, for team private meetings etc. (reservation required)
-* :electric\_plug: Ultra fast internet connection and power sockets everywhere
+* 🔌 Ultra fast internet connection and power sockets everywhere
 * 👕 Swag bag with ETHBrno t-shirt and sponsors' items for each participant
 
 ## Apply for the hackathon
@@ -30,7 +31,7 @@ The application form for the hackathon will be published during August.
 {% endhint %}
 
 1. Complete and submit the application form - TBA
-2. The organisers will consider your application - if you are accepted then you will receive a email confirmation with free ticket
+2. The organisers will consider your application - if you are accepted then you will receive a email confirmation with your free hacker ticket
 
 ## Examples of hacks
 
