@@ -10,7 +10,7 @@
     * [Ideas Shop](events/2022/hackathon/ideas-shop.md)
   * [Talks & workshops](events/2022/talks-and-workshops.md)
   * [Side-events](events/2022/side-events/README.md)
-    * [ETHBrno² Česky](events/2022/ethbrno-cesky.md)
+    * [ETHBrno² Česky](events/2022/side-events/ethbrno-cesky.md)
   * [FAQ](events/2022/faq.md)
   * [Sponsors](events/2022/sponsors.md)
   * [Organizing team](events/2022/organizing-team.md)
