@@ -34,5 +34,5 @@ This is just a tentative timetable for now, expect it to change.
 * **14:15** - Finalist Teams Notified on Discord
 * **14:30 - 16:30** - Closing Ceremonies & Demos
 * **16:30** - Coctail party 🎉
-* 1**9:00** - Hackathon ends
+* **19:00** - Hackathon ends
 * **21:00** - Afterparty - TBA
