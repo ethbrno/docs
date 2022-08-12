@@ -10,7 +10,7 @@ The event will take place in November ~~October~~. We are working on the final d
 
 ### Where will the event take place?
 
-We are in the process of selecting the most suitable venue for the main venue, which will be announced during August.
+We are in the process of selecting the most suitable venue, which will be announced during August.
 
 We would like to offer other venues in addition to the main venue. These may host additional lectures and workshops for the general public (local audience).
 

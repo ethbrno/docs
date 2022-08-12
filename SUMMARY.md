@@ -8,6 +8,7 @@
 * [ETHBrno² (2022)](events/2022/README.md)
   * [Hackathon](events/2022/hackathon.md)
     * [Ideas Shop](events/2022/hackathon/ideas-shop.md)
+  * [Main venue](events/2022/main-venue.md)
   * [Talks & workshops](events/2022/talks-and-workshops.md)
   * [Side-events](events/2022/side-events/README.md)
     * [ETHBrno² Česky](events/2022/ethbrno-cesky.md)
