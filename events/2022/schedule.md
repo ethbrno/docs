@@ -1,5 +1,9 @@
 # Schedule
 
+{% hint style="info" %}
+This is just a tentative timetable for now, expect it to change.
+{% endhint %}
+
 ## Thursday
 
 * 14:00 - 20:00 - EARLY Hackathon Registration Opens
@@ -7,9 +11,10 @@
 ## Friday
 
 * 13:00 - Hackathon Registration Opens
-* 15:30 - 18:00 - Talks and workshops
+* 15:30 - 23:00 - Talks and workshops
 * 18:00 - 19:30 - Dinner
-* 18:00 - 23:00 - Talks and workshops
+* 19:00 - 20:30 - Opening Ceremony & Kickoff
+* 20:30 - 21:30 - Team Formation Workshop
 * 23:30 - Midnight Snack - Italian Gelato Stand
 
 ## Saturday
