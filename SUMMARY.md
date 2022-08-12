@@ -11,7 +11,7 @@
   * [Main venue](events/2022/main-venue.md)
   * [Talks & workshops](events/2022/talks-and-workshops.md)
   * [Side-events](events/2022/side-events/README.md)
-    * [ETHBrno+UTXO](events/2022/side-events/ethbrno+utxo.md)
+    * [ETHBrno Beacon](events/2022/side-events/ethbrno-beacon.md)
   * [FAQ](events/2022/faq.md)
   * [Sponsors](events/2022/sponsors.md)
   * [Organizing team](events/2022/organizing-team.md)
