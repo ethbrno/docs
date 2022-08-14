@@ -1,9 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1598817368048-c2948b983acf?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw3fHxicm5vfGVufDB8fHx8MTY2MDQzODk0NA&ixlib=rb-1.2.1&q=80
-coverY: 174.25595238095232
----
-
 # Why Brno?
 
 With over 400,000 inhabitants, Brno is the Czech Republic’s second largest city after Prague and as the saying goes, **We’re number two – we try harder**, and it shows. The city has invested a great deal into its own development in recent years, putting it on the map in many different ways.

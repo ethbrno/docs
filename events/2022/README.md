@@ -1,5 +1,6 @@
 ---
 description: 'November 2022 @ Brno ← #privacy #security #lunarpunk hackathon'
+layout: landing
 ---
 
 # ETHBrno² (2022)
