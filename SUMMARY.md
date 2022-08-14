@@ -9,6 +9,7 @@
   * [Hackathon](events/2022/hackathon.md)
     * [Ideas Shop](events/2022/hackathon/ideas-shop.md)
   * [Main venue](events/2022/main-venue.md)
+  * [Speakers & Mentors](events/2022/speakers-and-mentors.md)
   * [Talks & workshops](events/2022/talks-and-workshops.md)
   * [Schedule](events/2022/schedule.md)
   * [Side-events](events/2022/side-events/README.md)
