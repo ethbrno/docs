@@ -1,8 +1,5 @@
 ---
 description: Legal entity
-cover: >-
-  https://images.unsplash.com/photo-1610130674819-99e0ff4a20f9?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw4fHxicm5vJTIwbmlnaHR8ZW58MHx8fHwxNjYwNDM5MTUz&ixlib=rb-1.2.1&q=80
-coverY: -255.35516372795968
 ---
 
 # Impressum
