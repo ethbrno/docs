@@ -1,5 +1,9 @@
 # Venues
 
+{% hint style="info" %}
+We are working on arranging additional venues to expand our capacity a bit.
+{% endhint %}
+
 ## Impact Hub Brno
 
 Adress: **Cyrilská 7, Brno, 602 00** ([Google Maps](https://goo.gl/maps/wutjvk8jCFuDcvSG6))\
