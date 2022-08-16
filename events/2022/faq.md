@@ -6,13 +6,11 @@ description: Frequently Asked Questions
 
 ### When will the event be held and for how long?
 
-The event will take place in November ~~October~~. We are working on the final dates. The event will not be just a one-day event, but we expect at least Friday and Saturday. We are also considering extending it to Thursday and Sunday.
+The event will take place on **November 11-13, 2022**.
 
 ### Where will the event take place?
 
-We are in the process of selecting the most suitable venue, which will be announced during August.
-
-We would like to offer other venues in addition to the main venue. These may host additional lectures and workshops for the general public (local audience).
+The main venue is **Impact Hub Brno**, but it will not be the only venue. For more informations see [Venues](venues.md).
 
 ### How do I get a ticket or ensure my attendance?
 

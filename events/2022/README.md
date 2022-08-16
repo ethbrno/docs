@@ -25,6 +25,7 @@ _Privacy, Security, Self-sovereignty, Non-KYC, Encryption, Peer-to-peer (P2P), C
 * [Speakers & Mentors](speakers-and-mentors.md)
 * [Talks & workshops](talks-and-workshops.md)
 * [Side-events](side-events/)
+  * [ETHBrno Proxy](side-events/ethbrno-proxy.md)
 * [Frequently Asked Questions (FAQ)](faq.md)
 * [Sponsor us!](sponsors.md)
 * [Organizing team](organizing-team.md)
