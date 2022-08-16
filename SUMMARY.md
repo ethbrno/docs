@@ -58,6 +58,7 @@
 
 * [Webpage](https://ethbrno.cz)
 * [Twitter](https://twitter.com/ethbrno)
+* [Blog](https://mirror.xyz/ethbrno.eth)
 * [Discord](https://discord.com/invite/qTCka7qtPZ)
 * [Matrix](https://matrix.to/#/#ethbrno:matrix.org)
 * [GitHub](https://github.com/gweicz/ethbrno)
