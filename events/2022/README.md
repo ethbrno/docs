@@ -21,8 +21,11 @@ _Don't Trust. Verify. - Run a node - Protect privacy_
 _Privacy, Security, Self-sovereignty, Non-KYC, Encryption, Peer-to-peer (P2P), Cypherpunk, Lunarpunk, Open-source, Web3, Smart-contracts, Audits, Vulnerabilities, Analytics, Wallets, Scams, Dark Forest, Maximal extractable value (MEV), Zero-knowledge Proofs (zkp)_
 
 * [About Hackathon](hackathon.md)
+* [Venues](venues.md)
+* [Speakers & Mentors](speakers-and-mentors.md)
 * [Talks & workshops](talks-and-workshops.md)
 * [Side-events](side-events/)
+  * [ETHBrno Proxy](side-events/ethbrno-proxy.md)
 * [Frequently Asked Questions (FAQ)](faq.md)
 * [Sponsor us!](sponsors.md)
 * [Organizing team](organizing-team.md)
@@ -31,8 +34,9 @@ _Privacy, Security, Self-sovereignty, Non-KYC, Encryption, Peer-to-peer (P2P), C
 
 ## Links
 
-* Website: [ethbrno.cz](https://ethbrno.cz)
+* Web: [ethbrno.cz](https://ethbrno.cz)
+* Twitter: [@ethbrno](https://twitter.com/ethbrno)
+* Blog: [mirror.xyz/ethbrno.eth](https://mirror.xyz/ethbrno.eth)
 * Discord: [ETHBrno²](https://discord.com/invite/qTCka7qtPZ)
 * Matrix: [#ethbrno:matrix.org](https://matrix.to/#/#ethbrno:matrix.org)
-* Twitter: [@ethbrno](https://twitter.com/ethbrno)
 * GitHub: [gweicz/ethbrno](https://github.com/gweicz/ethbrno)

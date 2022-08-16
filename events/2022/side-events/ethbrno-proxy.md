@@ -1,6 +1,8 @@
 # ETHBrno Proxy
 
-We want to complement [the hackathon](../hackathon.md) in the main venue with another smaller venue(s) that would host additional lectures, workshops and panel discussions for the general public and newcomers, primarily in the local language (Czech/Slovak). The topics to be presented should be in line with [our manifesto](../#manifesto).
+A sub-conference for a local general audience.
+
+We want to complement [the hackathon](../hackathon.md) with additional lectures, workshops and panel discussions for the general public and newcomers, primarily in the local language (Czech/Slovak). The topics to be presented should be in line with [our manifesto](../#manifesto).
 
 Event will take place over the weekend (Saturday-Sunday).
 
