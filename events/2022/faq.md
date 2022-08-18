@@ -26,7 +26,7 @@ There are several different ways:
 
 For [the hackathon](hackathon.md) we expect something between 200 and 400 hackers and dozens of visitors with regular tickets.&#x20;
 
-For [side-events](side-events/) (which will be also in Czech or Slovak language) we expect hundreds more visitors from the general public. We plan to involve other venues as well.
+For [side-events](side-events.md) (which will be also in Czech or Slovak language) we expect hundreds more visitors from the general public. We plan to involve other venues as well.
 
 ### Is this an Ethereum-only event? Does my project have to be Ethereum based?
 
