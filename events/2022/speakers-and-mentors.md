@@ -1,9 +1,10 @@
 # Speakers & Mentors
 
-{% hint style="success" %}
-We are still adding more and more new speakers and mentors!
+{% hint style="info" %}
+A complete list of speakers and mentors will be available during October.
 {% endhint %}
 
-## ![](../../.gitbook/assets/rose-circle-70px.png) Rachel-Rose O'Leary
-
-[DarkFi](https://dark.fi/) core dev, writer
+| Name                    | Focus                                                           |
+| ----------------------- | --------------------------------------------------------------- |
+| **Rachel-Rose O'Leary** | [DarkFi](https://dark.fi/) core dev, writer                     |
+| **Juraj Bednar**        | entrepreneur, _hacker_ and [explorer](https://juraj.bednar.io/) |
