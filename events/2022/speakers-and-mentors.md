@@ -4,7 +4,7 @@
 A complete list of speakers and mentors will be available during October.
 {% endhint %}
 
-| Name                    | Focus                                                           |
-| ----------------------- | --------------------------------------------------------------- |
-| **Rachel-Rose O'Leary** | [DarkFi](https://dark.fi/) core dev, writer                     |
-| **Juraj Bednar**        | entrepreneur, _hacker_ and [explorer](https://juraj.bednar.io/) |
+| Name                     | Twitter                                             | Focus                                                           |
+| ------------------------ | --------------------------------------------------- | --------------------------------------------------------------- |
+| **Rachel-Rose O'Leary**  | [@lunar\_mining](https://twitter.com/lunar\_mining) | [DarkFi](https://dark.fi/) core dev, writer                     |
+| **Juraj Bednar**         | [@jurbed](https://twitter.com/jurbed)               | entrepreneur, _hacker_ and [explorer](https://juraj.bednar.io/) |
