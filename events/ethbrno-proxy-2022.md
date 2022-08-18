@@ -13,3 +13,7 @@ Event will take place over the weekend (Saturday-Sunday).
 Anyone with an ETHBrno wristband will have free entry (reservation required), others will be able to purchase a ticket.
 
 We will create a special microsite for this event, which will be internationalized - in Czech and English.
+
+## Speakers
+
+* Juraj Bednar
