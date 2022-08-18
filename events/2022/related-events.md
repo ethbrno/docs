@@ -11,7 +11,7 @@
 | 4.-6.11.    | San Fransisco 🇺🇸 | [ETHSanFransisco 2022](https://sf.ethglobal.com/) **🇬🇧**                     |
 | 4.-5.11.    | Prague 🇨🇿        | [NON-FUNGIBLE CASTLE](https://www.nfcastle.com/) **🇬🇧**                      |
 | 9.-10.11.   | London 🇬🇧        | [Token2049](https://www.europe.token2049.com/) **🇬🇧**                        |
-| ??.-??.11.  | Brno 🇨🇿          | ETHBrno² **🇬🇧**🇨🇿 (this event)                                             |
+| 11.-13.11.  | Brno 🇨🇿          | ETHBrno² **🇬🇧**🇨🇿 (this event)                                             |
 | 18.-20.11.  | Barcelona 🇪🇸     | [ETHGathering](https://www.ethgathering.com/) **🇬🇧**                         |
 
 ### Sources
