@@ -13,6 +13,7 @@ The organizing team is legally backed by the local non-profit organization UTXO 
 | ****[**tree**](https://twitter.com/treecz)****                 | Gwei.cz         | vision, dramaturgy   |
 | ****[**Tereza Starostová**](https://twitter.com/tatereza5)**** | UTXO Foundation | production, sponsors |
 | [**Exez**](https://twitter.com/OndraPulc)****                  | BanklessDAO     | visual identity      |
+| ****[**Jacob Jelen**](https://twitter.com/jacobjelen)****      | -               | hackathon            |
 
 ## Advisors
 
