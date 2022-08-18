@@ -18,7 +18,7 @@
   * [Organizing team](events/2022/organizing-team.md)
   * [Related events](events/2022/related-events.md)
   * [Impressum](events/2022/impressum.md)
-* [ETHBrno Proxy 2022](events/ethbrno-proxy-2022.md)
+* [ETHBrno Proxy 2022](events/proxy-2022.md)
 * [ETHBrno 2021](events/2021/README.md)
   * [Fotky](https://photos.app.goo.gl/me5WxkPG4DjcS8xF7)
   * [Vstupenky](https://ethbrno-ticketing.gwei.cz)
