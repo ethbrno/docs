@@ -13,4 +13,6 @@ Modern coworking space, a short walk from the centre and the train station. In l
 \
 _Impact Hub_ will serve as the **main basecamp for the hackathon** and will be **available for hackers all day 24/7**.
 
+You'll have everything you might need - different work areas (single or team, sitting or standing), fast internet, power sockets everywhere, meeting rooms, refreshments and much more.
+
 ![](../../.gitbook/assets/impact-hub-1.jpeg) ![](../../.gitbook/assets/impact-hub-3.jpeg) ![](../../.gitbook/assets/impact-hub-4.jpeg)
