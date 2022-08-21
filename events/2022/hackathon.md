@@ -23,7 +23,9 @@ We will do our best to make your experience as pleasant as possible:
 * ⛺ Meeting rooms, for team private meetings etc. (reservation required)
 * 🔌 Ultra fast internet connection and power sockets everywhere
 * 👕 Swag bag with ETHBrno t-shirt and sponsors' items for each participant
-* [✨](https://emojipedia.org/sparkles/) And much more...
+* 🍸 Various interesting side-events and parties
+* ❓ You can only love or hate Brno, together we will find out why
+* ✨ And much more...
 
 ## Apply for the hackathon
 
