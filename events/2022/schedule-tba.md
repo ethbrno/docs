@@ -1,6 +1,6 @@
-# Schedule
+# Schedule (TBA)
 
-{% hint style="info" %}
+{% hint style="danger" %}
 This is just a tentative timetable for now, expect it to change.
 {% endhint %}
 
