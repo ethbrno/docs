@@ -20,6 +20,8 @@ _Don't Trust. Verify. - Run a node - Protect privacy_
 
 {% embed url="https://www.youtube.com/watch?v=QA3YZVDUN5s" %}
 
+_Lunarpunk_ term was first introduced in the article "[Lunarpunk and the Dark Side of the Cycle](https://www.egirlcapital.com/writings/107533289)" by _Rachel-Rose O'Leary_ ([@lunar\_mining](https://twitter.com/lunar\_mining)), who also narrated the video above. You will be able to meet her at this year's ETHBrno.
+
 ### Topics
 
 _Privacy, Security, Self-sovereignty, Non-KYC, Encryption, Peer-to-peer (P2P), Cypherpunk, Lunarpunk, Open-source, Web3, Smart-contracts, Audits, Vulnerabilities, Analytics, Wallets, Scams, Dark Forest, Maximal extractable value (MEV), Zero-knowledge Proofs (zkp)_
