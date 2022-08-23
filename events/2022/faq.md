@@ -16,10 +16,10 @@ The main venue is **Impact Hub Brno**, but it will not be the only venue. For mo
 
 There are several different ways:
 
-* **sign up for the** [**hackathon**](hackathon.md) **as a hacker** (free) - _applications will open during August_
+* ****[**sign up for the hackathon as a hacker**](https://cryptpad.fr/form/#/2/form/view/JFQ+WOryuHqPJAna0BOoLka3Lh+JPGrPSm4SWWFYYx0/) (free)&#x20;
 * **buy a general admission ticket**: only a very limited number will be available (paid) - _sales will start during September_
-* **apply as volunteer** (free) - _applications will open during August_
-* **apply as a mentor** (free) - _applications will open during August_
+* **apply as volunteer** (free) - contact us on [Discord](https://discord.com/invite/qTCka7qtPZ)
+* **apply as a mentor** (free) - contact us on [Discord](https://discord.com/invite/qTCka7qtPZ)
 * **apply as a sponsor** (paid) - contact [tereza@utxo.foundation](mailto:tereza@utxo.foundation)
 
 ### How many visitors will the event be sized for?
