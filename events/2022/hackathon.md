@@ -4,6 +4,10 @@ description: '@ ETHBrno² - Privacy & Security'
 
 # Hackathon
 
+{% hint style="success" %}
+Register here 👉 [Hacker application form](https://cryptpad.fr/form/#/2/form/view/JFQ+WOryuHqPJAna0BOoLka3Lh+JPGrPSm4SWWFYYx0/)
+{% endhint %}
+
 Becoming a _hacker_ is the main way you can get a ticket and secure your participation in ETHBrno². We're expecting a few hundred hackers, and only dozens of tickets will go on general sale (if any at all).
 
 You don't have to be a smart-contract developer or programmer to participate in our hackathon - you can be also a copywriter, economist, graphic designer, community builder, translator... Today's world of cryptocurrencies and Web3 is no longer just a nerd tech thing, but we need collaboration across professions to move forward.&#x20;
@@ -29,11 +33,7 @@ We will do our best to make your experience as pleasant as possible:
 
 ## Apply for the hackathon
 
-{% hint style="info" %}
-The application form for the hackathon will be published during August.
-{% endhint %}
-
-1. Complete and submit the application form - TBA
+1. Complete and submit the [Hacker application form](https://cryptpad.fr/form/#/2/form/view/JFQ+WOryuHqPJAna0BOoLka3Lh+JPGrPSm4SWWFYYx0/)
 2. The organisers will consider your application - if you are accepted then you will receive a email confirmation with your free hacker ticket
 
 ## Examples of hacks
