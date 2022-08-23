@@ -20,7 +20,7 @@ _Don't Trust. Verify. - Run a node - Protect privacy_
 
 {% embed url="https://www.youtube.com/watch?v=QA3YZVDUN5s" %}
 
-_Lunarpunk_ term was first introduced in the article "[Lunarpunk and the Dark Side of the Cycle](https://www.egirlcapital.com/writings/107533289)" by _Rachel-Rose O'Leary_ ([@lunar\_mining](https://twitter.com/lunar\_mining)), who also narrated the video above. You will be able to meet her at this year's ETHBrno.
+The term _lunarpunk_ was first introduced in the article "[Lunarpunk and the Dark Side of the Cycle](https://www.egirlcapital.com/writings/107533289)" by _Rachel-Rose O'Leary_ ([@lunar\_mining](https://twitter.com/lunar\_mining)), who also narrated the video above. You will be able to meet her at this year's ETHBrno.
 
 ### Topics
 
