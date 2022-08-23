@@ -1,8 +1,12 @@
 ---
 description: 'November 11-13, 2022 @ Brno ← #privacy #security #lunarpunk hackathon'
+cover: ../../.gitbook/assets/Group_2413.png
+coverY: 170.9833147942158
 ---
 
 # ETHBrno² (2022)
+
+For a quick overview, you can read our introductory article [Announcing ETHBrno²](https://mirror.xyz/ethbrno.eth/6BH9cUVuD85hy5O0L5cOOOE7niSA9Yo5eWsXVzKOlO4).
 
 ## Manifesto
 
