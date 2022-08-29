@@ -13,7 +13,7 @@ The organizing team is legally backed by the local non-profit organization UTXO 
 
 ## Support team
 
-* [Exez](https://twitter.com/OndraPulc) - visual identity
+* [Exez](https://twitter.com/OndraPulc) - visual identity, design
 * Headwitch - mentors seeking, social networks
 * [Jacob Jelen](https://twitter.com/jacobjelen) - hackathon support
 * [damsky](https://twitter.com/helloitsdamsky) - mentors seeking
