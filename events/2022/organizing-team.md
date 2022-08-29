@@ -18,6 +18,7 @@ The organizing team is legally backed by the local non-profit organization UTXO 
 * [Jacob Jelen](https://twitter.com/jacobjelen) - hackathon support
 * [damsky](https://twitter.com/helloitsdamsky) - mentors seeking
 * Petr Menšík - mentors seeking (Polkadot related)
+* [Chris Hobcroft](https://twitter.com/chrishobcroft) - general help
 
 ## Advisors
 
