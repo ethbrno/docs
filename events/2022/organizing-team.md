@@ -15,7 +15,7 @@ The organizing team is legally backed by the local non-profit organization UTXO 
 
 * [Exez](https://twitter.com/OndraPulc) - visual identity, design
 * Headwitch - mentors seeking, social networks
-* [Jacob Jelen](https://twitter.com/jacobjelen) - hackathon support
+* [Jacob Jelen](https://twitter.com/jacobjelen) - networking support
 * [damsky](https://twitter.com/helloitsdamsky) - mentors seeking
 * Petr Menšík - mentors seeking (Polkadot related)
 * [Chris Hobcroft](https://twitter.com/chrishobcroft) - general help
