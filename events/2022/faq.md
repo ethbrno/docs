@@ -28,6 +28,10 @@ For [the hackathon](hackathon.md) we expect something between 200 and 400 hacker
 
 For [side-events](side-events.md) (which will be also in Czech or Slovak language) we expect hundreds more visitors from the general public. We plan to involve other venues as well.
 
+### Is the hackathon only for software developers?
+
+Absolutely not, all people who want to be active are welcome (you can be a copywriter, economist, graphic designer, community builder, translator...). You can learn more in the [Hackathon](hackathon.md) section.
+
 ### Is this an Ethereum-only event? Does my project have to be Ethereum based?
 
 No, this is not an Ethereum-only event. The hackathon is organized by the Czech Ethereum community ([gwei.cz](https://gwei.cz)), but anyone can participate (and give a talk) as long as their topic is security and privacy. The same applies to the projects in the hackathon.
