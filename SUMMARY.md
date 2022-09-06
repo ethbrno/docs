@@ -11,7 +11,7 @@
   * [Venues](events/2022/venues.md)
   * [Speakers & Mentors](events/2022/speakers-and-mentors.md)
   * [Talks & workshops](events/2022/talks-and-workshops.md)
-  * [Schedule (TBA)](events/2022/schedule-tba.md)
+  * [Schedule (TBA)](events/2022/wip/schedule-tba.md)
   * [Side-events](events/2022/side-events.md)
   * [FAQ](events/2022/faq.md)
   * [Sponsors](events/2022/sponsors.md)
