@@ -47,3 +47,4 @@ _Privacy, Security, Self-sovereignty, Non-KYC, Encryption, Peer-to-peer (P2P), C
 * Discord: [ETHBrno²](https://discord.com/invite/qTCka7qtPZ)
 * Matrix: [#ethbrno:matrix.org](https://matrix.to/#/#ethbrno:matrix.org)
 * GitHub: [gweicz/ethbrno](https://github.com/gweicz/ethbrno)
+* Dework: [app.dework.xyz/ethbrno](https://app.dework.xyz/ethbrno)
