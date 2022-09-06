@@ -19,8 +19,12 @@ You'll have everything you might need - different work areas (single or team, si
 
 ## Clubco
 
-* Adress: Vlněna 5, Brno, 602 00 ([Google Maps](https://g.page/clubco-brno?share), [OSM](https://www.openstreetmap.org/node/8848071783)) - web: [clubco.cz](https://clubco.cz/)
-* Opening hours: **Fri Nov 11 15:00 - Sun Nov 13 17:00**
+* Adress: **Vlněna 5, Brno, 602 00** ([Google Maps](https://g.page/clubco-brno?share), [OSM](https://www.openstreetmap.org/node/8848071783)) - web: [clubco.cz](https://clubco.cz/)
+* Opening hours: **Fri Nov 11: 14:30 - 22:00, Sat Nov 10: 9:00 - 20:00, Sun Nov 13: 9:00 - 17:00**
+
+Additional venue, as an additional space for hackers that offers private meeting rooms and open workspaces. It also includes an event space where additional workshops and lectures will be held.
+
+This location will **NOT be open 24/7**, you will need to move to the Impact Hub for the night.
 
 <div>
 
