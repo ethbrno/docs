@@ -19,6 +19,7 @@ The organizing team is legally backed by the local non-profit organization UTXO 
 * [damsky](https://twitter.com/helloitsdamsky) - mentors seeking
 * Petr Menšík - mentors seeking (Polkadot related)
 * [Chris Hobcroft](https://twitter.com/chrishobcroft) - general help
+* [Adam Sobotka ](https://twitter.com/vorcigernix)- community calls
 
 ## Advisors
 
