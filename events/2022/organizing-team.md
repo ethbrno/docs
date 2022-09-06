@@ -9,7 +9,7 @@ The organizing team is legally backed by the local non-profit organization UTXO 
 ## Core team
 
 * [tree](https://twitter.com/treecz) **** (Gwei.cz) - vision, dramaturgy
-* [Tereza Starostová](https://twitter.com/tatereza5) **** (UTXO Foundation) -  production, sponsors
+* [Tereza Starostová](https://twitter.com/terkastarostova) **** (UTXO Foundation) -  production, sponsors
 
 ## Support team
 

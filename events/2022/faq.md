@@ -20,7 +20,7 @@ There are several different ways:
 * **buy a general admission ticket**: only a very limited number will be available (paid) - _sales will start during September_
 * **apply as volunteer** (free) - contact us on [Discord](https://discord.com/invite/qTCka7qtPZ)
 * **apply as a mentor** (free) - contact us on [Discord](https://discord.com/invite/qTCka7qtPZ)
-* **apply as a sponsor** (paid) - contact [tereza@utxo.foundation](mailto:tereza@utxo.foundation)
+* **apply as a sponsor** (paid) - contact [tereza@utxo.foundation](mailto:tereza@utxo.foundation) ([twitter](https://twitter.com/terkastarostova))
 
 ### How many visitors will the event be sized for?
 
