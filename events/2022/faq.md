@@ -30,7 +30,7 @@ For [side-events](side-events.md) (which will be also in Czech or Slovak languag
 
 ### Is the hackathon only for software developers?
 
-Absolutely not, all people who want to be active are welcome (you can be a copywriter, economist, graphic designer, community builder, translator...). You can learn more in the [Hackathon](hackathon.md) section.
+Absolutely not, all people who want to be active are invited to become "hackers" (you can be a copywriter, economist, graphic designer, community builder, translator...). You can learn more in the [Hackathon](hackathon.md) section.
 
 ### Is this an Ethereum-only event? Does my project have to be Ethereum based?
 
