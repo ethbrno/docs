@@ -21,3 +21,7 @@ We will create a special microsite for this event, which will be internationaliz
 ## Speakers
 
 * Juraj Bednar
+* Radek Švarz
+* Jirka Čepelka
+* Petr Menšík
+* Damsky
