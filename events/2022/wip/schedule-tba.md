@@ -4,11 +4,11 @@
 This is just a tentative timetable for now, expect it to change.
 {% endhint %}
 
-## Thursday
+## Thursday - Nov 10
 
 * **14:00 - 20:00** - EARLY Hackathon Registration Opens
 
-## Friday
+## Friday - Nov 11
 
 * **13:00** - Hackathon Registration Opens
 * **14:30 - 23:00** - Talks and workshops
@@ -17,7 +17,7 @@ This is just a tentative timetable for now, expect it to change.
 * **20:30 - 21:30** - Team Formation Workshop
 * **23:30** - Midnight Snack - Italian Gelato Stand (TBA)
 
-## Saturday
+## Saturday - Nov 12
 
 * **08:00 - 09:30** - Breakfast
 * **12:30 - 14:00** - Lunch
@@ -25,7 +25,7 @@ This is just a tentative timetable for now, expect it to change.
 * **18:00 - 19:30** - Dinner
 * **23:30** - Midnight Snack - TBA
 
-## Sunday
+## Sunday - Nov 13
 
 * **08:00 - 09:30** - Breakfast
 * **09:00** - Project Submission Deadline
