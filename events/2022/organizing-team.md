@@ -6,12 +6,12 @@ description: Who's behind this
 
 The organizing team is legally backed by the local non-profit organization UTXO Foundation, see [Impressum](impressum.md).
 
-## Core team
+## Core organizators
 
 * [tree](https://twitter.com/treecz) **** (Gwei.cz) - vision, dramaturgy
 * [Tereza Starostová](https://twitter.com/terkastarostova) **** (UTXO Foundation) -  production, sponsors
 
-## Support team
+## Organizators
 
 * [Exez](https://twitter.com/OndraPulc) - visual identity, design
 * Headwitch - mentors seeking, social networks
