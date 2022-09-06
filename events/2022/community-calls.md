@@ -14,6 +14,6 @@ Suggested schedule of the event:
 * &#x20;Topic introduction and speaker presentation < 20 minutes
 * Q\&A < 15 minutes
 
-An open form for questions will be introduced in advance for every event. Everyone who asks a question will be eligible to receive a POAP. Events will be announced on Twitter, Zitrone and public Discord channels.
+An open form for questions will be introduced in advance for every event. Everyone who attends the event will be eligible to receive a POAP. Events will be announced on Twitter, Zitrone and public Discord channels.
 
 &#x20; &#x20;
