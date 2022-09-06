@@ -36,3 +36,10 @@ No, this is not an Ethereum-only event. The hackathon is organized by the Czech 
 
 Yes, we plan to livestream all talks for free. Links will be posted later.
 
+### Will the venue be open 24/7 (nonstop)?
+
+Yes, the main [Impact Hub venue](venues.md#impact-hub-brno) will be open to hackers nonstop.
+
+### Will free food and drink be available?
+
+Yes, there will be a wide selection of food and drinks available for free to everyone throughout the event.
