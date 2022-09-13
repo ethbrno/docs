@@ -2,6 +2,8 @@
 
 We are looking for sponsors and partners who share our vision and who can add further value to our event. Unfortunately, privacy and security will never be a completely mainstream topic, so support from projects that recognize the importance of our topics is essential.
 
+For more information, read our [Sponsor deck](https://ethbrno.cz/sponsor-deck.pdf).
+
 We are an independent and transparent hackathon, for legal informations see [Impressum](impressum.md).
 
 {% hint style="success" %}
