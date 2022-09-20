@@ -16,10 +16,11 @@ The organizing team is legally backed by the local non-profit organization UTXO 
 * [Exez](https://twitter.com/OndraPulc) - visual identity, design
 * Headwitch - mentors seeking, social networks
 * [Jacob Jelen](https://twitter.com/jacobjelen) - networking support
-* [damsky](https://twitter.com/helloitsdamsky) - mentors seeking
+* [damsky](https://twitter.com/helloitsdamsky) - mentors seeking, community calls
 * Petr Menšík - mentors seeking (Polkadot related)
 * [Chris Hobcroft](https://twitter.com/chrishobcroft) - general help
 * [Adam Sobotka ](https://twitter.com/vorcigernix)- community calls
+* [Clairee DeLune](https://twitter.com/De\_luneClaire) - social networks
 
 ## Advisors
 
