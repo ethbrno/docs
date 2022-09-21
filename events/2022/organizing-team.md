@@ -28,8 +28,8 @@ The organizing team is legally backed by the local non-profit organization UTXO 
 
 * ****[Mario Havel](https://twitter.com/TMIYChao) - Ethereum Foundation
 * [Josef J](https://twitter.com/JosefJ\_) - ETHPrague, PWN Finance (previously Ethereum Foundation & Devcon)
-* [Anett Rolikova](https://twitter.com/AnettRolikova) - Ethereum Magicians
-* ****[dcbuilder.eth](https://twitter.com/DCbuild3r) - devpill.me (👨‍💻,💊)
+* [Anett Rolikova](https://twitter.com/AnettRolikova) - Nethermind, previously Ethereum Magicians
+* ****[dcbuilder.eth](https://twitter.com/DCbuild3r) - Worldcoin, devpill.me (👨‍💻,💊)
 
 ## Mentors, speakers, judges
 
