@@ -18,11 +18,3 @@ ETHBrno events are organized by [Gwei.cz](https://gwei.cz) community with the he
 | ---------------------------- | --------- | ----- | ------------------------------------- |
 | [ETHBrno 2021](events/2021/) | 9.10.2021 | -     | [KC Skála](events/2021/misto-konani/) |
 
-## Links
-
-* [Website](https://ethbrno.cz/)
-* [Twitter](https://twitter.com/ethbrno)
-* [Blog](https://mirror.xyz/ethbrno.eth)
-* [Discord](https://discord.com/invite/qTCka7qtPZ)
-* [Matrix](https://matrix.to/#/#ethbrno:matrix.org)
-* [GitHub](https://github.com/gweicz/ethbrno)
