@@ -1,4 +1,4 @@
-# Speakers & Mentors
+# Mentors, speakers and judges
 
 {% hint style="success" %}
 Want to apply as a mentor or speaker? Fill out [our simple form](https://cryptpad.fr/form/#/2/form/view/MwvZeW0LSx+uB8U-QK5c95pbT3svsqLn6ixhZlobFQo/) and you could be accepted!
