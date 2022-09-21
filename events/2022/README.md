@@ -12,7 +12,7 @@ For a quick overview, you can read our introductory article [Announcing ETHBrno�
 
 We believe that privacy is a fundamental human right. And good privacy needs good security foundations. Especially today, in a digital age full of people, organizations or governments that want to control you, your money or your data. Therefore, the second edition of [ETHBrno](../../) (ETHBrno²) will be mainly dedicated to these important topics ― **privacy & security**.
 
-Our [hackathon](hackathon.md) is for everyone who understands the urgency of these issues and wants to help. We want to present the current progress in this sector as well as the projects, technologies and people involved. We are Ethereum people, but we welcome creators and fans of all blockchains and directions.
+Our [hackathon](hackathon/) is for everyone who understands the urgency of these issues and wants to help. We want to present the current progress in this sector as well as the projects, technologies and people involved. We are Ethereum people, but we welcome creators and fans of all blockchains and directions.
 
 Let's learn together to defend against all threats, whether it's loss of privacy and state oppression, smart-contract exploits or simple phishing scams. Let's learn how to analyse them retrospectively. Let's learn how to use the right tools, and if we don't have them, let's create them together.
 
@@ -28,7 +28,7 @@ The term _lunarpunk_ was first introduced in the article "[Lunarpunk and the Dar
 
 _Privacy, Security, Self-sovereignty, Non-KYC, Encryption, Peer-to-peer (P2P), Cypherpunk, Lunarpunk, Open-source, Web3, Smart-contracts, Audits, Vulnerabilities, Analytics, Wallets, Scams, Dark Forest, Maximal extractable value (MEV), Zero-knowledge Proofs (zkp)_
 
-* [About Hackathon](hackathon.md)
+* [About Hackathon](hackathon/)
 * [Venues](venues.md)
 * [Speakers & Mentors](mentors-speakers-and-judges.md)
 * [Talks & workshops](talks-and-workshops.md)

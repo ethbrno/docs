@@ -1,6 +1,6 @@
 # Side-events
 
-ETHBrno² will be accompanied by various side-events that will take place at various locations around Brno. These events will be open to [hackers](hackathon.md) as well as other people within the broad cryptocurrency and local community.
+ETHBrno² will be accompanied by various side-events that will take place at various locations around Brno. These events will be open to [hackers](hackathon/) as well as other people within the broad cryptocurrency and local community.
 
 | When       | What                              | Where |
 | ---------- | --------------------------------- | ----- |
