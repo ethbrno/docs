@@ -45,7 +45,7 @@ You can apply for any role (and even more roles at the same time) in the applica
 
 ## Apply for the hackathon
 
-1. Complete and submit the Universal application form: [join.ethbrno.cz](https://join.ethbrno.cz)
+1. Complete and submit the Unified application form: [join.ethbrno.cz](https://join.ethbrno.cz)
 2. The organisers will consider your application - if you are accepted then you will receive a email confirmation with your free hacker ticket
 
 ## Examples of hacks
