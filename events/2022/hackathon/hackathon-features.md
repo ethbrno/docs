@@ -1,6 +1,6 @@
 # Hackathon features
 
-## Unified application form
+## Unified application form (UAF)
 
 Some participants want to have multiple roles at the same time and filling out multiple forms is a hassle. So we thought why not have one single form!&#x20;
 
