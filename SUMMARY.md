@@ -15,7 +15,7 @@
   * [Side-events](events/2022/side-events.md)
   * [Community calls](events/2022/community-calls.md)
   * [Sponsors](events/2022/sponsors.md)
-  * [Contributors](events/2022/contributors.md)
+  * [Contributors](events/2022/organizing-team.md)
   * [FAQ](events/2022/faq.md)
   * [Related events](events/2022/related-events.md)
   * [Impressum](events/2022/impressum.md)
