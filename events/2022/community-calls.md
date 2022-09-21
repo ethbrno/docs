@@ -1,5 +1,5 @@
 ---
-description: Description of community calls for ETHBrno
+description: Discussions about topics and people around ETHBrno²
 ---
 
 # Community calls
