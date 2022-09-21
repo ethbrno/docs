@@ -31,6 +31,12 @@ The organizing team is legally backed by the local non-profit organization UTXO 
 * [Anett Rolikova](https://twitter.com/AnettRolikova) - Ethereum Magicians
 * ****[dcbuilder.eth](https://twitter.com/DCbuild3r) - devpill.me (👨‍💻,💊)
 
+## Speakers and mentors
+
+{% content-ref url="speakers-and-mentors.md" %}
+[speakers-and-mentors.md](speakers-and-mentors.md)
+{% endcontent-ref %}
+
 ## Volunteers
 
 {% hint style="success" %}
