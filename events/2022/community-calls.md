@@ -16,4 +16,13 @@ Suggested schedule of the event:
 
 An open form for questions will be introduced in advance for every event. Everyone who attends the event will be eligible to receive a POAP. Events will be announced on Twitter, Zitrone and public Discord channels.
 
+Moderators: [Adam Sobotka](https://twitter.com/vorcigernix), [damsky](https://twitter.com/helloitsdamsky)
+
+### List of events
+
+| Date                                                              | Guests and topic                                                                                 |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [#1 - 22.9.2022](https://twitter.com/i/spaces/1djGXlBkkqEGZ?s=20) | w/ Anett ([@AnettRolikova](https://twitter.com/AnettRolikova)) - NFTs and privacy                |
+| #2 - 29.9.2022                                                    | w/ Rachel-Rose O'Leary ([@lunar\_mining](https://twitter.com/lunar\_mining)) - Lunarpunk, DarkFi |
+
 &#x20; &#x20;
