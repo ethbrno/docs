@@ -8,9 +8,10 @@ ETHBrno events are organized by [Gwei.cz](https://gwei.cz) community with the he
 
 ### Planned events
 
-| Name                            | Date           | Topic              | Location |
-| ------------------------------- | -------------- | ------------------ | -------- |
-| [ETHBrno² (2022)](events/2022/) | 11.-13.11.2022 | Privacy & security | TBA      |
+| Name                                       | Date           | Topic              | Location           |
+| ------------------------------------------ | -------------- | ------------------ | ------------------ |
+| [ETHBrno² (2022)](events/2022/)            | 11.-13.11.2022 | Privacy & security | Impact Hub, Clubco |
+| [ETHBrno Proxy 2022](events/proxy-2022.md) | 12.-13.11.2022 | Privacy & security | Impact Hub, Clubco |
 
 ### Past events
 
