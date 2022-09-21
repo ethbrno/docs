@@ -5,7 +5,7 @@ description: '@ ETHBrno² - Privacy & Security'
 # Hackathon
 
 {% hint style="success" %}
-Register here 👉 [Hacker application form](https://cryptpad.fr/form/#/2/form/view/JFQ+WOryuHqPJAna0BOoLka3Lh+JPGrPSm4SWWFYYx0/)
+Register here  👉  [join.ethbrno.cz](https://join.ethbrno.cz/)
 {% endhint %}
 
 Becoming a _hacker_ is the main way you can get a ticket and secure your participation in ETHBrno². We're expecting a few hundred hackers, and only dozens of tickets will go on general sale (if any at all).
