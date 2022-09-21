@@ -95,10 +95,6 @@ Here are some examples of what you can start building:
 
 More specific examples can be found on our Dework in [Ideas Shop](https://app.dework.xyz/ethbrno/ideas-shop) section.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 ## Rules
 
 * Maximum of 5 people per team
