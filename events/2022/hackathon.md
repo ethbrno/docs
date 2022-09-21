@@ -5,10 +5,10 @@ description: '@ ETHBrno² - Privacy & Security'
 # Hackathon
 
 {% hint style="success" %}
-Register here 👉 [Hacker application form](https://cryptpad.fr/form/#/2/form/view/JFQ+WOryuHqPJAna0BOoLka3Lh+JPGrPSm4SWWFYYx0/)
+Register here  👉  [join.ethbrno.cz](https://join.ethbrno.cz/)
 {% endhint %}
 
-Becoming a _hacker_ is the main way you can get a ticket and secure your participation in ETHBrno². We're expecting a few hundred hackers, and only dozens of tickets will go on general sale (if any at all).
+Becoming an _active participant_ is the only way you can get a ticket and secure your participation in ETHBrno². We're expecting a few hundred hackers (or volunteers, speakers, mentors, judges) and we won't be selling any tickets.
 
 You don't have to be a smart-contract developer or programmer to participate in our hackathon - you can be also a copywriter, economist, graphic designer, community builder, translator... Today's world of cryptocurrencies and Web3 is no longer just a nerd tech thing, but we need collaboration across professions to move forward.&#x20;
 
@@ -60,10 +60,10 @@ Here are some examples of what you can start building:
 * Analysis of risks and threats in relation to the supply chain (wallets, node providers etc.)
 * Contribute to public good open-source projects
 
-More specific examples can be found in the [Ideas Shop](hackathon/ideas-shop.md) section.
+More specific examples can be found on our Dework in [Ideas Shop](https://app.dework.xyz/ethbrno/ideas-shop) section.
 
-{% content-ref url="hackathon/ideas-shop.md" %}
-[ideas-shop.md](hackathon/ideas-shop.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Rules
