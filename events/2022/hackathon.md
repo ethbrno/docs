@@ -60,10 +60,10 @@ Here are some examples of what you can start building:
 * Analysis of risks and threats in relation to the supply chain (wallets, node providers etc.)
 * Contribute to public good open-source projects
 
-More specific examples can be found in the [Ideas Shop](hackathon/ideas-shop.md) section.
+More specific examples can be found on our Dework in [Ideas Shop](https://app.dework.xyz/ethbrno/ideas-shop) section.
 
-{% content-ref url="hackathon/ideas-shop.md" %}
-[ideas-shop.md](hackathon/ideas-shop.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Rules
