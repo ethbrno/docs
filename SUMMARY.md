@@ -64,3 +64,4 @@
 * [Discord](https://discord.com/invite/qTCka7qtPZ)
 * [Matrix](https://matrix.to/#/#ethbrno:matrix.org)
 * [GitHub](https://github.com/gweicz/ethbrno)
+* [Dework](https://dework.ethbrno.cz/)
