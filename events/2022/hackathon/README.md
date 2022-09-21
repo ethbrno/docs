@@ -14,7 +14,7 @@ You don't have to be a smart-contract developer or programmer to participate in 
 
 Our hackathon is open to all open minds who don't want to stand passively by, but want to put their own hands and heads to work in our _collective effort_. But, that doesn't mean you have to sit at your laptop and work all the time. The main thing is to enjoy the event - meet new interesting people or learn something new that will broaden your horizons.
 
-This year's theme is **privacy and security** (read [our Manifesto](./#manifesto)).
+This year's theme is **privacy and security** (read [our Manifesto](../#manifesto)).
 
 ## What to expect
 
@@ -22,7 +22,7 @@ We will do our best to make your experience as pleasant as possible:
 
 * 🌱 Pleasant and friendly environment full of enthusiastic people
 * :speech\_balloon: Dozens of experienced mentors who will be happy to help you with your project
-* 📚 Lots of [talks and workshops](talks-and-workshops.md) where you can learn about current trends
+* 📚 Lots of [talks and workshops](../talks-and-workshops.md) where you can learn about current trends
 * :salad: Food and drinks for all participants (for free of course!)
 * ⛺ Meeting rooms, for team private meetings etc. (reservation required)
 * 🔌 Ultra fast internet connection and power sockets everywhere
@@ -30,39 +30,6 @@ We will do our best to make your experience as pleasant as possible:
 * 🍸 Various interesting side-events and parties
 * ❓ You can only love or hate Brno, together we will find out why
 * ✨ And much more...
-
-## Hackathon features
-
-### Unified application form
-
-Some participants want to have multiple roles at the same time and filling out multiple forms is a hassle. So we thought why not have one single form!&#x20;
-
-All [participants roles](hackathon.md#the-participants-roles) (hacker, volunteer, mentor, speaker, judge) can now apply for the hackathon using a single application form - [join.ethbrno.cz](https://join.ethbrno.cz)
-
-<figure><img src="../../.gitbook/assets/form-roles-2.png" alt=""><figcaption><p>Snippet from our application form</p></figcaption></figure>
-
-### Using Dework.xyz
-
-[Dework](https://dework.ethbrno.cz/) is web3-native project management. We use it for the following:
-
-* Organization:
-  * [Community Issues](https://app.dework.xyz/ethbrno/community-space) - Community tasks
-  * [Community Suggestions](https://app.dework.xyz/ethbrno/suggestions) - Your ideas to improve our hackathon
-  * Task management for core & production team and volunteers
-* Hackathon:
-  * [Ideas Shop](https://app.dework.xyz/ethbrno/ideas-shop/view/board-l8awhuan) - Ideas for projects that you can improve or implement as part of the hackathon
-  * [Find a team](https://app.dework.xyz/ethbrno/eb-or-find-a-team-44886) - A ticket system to help find hackers for a team, or find a team for hackers
-  * [Sponsor bounties](https://app.dework.xyz/ethbrno/eb-or-sponsor-bounti/view/board-l8c0oe13) - Extra rewards from sponsors for completing special tasks
-
-<figure><img src="../../.gitbook/assets/dework-ethbrno.png" alt=""><figcaption><p>Our <a href="https://app.dework.xyz/ethbrno">Dework overview</a></p></figcaption></figure>
-
-### Quadratic funding/voting
-
-Similar to [ETHBerlin³,](https://vote.ethberlin.ooo/) we will use quadratic voting for the main prize pool. We will build on this idea and try to make more use of quadratic voting.
-
-For expert tracks we are thinking about using a quadratic funding system, where each project would be rewarded according to the votes of the judges.
-
-<figure><img src="../../.gitbook/assets/qv-ethberlin-values.png" alt=""><figcaption><p><a href="https://vote.ethberlin.ooo/2022/proposal/QmWa8AKj58Tb7Dy59WJAZbidh6g51sVbmmSSMAsKK9Ek8E">What ETHBerlin values most resonate with you?</a> @ ETHBerlin³</p></figcaption></figure>
 
 ## The participants' roles
 
