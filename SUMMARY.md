@@ -9,7 +9,7 @@
   * [Hackathon](events/2022/hackathon.md)
   * [Hacker Manual](events/2022/hacker-manual.md)
   * [Venues](events/2022/venues.md)
-  * [Speakers & Mentors](events/2022/speakers-and-mentors.md)
+  * [Mentors, speakers and judges](events/2022/mentors-speakers-and-judges.md)
   * [Talks & workshops](events/2022/talks-and-workshops.md)
   * [Schedule (TBA)](events/2022/wip/schedule-tba.md)
   * [Side-events](events/2022/side-events.md)
