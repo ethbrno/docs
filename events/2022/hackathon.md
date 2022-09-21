@@ -31,6 +31,18 @@ We will do our best to make your experience as pleasant as possible:
 * ❓ You can only love or hate Brno, together we will find out why
 * ✨ And much more...
 
+## The participants' roles
+
+Each participant has an active role, this year we have 5 basic roles:
+
+1. **Hacker**
+2. **Volunteer**
+3. **Mentor**
+4. **Speaker**
+5. **Judge**
+
+You can apply for any role in the application form, but you must justify your choice to us.
+
 ## Apply for the hackathon
 
 1. Complete and submit the [Hacker application form](https://cryptpad.fr/form/#/2/form/view/JFQ+WOryuHqPJAna0BOoLka3Lh+JPGrPSm4SWWFYYx0/)
