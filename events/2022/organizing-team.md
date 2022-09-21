@@ -34,7 +34,7 @@ The organizing team is legally backed by the local non-profit organization UTXO 
 ## Mentors, speakers, judges
 
 {% hint style="success" %}
-If you want to help us with the organization as a mentors, speaker or judge, we would be happy if you fill application form: [join.ethbrno.cz](https://join.ethbrno.cz)
+If you want to be a mentors, speaker or judge, we would be happy if you fill application form: [join.ethbrno.cz](https://join.ethbrno.cz)
 {% endhint %}
 
 {% content-ref url="mentors-speakers-and-judges.md" %}
