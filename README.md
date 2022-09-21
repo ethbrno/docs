@@ -8,14 +8,14 @@ ETHBrno events are organized by [Gwei.cz](https://gwei.cz) community with the he
 
 ### Planned events
 
-| Name                                                  | Date           | Topic              | Location           |
-| ----------------------------------------------------- | -------------- | ------------------ | ------------------ |
-| [ETHBrno² (2022)](events/2022/) :flag\_gb:            | 11.-13.11.2022 | Privacy & security | Impact Hub, Clubco |
-| [ETHBrno Proxy 2022](events/proxy-2022.md) :flag\_cz: | 12.-13.11.2022 | Privacy & security | Impact Hub, Clubco |
+| Name                                       | Date           | Topic                                    | Location           |
+| ------------------------------------------ | -------------- | ---------------------------------------- | ------------------ |
+| [ETHBrno² (2022)](events/2022/)            | 11.-13.11.2022 | Privacy & security hackathon :flag\_gb:  | Impact Hub, Clubco |
+| [ETHBrno Proxy 2022](events/proxy-2022.md) | 12.-13.11.2022 | Privacy & security conference :flag\_cz: | Impact Hub, Clubco |
 
 ### Past events
 
-| Name                                    | Date      | Topic          | Location                              |
-| --------------------------------------- | --------- | -------------- | ------------------------------------- |
-| [ETHBrno 2021](events/2021/) :flag\_cz: | 9.10.2021 | _(conference)_ | [KC Skála](events/2021/misto-konani/) |
+| Name                         | Date      | Topic                          | Location                              |
+| ---------------------------- | --------- | ------------------------------ | ------------------------------------- |
+| [ETHBrno 2021](events/2021/) | 9.10.2021 | Ethereum conference :flag\_cz: | [KC Skála](events/2021/misto-konani/) |
 
