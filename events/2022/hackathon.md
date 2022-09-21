@@ -8,7 +8,7 @@ description: '@ ETHBrno² - Privacy & Security'
 Register here  👉  [join.ethbrno.cz](https://join.ethbrno.cz/)
 {% endhint %}
 
-Becoming a _hacker_ is the main way you can get a ticket and secure your participation in ETHBrno². We're expecting a few hundred hackers, and only dozens of tickets will go on general sale (if any at all).
+Becoming an _active participant_ is the only way you can get a ticket and secure your participation in ETHBrno². We're expecting a few hundred hackers (or volunteers, speakers, mentors, judges) and we won't be selling any tickets.
 
 You don't have to be a smart-contract developer or programmer to participate in our hackathon - you can be also a copywriter, economist, graphic designer, community builder, translator... Today's world of cryptocurrencies and Web3 is no longer just a nerd tech thing, but we need collaboration across professions to move forward.&#x20;
 

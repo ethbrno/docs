@@ -18,9 +18,9 @@ There are several different ways:
 
 * ****[**sign up for the hackathon as a hacker**](https://cryptpad.fr/form/#/2/form/view/JFQ+WOryuHqPJAna0BOoLka3Lh+JPGrPSm4SWWFYYx0/) (free)&#x20;
 * **buy a general admission ticket**: only a very limited number will be available (paid) - _sales will start during September_
-* **apply as volunteer -** contact us on [Discord](https://discord.com/invite/qTCka7qtPZ)
-* ****[**apply as a mentor**](https://cryptpad.fr/form/#/2/form/view/MwvZeW0LSx+uB8U-QK5c95pbT3svsqLn6ixhZlobFQo/)
-* ****[**apply as a sponsor**](https://ethbrno.cz/sponsor-deck.pdf)
+* **apply as volunteer** (free) - contact us on [Discord](https://discord.com/invite/qTCka7qtPZ)
+* **apply as a mentor** (free) - contact us on [Discord](https://discord.com/invite/qTCka7qtPZ)
+* **apply as a sponsor** (paid) - contact [tereza@utxo.foundation](mailto:tereza@utxo.foundation) ([twitter](https://twitter.com/terkastarostova))
 
 ### How many visitors will the event be sized for?
 
