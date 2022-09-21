@@ -1,6 +1,6 @@
 # Hackathon features
 
-### Unified application form
+## Unified application form
 
 Some participants want to have multiple roles at the same time and filling out multiple forms is a hassle. So we thought why not have one single form!&#x20;
 
@@ -8,7 +8,7 @@ All [participants roles](hackathon-features.md#the-participants-roles) (hacker, 
 
 <figure><img src="../../../.gitbook/assets/form-roles-2.png" alt=""><figcaption><p>Snippet from our application form</p></figcaption></figure>
 
-### Using Dework.xyz
+## Using Dework.xyz
 
 [Dework](https://dework.ethbrno.cz/) is web3-native project management. We use it for the following:
 
@@ -23,7 +23,7 @@ All [participants roles](hackathon-features.md#the-participants-roles) (hacker, 
 
 <figure><img src="../../../.gitbook/assets/dework-ethbrno.png" alt=""><figcaption><p>Our <a href="https://app.dework.xyz/ethbrno">Dework overview</a></p></figcaption></figure>
 
-### Quadratic funding/voting
+## Quadratic funding/voting
 
 Similar to [ETHBerlin³,](https://vote.ethberlin.ooo/) we will use quadratic voting for the main prize pool. We will build on this idea and try to make more use of quadratic voting.
 

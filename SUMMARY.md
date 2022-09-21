@@ -8,7 +8,7 @@
 * [ETHBrno² (2022)](events/2022/README.md)
   * [Hackathon](events/2022/hackathon/README.md)
     * [Hackathon features](events/2022/hackathon/hackathon-features.md)
-  * [Hacker Manual (WIP)](events/2022/hacker-manual-wip.md)
+    * [Hacker Manual (WIP)](events/2022/hackathon/hacker-manual-wip.md)
   * [Venues](events/2022/venues.md)
   * [Mentors, speakers and judges](events/2022/mentors-speakers-and-judges.md)
   * [Talks & workshops](events/2022/talks-and-workshops.md)
