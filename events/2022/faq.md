@@ -14,13 +14,9 @@ The main venue is **Impact Hub Brno**, but it will not be the only venue. For mo
 
 ### How do I get a ticket or ensure my attendance?
 
-There are several different ways:
+Apply for the Hackathon as an active participant: [join.ethbrno.cz](https://join.ethbrno.cz)
 
-* ****[**sign up for the hackathon as a hacker**](https://cryptpad.fr/form/#/2/form/view/JFQ+WOryuHqPJAna0BOoLka3Lh+JPGrPSm4SWWFYYx0/) (free)&#x20;
-* **buy a general admission ticket**: only a very limited number will be available (paid) - _sales will start during September_
-* **apply as volunteer** (free) - contact us on [Discord](https://discord.com/invite/qTCka7qtPZ)
-* **apply as a mentor** (free) - contact us on [Discord](https://discord.com/invite/qTCka7qtPZ)
-* **apply as a sponsor** (paid) - contact [tereza@utxo.foundation](mailto:tereza@utxo.foundation) ([twitter](https://twitter.com/terkastarostova))
+**There will be no tickets available for sale!**
 
 ### How many visitors will the event be sized for?
 
