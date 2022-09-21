@@ -58,7 +58,7 @@ All [participants roles](hackathon.md#the-participants-roles) (hacker, volunteer
 
 ### Quadratic funding/voting
 
-Similar to ETHBerlin³, we will use quadratic voting for the main prize pool. We will build on this idea and try to make more use of quadratic voting.
+Similar to [ETHBerlin³,](https://vote.ethberlin.ooo/) we will use quadratic voting for the main prize pool. We will build on this idea and try to make more use of quadratic voting.
 
 For expert tracks we are thinking about using a quadratic funding system, where each project would be rewarded according to the votes of the judges.
 
