@@ -2,16 +2,18 @@
 description: Who's behind this
 ---
 
-# Organizing team
+# Contributors
 
 The organizing team is legally backed by the local non-profit organization UTXO Foundation, see [Impressum](impressum.md).
 
-## Core organizators
+## Organizators
+
+### Core team
 
 * [tree](https://twitter.com/treecz) **** (Gwei.cz) - vision, dramaturgy
 * [Tereza Starostová](https://twitter.com/terkastarostova) **** (UTXO Foundation) -  production, sponsors
 
-## Organizators
+### Production team
 
 * [Exez](https://twitter.com/OndraPulc) - visual identity, design
 * Headwitch - mentors seeking, social networks
@@ -32,7 +34,7 @@ The organizing team is legally backed by the local non-profit organization UTXO 
 ## Volunteers
 
 {% hint style="success" %}
-If you want to help us with the organization as a volunteer, we would be happy if you contact Tereza at [tereza@utxo.foundation](mailto:tereza@utxo.foundation).
+If you want to help us with the organization as a volunteer, we would be happy if you apply as volunteer: [join.ethbrno.cz](https://join.ethbrno.cz)
 {% endhint %}
 
 ## Contact Us
