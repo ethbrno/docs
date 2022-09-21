@@ -31,15 +31,30 @@ We will do our best to make your experience as pleasant as possible:
 * ❓ You can only love or hate Brno, together we will find out why
 * ✨ And much more...
 
+## Hackathon features
+
+### Using Dework.xyz
+
+[Dework](https://dework.ethbrno.cz/) is web3-native project management. We use it for the following:
+
+* Organization:
+  * [Community Issues](https://app.dework.xyz/ethbrno/community-space) - Community tasks
+  * [Community Suggestions](https://app.dework.xyz/ethbrno/suggestions) - Your ideas to improve our hackathon
+  * Task management for core & production team and volunteers
+* Hackathon:
+  * [Ideas Shop](https://app.dework.xyz/ethbrno/ideas-shop/view/board-l8awhuan) - Ideas for projects that you can improve or implement as part of the hackathon
+  * [Find a team](https://app.dework.xyz/ethbrno/eb-or-find-a-team-44886) - A ticket system to help find hackers for a team, or find a team for hackers
+  * [Sponsor bounties](https://app.dework.xyz/ethbrno/eb-or-sponsor-bounti/view/board-l8c0oe13) - Extra rewards from sponsors for completing special tasks
+
 ## The participants' roles
 
 Each participant has an active role, this year we have 5 basic roles:
 
-1. **Hacker**
-2. **Volunteer**
-3. **Mentor**
-4. **Speaker**
-5. **Judge**
+* **Hacker**
+* **Volunteer**
+* **Mentor**
+* **Speaker**
+* **Judge**
 
 You can apply for any role in the application form, but you must justify your choice to us.
 
