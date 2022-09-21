@@ -33,6 +33,14 @@ We will do our best to make your experience as pleasant as possible:
 
 ## Hackathon features
 
+### Unified application form
+
+Some participants want to have multiple roles at the same time and filling out multiple forms is a hassle. So we thought why not have one single form!&#x20;
+
+All participants roles (hacker, volunteer, mentor, speaker, judge) can now apply for the hackathon using a single application form at: [join.ethbrno.cz](https://join.ethbrno.cz)
+
+<img src="../../.gitbook/assets/form-roles-2.png" alt="" data-size="original">
+
 ### Using Dework.xyz
 
 [Dework](https://dework.ethbrno.cz/) is web3-native project management. We use it for the following:
