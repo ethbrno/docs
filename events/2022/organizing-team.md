@@ -31,16 +31,20 @@ The organizing team is legally backed by the local non-profit organization UTXO 
 * [Anett Rolikova](https://twitter.com/AnettRolikova) - Ethereum Magicians
 * ****[dcbuilder.eth](https://twitter.com/DCbuild3r) - devpill.me (👨‍💻,💊)
 
-## Speakers and mentors
+## Mentors, speakers, judges
 
-{% content-ref url="speakers-and-mentors.md" %}
-[speakers-and-mentors.md](speakers-and-mentors.md)
+{% hint style="success" %}
+If you want to help us with the organization as a mentors, speaker or judge, we would be happy if you fill application form: [join.ethbrno.cz](https://join.ethbrno.cz)
+{% endhint %}
+
+{% content-ref url="mentors-speakers-and-judges.md" %}
+[mentors-speakers-and-judges.md](mentors-speakers-and-judges.md)
 {% endcontent-ref %}
 
 ## Volunteers
 
 {% hint style="success" %}
-If you want to help us with the organization as a volunteer, we would be happy if you apply as volunteer: [join.ethbrno.cz](https://join.ethbrno.cz)
+If you want to help us with the organization as a volunteer, we would be happy if you fill application form: [join.ethbrno.cz](https://join.ethbrno.cz)
 {% endhint %}
 
 ## Contact Us
