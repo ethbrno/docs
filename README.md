@@ -15,7 +15,7 @@ ETHBrno events are organized by [Gwei.cz](https://gwei.cz) community with the he
 
 ### Past events
 
-| Name                         | Date      | Topic                          | Location                              |
-| ---------------------------- | --------- | ------------------------------ | ------------------------------------- |
-| [ETHBrno 2021](events/2021/) | 9.10.2021 | Ethereum conference :flag\_cz: | [KC Skála](events/2021/misto-konani/) |
+| Name                         | Date      | Topic                          | Location |
+| ---------------------------- | --------- | ------------------------------ | -------- |
+| [ETHBrno 2021](events/2021/) | 9.10.2021 | Ethereum conference :flag\_cz: | KC Skála |
 
