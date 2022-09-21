@@ -45,7 +45,7 @@ You can apply for any role in the application form, but you must justify your ch
 
 ## Apply for the hackathon
 
-1. Complete and submit the [Hacker application form](https://cryptpad.fr/form/#/2/form/view/JFQ+WOryuHqPJAna0BOoLka3Lh+JPGrPSm4SWWFYYx0/)
+1. Complete and submit the Universal application form: [join.ethbrno.cz](https://join.ethbrno.cz)
 2. The organisers will consider your application - if you are accepted then you will receive a email confirmation with your free hacker ticket
 
 ## Examples of hacks
