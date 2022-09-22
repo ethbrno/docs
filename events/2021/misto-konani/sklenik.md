@@ -6,4 +6,4 @@ description: Místo pro odpočinek
 
 Ve skleníku se bude nacházet náš Merch stánek ve kterém si budete moct koupit trička. Také tady budou lehátka a chillout zóna, kde budete moct naleznout místo odpočinku během konference.
 
-![](<../../../.gitbook/assets/image (2).png>)
+![](../../../.gitbook/assets/image.png)

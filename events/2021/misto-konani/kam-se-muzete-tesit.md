@@ -4,7 +4,7 @@ description: Aneb, jak to u nás vypadá
 
 # Fotky z místa konání
 
-![](<../../../.gitbook/assets/image (2).png>)
+![](../../../.gitbook/assets/image.png)
 
 ![](../../../.gitbook/assets/picture\_7320\_3.jpg-1600x1200-komunitni-centrum-skala-brno-novy-liskovec.jpg)
 

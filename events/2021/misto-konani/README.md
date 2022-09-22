@@ -38,7 +38,7 @@ Můžete si prohlédnout [Fotky](kam-se-muzete-tesit.md).
 
 {% tabs %}
 {% tab title="1. nadzemní podlaží" %}
-![](<../../../.gitbook/assets/kc-skala-1np (1).jpeg>)
+![](../../../.gitbook/assets/kc-skala-1np.jpeg)
 {% endtab %}
 
 {% tab title="1. podzemní podlaží" %}

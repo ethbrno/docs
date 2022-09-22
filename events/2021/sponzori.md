@@ -13,7 +13,7 @@ Ozvěte se někomu z [Organizačního teamu](./#organizacni-team).
 
 ### Road to Devcon grants
 
-![](../../.gitbook/assets/eth-rtd-badge-lightblue-darkblue.png)
+![](../../.gitbook/assets/ETH-RTD-badge-lightblue-darkblue.png)
 
 ### [**Miton C**](https://mitonc.com/)****
 

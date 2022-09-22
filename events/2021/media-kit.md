@@ -10,9 +10,9 @@ Autorem grafiky je [Coinmandeer](https://twitter.com/keenofcoin).
 
 ### Barevné - bílé pozadí
 
-![](<../../.gitbook/assets/ethbrno (1).png>)
+![](../../.gitbook/assets/ethbrno.png)
 
-{% file src="../../.gitbook/assets/ethbrno (1).png" %}
+{% file src="../../.gitbook/assets/ethbrno.png" %}
 
 ### Barevné - červené pozadí
 
@@ -48,9 +48,9 @@ Autorem grafiky je [Coinmandeer](https://twitter.com/keenofcoin).
 
 ## Rollup (na tisk)
 
-![](../../.gitbook/assets/banner-rollup-preview.png)
+![](../../.gitbook/assets/BANNER-ROLLUP-preview.png)
 
-{% file src="../../.gitbook/assets/banner-rollup.pdf" %}
+{% file src="../../.gitbook/assets/BANNER-ROLLUP.pdf" %}
 
 ## Wallpaper
 
