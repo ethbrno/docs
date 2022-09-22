@@ -29,13 +29,16 @@ The term _lunarpunk_ was first introduced in the article "[Lunarpunk and the Dar
 _Privacy, Security, Self-sovereignty, Non-KYC, Encryption, Peer-to-peer (P2P), Cypherpunk, Lunarpunk, Open-source, Web3, Smart-contracts, Audits, Vulnerabilities, Analytics, Wallets, Scams, Dark Forest, Maximal extractable value (MEV), Zero-knowledge Proofs (zkp)_
 
 * [About Hackathon](hackathon/)
+  * [Hackathon features](hackathon/hackathon-features.md)
+  * [Hacker Manual](hackathon/hacker-manual-wip.md)
 * [Venues](venues.md)
-* [Speakers & Mentors](mentors-speakers-and-judges.md)
+* [Mentors, speaker & judges](mentors-speakers-and-judges.md)
 * [Talks & workshops](talks-and-workshops.md)
 * [Side-events](side-events.md)
+* [Community calls](community-calls.md)
 * [Frequently Asked Questions (FAQ)](faq.md)
 * [Sponsor us!](sponsors.md)
-* [Organizing team](organizing-team.md)
+* [Contributors](contributors.md)
 * [Related events](related-events.md)
 * [Impressum](impressum.md)
 
@@ -45,5 +48,5 @@ _Privacy, Security, Self-sovereignty, Non-KYC, Encryption, Peer-to-peer (P2P), C
 * Twitter: [@ethbrno](https://twitter.com/ethbrno)
 * Blog: [mirror.xyz/ethbrno.eth](https://mirror.xyz/ethbrno.eth)
 * Discord: [ETHBrno²](https://discord.com/invite/qTCka7qtPZ)
-* GitHub: [gweicz/ethbrno](https://github.com/gweicz/ethbrno)
+* GitHub: [github.com/ethbrno](https://github.com/ethbrno)
 * Dework: [app.dework.xyz/ethbrno](https://app.dework.xyz/ethbrno)

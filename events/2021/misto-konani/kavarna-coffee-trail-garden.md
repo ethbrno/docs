@@ -11,8 +11,8 @@ FB: [https://www.facebook.com/coffeetrail.garden/](https://www.facebook.com/coff
 
 ## Nápojový lístek
 
-![](../../../.gitbook/assets/screenshot\_1.png)
+![](../../../.gitbook/assets/Screenshot\_1.png)
 
-![](../../../.gitbook/assets/screenshot\_2.png)
+![](../../../.gitbook/assets/Screenshot\_2.png)
 
-![](../../../.gitbook/assets/screenshot\_5.png)
+![](../../../.gitbook/assets/Screenshot\_5.png)
