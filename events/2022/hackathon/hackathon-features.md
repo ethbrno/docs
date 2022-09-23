@@ -31,4 +31,11 @@ For expert tracks we are thinking about using a quadratic funding system, where 
 
 <figure><img src="../../../.gitbook/assets/qv-ethberlin-values.png" alt=""><figcaption><p><a href="https://vote.ethberlin.ooo/2022/proposal/QmWa8AKj58Tb7Dy59WJAZbidh6g51sVbmmSSMAsKK9Ek8E">What ETHBerlin values most resonate with you?</a> @ ETHBerlin³</p></figcaption></figure>
 
-##
+## Using self-hosting / FOSS
+
+For the hackathon needs we try to use as much FOSS (Free and open-source software) as possible on our own infrastructure (self-hosted):
+
+* ****[CryptPad](https://cryptpad.fr/) - forms (especially application forms for participants) and other documents
+* [Jitsi](https://jitsi.org/) - video conferencing software ([meet.gwei.cz](https://meet.gwei.cz/))
+* ****[Pretix](https://pretix.eu/about/en/) - ticketing software w/ check-in via QR code ([pretix.utxo.cz](https://pretix.utxo.cz/))
+* [BTCPay Server](https://btcpayserver.org/) - cryptocurrency payment processor ([btcpay.utxo.cz](https://btcpay.utxo.cz/))
