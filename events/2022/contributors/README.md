@@ -8,7 +8,7 @@ The organizing team is legally backed by the local non-profit organization UTXO 
 
 ## Core Team
 
-* [tree](https://twitter.com/treecz) - vision, content
+* [Tree](https://twitter.com/treecz) - vision, content
 * [Tereza](https://twitter.com/terkastarostova) **** -  legal, production, sponsors
 * [Exez](https://twitter.com/OndraPulc) - visual identity, design
 * Hedvika - mentors seeking, social networks
