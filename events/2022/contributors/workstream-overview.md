@@ -28,39 +28,39 @@
 * Exez
 * Tereza
 
-### **Socials & Community**
+### Sponsors
+
+* Tereza (lead)
+* Tree
+
+### Community & Communications
 
 * Clairee (lead)
 * Tree
 * Tereza
 
-### Sponsors
+### Swag
 
-* Tereza (lead)
+* TBD
+
+### Experiences Curation
+
+* TBD
+
+### Volunteers
+
+* TBD
+
+### Mentors & Networking
+
+* Jacob (lead) - TBD
 * Tree
 
 ### Judging
 
 * TBD
 
-### Mentoring
-
-* Jacob (lead) - TBD
-* Tree
-
-### Volunteers
-
-* TBD
-
-### Experiences
-
-* TBD
-
 ### **Entertainment & Parties**
-
-* TBD
-
-### Swag
 
 * TBD
 
