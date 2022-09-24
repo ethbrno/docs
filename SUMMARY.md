@@ -18,6 +18,7 @@
   * [FAQ](events/2022/faq.md)
   * [Sponsors](events/2022/sponsors.md)
   * [Contributors](events/2022/contributors/README.md)
+    * [Core Team Meeting](events/2022/contributors/core-team-meeting.md)
     * [Workstream overview](events/2022/contributors/workstream-overview.md)
   * [Related events](events/2022/related-events.md)
   * [Impressum](events/2022/impressum.md)
