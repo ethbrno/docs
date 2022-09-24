@@ -1,83 +1,25 @@
 # Workstream overview
 
-### General / Legal
 
-* Tereza (lead)
-* Tree
 
-### Admin / Accounting
-
-* Tereza (lead)
-* Tree
-
-### **Core Planning & Content Curation**
-
-* Tree (lead)
-* Hedvika
-* Tereza
-
-### Design
-
-* Exez (lead)
-* Tree
-* Tereza
-
-### Website
-
-* Tree (lead)
-* Exez
-* Tereza
-
-### Sponsors
-
-* Tereza (lead)
-* Tree
-
-### Community & Communications
-
-* Clairee (lead)
-* Tree
-* Tereza
-
-### Swag
-
-* TBD
-
-### Experiences Curation
-
-* TBD
-
-### Volunteers
-
-* TBD
-
-### Mentors & Networking
-
-* Jacob (lead) - TBD
-* Tree
-
-### Judging
-
-* TBD
-
-### **Entertainment & Parties**
-
-* TBD
-
-### Ticketing
-
-* Tree (lead)
-* Tereza
-
-### Art / Decorations
-
-* TBD
-
-### Community Calls
-
-* Adam (lead)
-* Damsky
-* Tree
+| Workstream                       | Lead                                  | Contributors                             |
+| -------------------------------- | ------------------------------------- | ---------------------------------------- |
+| General / Legal                  | <ul><li>Tereza</li></ul>              | <ul><li>Tree</li></ul>                   |
+| Admin / Accounting               | <ul><li>Tereza</li></ul>              | <ul><li>Tree</li></ul>                   |
+| Core Planning & Content Curation | <ul><li>Tree</li></ul>                | <ul><li>Hedvika</li><li>Tereza</li></ul> |
+| Design                           | <ul><li>Exez</li></ul>                | <ul><li>Tree</li><li>Tereza</li></ul>    |
+| Website                          | <ul><li>Tree</li></ul>                | <ul><li>Exez</li><li>Tereza</li></ul>    |
+| Sponsors                         | <ul><li>Tereza</li></ul>              | <ul><li>Tree</li></ul>                   |
+| Community & Communications       | <ul><li>Clairee</li></ul>             | <ul><li>Tree</li><li>Tereza</li></ul>    |
+| Community Calls                  | <ul><li>Adam</li><li>Damsky</li></ul> | <ul><li>Tree</li></ul>                   |
+| Swag                             |                                       |                                          |
+| Experiences Curation             |                                       |                                          |
+| Volunteers                       |                                       |                                          |
+| Mentors & Networking             | <ul><li>Jacob</li></ul>               | <ul><li>Tree</li></ul>                   |
+| Judging                          |                                       |                                          |
+| Entertainment & Parties          |                                       |                                          |
+| Ticketing                        | <ul><li>Tree</li></ul>                | <ul><li>Tereza</li></ul>                 |
+| Art / Decorations                |                                       |                                          |
 
 
 
