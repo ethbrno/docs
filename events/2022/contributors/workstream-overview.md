@@ -20,6 +20,7 @@
 | **Entertainment & Parties**          |                                       |                                                    |
 | **Ticketing**                        | <ul><li>Tree</li></ul>                | <ul><li>Tereza</li></ul>                           |
 | **Art / Decorations**                |                                       |                                                    |
+| **Proxy**                            | <ul><li>Tree</li></ul>                | <ul><li>Tereza</li></ul>                           |
 
 
 
