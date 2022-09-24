@@ -10,7 +10,7 @@
 | **Design**                           | <ul><li>Exez</li></ul>                | <ul><li>Tree</li><li>Tereza</li></ul>              |
 | **Website & Docs**                   | <ul><li>Tree</li></ul>                | <ul><li>Exez</li><li>Adam</li><li>Tereza</li></ul> |
 | **Sponsors**                         | <ul><li>Tereza</li></ul>              | <ul><li>Tree</li></ul>                             |
-| **Community & Communications**       | <ul><li>Clairee</li></ul>             | <ul><li>Tree</li><li>Tereza</li></ul>              |
+| **Socials & Communications**         | <ul><li>Clairee</li></ul>             | <ul><li>Tree</li><li>Tereza</li></ul>              |
 | **Community Calls**                  | <ul><li>Adam</li><li>Damsky</li></ul> | <ul><li>Tree</li></ul>                             |
 | **Swag**                             |                                       |                                                    |
 | **Experiences Curation**             |                                       |                                                    |
