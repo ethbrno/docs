@@ -66,7 +66,8 @@
 
 ### Ticketing
 
-* TBD
+* Tree (lead)
+* Tereza
 
 ### Art / Decorations
 
