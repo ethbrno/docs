@@ -4,25 +4,19 @@ description: Who's behind this
 
 # Contributors
 
-The organizing team is legally backed by the local non-profit organization UTXO Foundation, see [Impressum](impressum.md).
+The organizing team is legally backed by the local non-profit organization UTXO Foundation, see [Impressum](../impressum.md).
 
-## Organizators
-
-### Core team
+## Core team
 
 * [tree](https://twitter.com/treecz) **** (Gwei.cz) - vision, dramaturgy
-* [Tereza Starostová](https://twitter.com/terkastarostova) **** (UTXO Foundation) -  production, sponsors
-
-### Production team
-
+* [Tereza](https://twitter.com/terkastarostova) **** (UTXO Foundation) -  production, sponsors
 * [Exez](https://twitter.com/OndraPulc) - visual identity, design
-* Headwitch - mentors seeking, social networks
-* [Jacob Jelen](https://twitter.com/jacobjelen) - networking support
-* [damsky](https://twitter.com/helloitsdamsky) - mentors seeking, community calls
-* Petr Menšík - mentors seeking (Polkadot related)
-* [Chris Hobcroft](https://twitter.com/chrishobcroft) - general help
-* [Adam Sobotka ](https://twitter.com/vorcigernix)- community calls
-* [Clairee DeLune](https://twitter.com/De\_luneClaire) - social networks
+* Hedvika - mentors seeking, social networks
+* [Jacob](https://twitter.com/jacobjelen) - networking support
+* [damsky](https://twitter.com/helloitsdamsky) - community calls
+* [Adam ](https://twitter.com/vorcigernix)- community calls
+* [Clairee](https://twitter.com/De\_luneClaire) - social networks
+* [Chris](https://twitter.com/chrishobcroft) - general help
 
 ## Advisors
 
@@ -37,8 +31,8 @@ The organizing team is legally backed by the local non-profit organization UTXO 
 If you want to be a mentors, speaker or judge, we would be happy if you fill application form: [join.ethbrno.cz](https://join.ethbrno.cz)
 {% endhint %}
 
-{% content-ref url="mentors-speakers-and-judges.md" %}
-[mentors-speakers-and-judges.md](mentors-speakers-and-judges.md)
+{% content-ref url="../mentors-speakers-and-judges.md" %}
+[mentors-speakers-and-judges.md](../mentors-speakers-and-judges.md)
 {% endcontent-ref %}
 
 ## Volunteers
