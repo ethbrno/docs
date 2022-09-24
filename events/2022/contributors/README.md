@@ -6,7 +6,7 @@ description: Who's behind this
 
 The organizing team is legally backed by the local non-profit organization UTXO Foundation, see [Impressum](../impressum.md).
 
-## Core team
+## Core Team
 
 * [tree](https://twitter.com/treecz) - vision, content
 * [Tereza](https://twitter.com/terkastarostova) **** -  legal, production, sponsors
