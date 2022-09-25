@@ -28,7 +28,7 @@ The patronage of our hackathon was taken over by world-renowned individuals and 
 * ****[Mario Havel](https://twitter.com/TMIYChao) - Ethereum Foundation, Bordel Hackerspace
 * [Josef J](https://twitter.com/JosefJ\_) - ETHPrague, PWN Finance (previously Ethereum Foundation & Devcon)
 * [Anett Rolikova](https://twitter.com/AnettRolikova) - Nethermind, previously Ethereum Magicians
-* ****[dcbuilder.eth](https://twitter.com/DCbuild3r) - Worldcoin, devpill.me (👨‍💻,💊)
+* ****[dcbuilder.eth](https://twitter.com/DCbuild3r) - Worldcoin, devpill.me
 
 ## Core Team
 
