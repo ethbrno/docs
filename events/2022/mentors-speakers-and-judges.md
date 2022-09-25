@@ -19,7 +19,7 @@ A complete list will be available during October.
 * **QEDK** ([@qedk\_](https://twitter.com/qedk\_)) **-** engineering Polygon, Moonshot Collective
 * **Vojtěch Šimetka** ([@vojtechsimetka](https://twitter.com/vojtechsimetka)) - Blockchain for Humanity, Swarm, Giveth
 
-🌎  = Remote
+🌎  = Remote participation
 
 ****
 
