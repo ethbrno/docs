@@ -2,10 +2,6 @@
 
 ## Mentors, speakers & judges
 
-{% hint style="info" %}
-A complete list will be available during October.
-{% endhint %}
-
 _🌎  = Remote participation_
 
 * [Rachel-Rose O'Leary](https://twitter.com/lunar\_mining) **-** DarkFi core dev, writer
@@ -16,6 +12,7 @@ _🌎  = Remote participation_
 * [Owen Barnes](https://twitter.com/temporalwave) **-** independent freedom adviser
 * [QEDK](https://twitter.com/qedk\_) **-** engineering Polygon, Moonshot Collective
 * [Vojtěch Šimetka](https://twitter.com/vojtechsimetka) - Blockchain for Humanity, Swarm, Giveth
+* ...
 
 {% hint style="success" %}
 Want to apply as a mentor, speaker or judge? 👉 [join.ethbrno.cz](https://join.ethbrno.cz/)
