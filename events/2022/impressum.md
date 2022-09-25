@@ -7,6 +7,8 @@ coverY: -255.35516372795968
 
 # Impressum
 
+## **UTXO Foundation**
+
 **UTXO Foundation, z.s.**\
 Korunní 2569/108\
 101 00 Praha 10 - Vinohrady\
@@ -18,7 +20,15 @@ Data box (Datová schránka): i63qmxw
 
 More info: [utxo.foundation](https://utxo.foundation/)
 
-### Contact
+### UTXO Foundation Contact
 
 **Tereza Starostová**\
 ****E-Mail: [tereza@utxo.foundation](mailto:tereza@utxo.foundation)
+
+## Contact ETHBrno
+
+* Discord: [https://discord.com/invite/qTCka7qtPZ](https://discord.com/invite/qTCka7qtPZ)
+* Telegram: [https://t.me/ethbrno](https://t.me/ethbrno)
+* Email:
+  * Production / Sponsors: [tereza@utxo.foundation](mailto:tereza@utxo.foundation)
+  * Speakers / Schedule: [tree@utxo.foundation](mailto:tree@utxo.foundation)
