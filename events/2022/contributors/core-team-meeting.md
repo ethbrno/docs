@@ -8,6 +8,6 @@ The Core team meeting is attended by the entire Core team and the leaders of eac
 
 Notes for Core Team meeting: [hackmd.io/@ethbrno](https://hackmd.io/@ethbrno)
 
-## Events
+## List of meetings
 
-* [26.9.2022](https://hackmd.io/@ETHBrno/ryS9kJnZo)
+* [2022-09-28](https://hackmd.io/@ETHBrno/ryS9kJnZo) (planned)
