@@ -4,8 +4,10 @@ We are mainly a hackathon, but in the presentation and education part we want to
 
 We would like to open up various topics and issues related to privacy and security (related to cryptocurrencies). We would like to raise awareness on these important topics through various lectures, panel discussions and workshops.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+See confirmed contributors:
+
+{% content-ref url="contributors/" %}
+[contributors](contributors/)
 {% endcontent-ref %}
 
 ## Key topics
