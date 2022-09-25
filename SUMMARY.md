@@ -18,7 +18,7 @@
     * [Core Team Workstreams](events/2022/contributors/workstream-overview.md)
     * [Core Team Meetings](events/2022/contributors/core-team-meeting.md)
   * [FAQ](events/2022/faq.md)
-  * [Related events](events/2022/related-events.md)
+    * [Related events](events/2022/related-events.md)
   * [Impressum](events/2022/impressum.md)
 * [ETHBrno Proxy 2022](events/proxy-2022.md)
 * [ETHBrno 2021](events/2021/README.md)
