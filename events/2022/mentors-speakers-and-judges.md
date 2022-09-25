@@ -11,13 +11,13 @@ A complete list of speakers and mentors will be available during October.
 ## In-person
 
 * **Rachel-Rose O'Leary** ([@lunar\_mining](https://twitter.com/lunar\_mining)) **-** DarkFi core dev, writer
+* **dcbuilder.eth** ([@DCbuild3r](https://twitter.com/DCbuild3r)) - WorldCoin, devpill.me
 * **Juraj Bednar** ([@jurbed](https://twitter.com/jurbed)) **-** Hacktrophy, Hackyourself.io
 * **Owen Barnes** ([@temporalwave](https://twitter.com/temporalwave)) **-** independent freedom adviser
 * **QEDK** ([@qedk\_](https://twitter.com/qedk\_)) **-** engineering Polygon, Moonshot Collective
-* **dcbuilder.eth** ([@DCbuild3r](https://twitter.com/DCbuild3r)) - WorldCoin, devpill.me
 * **Vojtěch Šimetka** ([@vojtechsimetka](https://twitter.com/vojtechsimetka)) - Blockchain for Humanity, Swarm, Giveth
 
 ## Remote
 
-* **Willian Mitsuda** ([@wmitsuda](https://twitter.com/wmitsuda)) - Otterscan
-* **Artem Vorotnikov** ([@vorot93](https://twitter.com/vorot93)) - Akula
+* **Artem Vorotnikov** ([@vorot93](https://twitter.com/vorot93)) - Ethereum Core Developer, creator of Akula
+* **Willian Mitsuda** ([@wmitsuda](https://twitter.com/wmitsuda)) - creator of Otterscan
