@@ -1,4 +1,8 @@
-# Core Team Meeting
+---
+description: Core Team meetings
+---
+
+# Core Team Meetings
 
 The Core team meeting is attended by the entire Core team and the leaders of each workstream present news from that area.
 

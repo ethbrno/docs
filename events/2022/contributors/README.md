@@ -47,10 +47,14 @@ The organizing team is legally backed by the local non-profit organization UTXO 
 If you want to help us with the organization as a volunteer, we would be happy if you fill application form: [join.ethbrno.cz](https://join.ethbrno.cz)
 {% endhint %}
 
-## Contact Us
+## Sponsors
 
-* Discord: [https://discord.com/invite/qTCka7qtPZ](https://discord.com/invite/qTCka7qtPZ)
-* Telegram: [https://t.me/ethbrno](https://t.me/ethbrno)
-* Email:
-  * Production / Sponsors: [tereza@utxo.foundation](mailto:tereza@utxo.foundation)
-  * Speakers / Schedule: [tree@utxo.foundation](mailto:tree@utxo.foundation)
+We are looking for sponsors and partners who share our vision and who can add further value to our event. Unfortunately, privacy and security will never be a completely mainstream topic, so support from projects that recognize the importance of our topics is essential.
+
+For more information, read our [Sponsor deck](https://ethbrno.cz/sponsor-deck.pdf).
+
+We are an independent and transparent hackathon, for legal informations see [Impressum](../impressum.md).
+
+{% hint style="success" %}
+Do you want to sponsor the event? Are you doing something interesting that could be combined with ETHBrno? Contact us at [tereza@utxo.foundation](mailto:tereza@utxo.foundation).
+{% endhint %}
