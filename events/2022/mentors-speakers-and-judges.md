@@ -1,11 +1,11 @@
 # Mentors, speakers & judges
 
 {% hint style="success" %}
-Want to apply as a mentor or speaker? Fill out [our simple form](https://cryptpad.fr/form/#/2/form/view/MwvZeW0LSx+uB8U-QK5c95pbT3svsqLn6ixhZlobFQo/) and you could be accepted!
+Want to apply as a mentor, speaker or judge? 👉 [join.ethbrno.cz](https://join.ethbrno.cz/)
 {% endhint %}
 
 {% hint style="info" %}
-A complete list of speakers and mentors will be available during October.
+A complete list will be available during October.
 {% endhint %}
 
 ## In-person
