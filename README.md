@@ -4,8 +4,6 @@ ETHBrno is an annual independent & open community hackathon (former conference) 
 
 ETHBrno events are organized by [Gwei.cz](https://gwei.cz) community with the help of the [UTXO Foundation](https://utxo.foundation).
 
-![](.gitbook/assets/ethbrno21-1.jpg) ![](<.gitbook/assets/DSC02139 (1).jpeg>) ![](.gitbook/assets/ethbrno21-3.jpg) ![](.gitbook/assets/ethbrno21-4.jpg)
-
 ### Planned events
 
 | Name                                       | Date           | Topic                                        | Location           |
@@ -19,3 +17,6 @@ ETHBrno events are organized by [Gwei.cz](https://gwei.cz) community with the he
 | ---------------------------- | --------- | ------------------------------ | -------- |
 | [ETHBrno 2021](events/2021/) | 9.10.2021 | Ethereum conference :flag\_cz: | KC Skála |
 
+## Photos from ETHBrno 2021
+
+![](.gitbook/assets/ethbrno21-1.jpg) ![](<.gitbook/assets/DSC02139 (1).jpeg>) ![](.gitbook/assets/ethbrno21-3.jpg) ![](.gitbook/assets/ethbrno21-4.jpg)
