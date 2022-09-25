@@ -9,6 +9,7 @@ _🌎  = Remote participation_
 * 🌎 [Willian Mitsuda](https://twitter.com/wmitsuda) **** - creator of Otterscan
 * [dcbuilder.eth](https://twitter.com/DCbuild3r) **** - WorldCoin, devpill.me
 * [Juraj Bednar](https://twitter.com/jurbed) **-** Hacktrophy, Hackyourself.io
+* 🌎 [Pavol Wilder Luptak](https://twitter.com/wilderko) - Nethemba, Hacktrophy, liberation.travel
 * [Owen Barnes](https://twitter.com/temporalwave) **-** independent freedom adviser
 * [QEDK](https://twitter.com/qedk\_) **-** engineering Polygon, Moonshot Collective
 * [Vojtěch Šimetka](https://twitter.com/vojtechsimetka) - Blockchain for Humanity, Swarm, Giveth

@@ -37,7 +37,6 @@ _Privacy, Security, Self-sovereignty, Non-KYC, Encryption, Peer-to-peer (P2P), C
 * [Side-events](side-events.md)
 * [Contributors](contributors/)
 * [Frequently Asked Questions (FAQ)](faq.md)
-* [Sponsor us!](broken-reference)
 * [Related events](related-events.md)
 * [Impressum](impressum.md)
 
