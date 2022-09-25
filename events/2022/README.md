@@ -32,7 +32,7 @@ _Privacy, Security, Self-sovereignty, Non-KYC, Encryption, Peer-to-peer (P2P), C
   * [Hackathon features](hackathon/hackathon-features.md)
   * [Hacker Manual](hackathon/hacker-manual-wip.md)
 * [Venues](venues.md)
-* [Mentors, speaker & judges](participants.md)
+* [Mentors, speaker & judges](mentors-speakers-and-judges.md)
 * [Talks & workshops](talks-and-workshops.md)
 * [Side-events](side-events.md)
 * [Community calls](community-calls.md)
