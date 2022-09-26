@@ -21,7 +21,7 @@ This is just a tentative timetable for now, expect it to change.
 
 * **09:00 - 11:00** - Breakfast
 * **12:30 - 14:00** - Lunch
-* **15:00 - 23:30** - Talks and workshops (live or remote)
+* **15:00 - 23:30** - Talks and workshops (in-person or remote)
 * **18:00 - 19:30** - Dinner
 * **23:30** - Midnight Snack - TBA
 
