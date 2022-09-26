@@ -19,7 +19,7 @@ This is just a tentative timetable for now, expect it to change.
 
 ## Saturday - Nov 12
 
-* **08:00 - 09:30** - Breakfast
+* **09:00 - 11:00** - Breakfast
 * **12:30 - 14:00** - Lunch
 * **13:00 - 18:00** - Talks and workshops
 * **16:00 - 23:30** - Remote talks and workshops
@@ -28,7 +28,7 @@ This is just a tentative timetable for now, expect it to change.
 
 ## Sunday - Nov 13
 
-* **08:00 - 11:00** - Breakfast
+* **09:00 - 11:00** - Breakfast
 * **11:00** - Project Submission Deadline
 * **11:30 - 15:00** - Project Judging
 * **12:30 - 14:00** - Lunch
