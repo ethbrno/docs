@@ -50,12 +50,11 @@ Notes for Core Team meeting: [hackmd.io/@ethbrno](https://hackmd.io/@ethbrno)
 ## Tools
 
 * Documentation:[ docs.ethbrno.cz](https://docs.ethbrno.cz/)
-* Communication:
+* Communication
   * Matrix - [#ethbrno:gwei.cz](https://matrix.to/#/#ethbrno:gwei.cz) + private group (apply to join)
   * [meet.gwei.cz](https://meet.gwei.cz/) - videocalls, core team meetings
   * Signal (emergency) - private group (apply to join)
-* Office:
+* Office
   * [cryptpad.fr](https://cryptpad.fr/) - Internal documents
   * HackMD - [hackmd.io/@ethbrno](https://hackmd.io/@ethbrno) (apply to join)
   * Google Docs (partially) - private org (apply to join)
-*
