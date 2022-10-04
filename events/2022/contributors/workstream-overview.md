@@ -51,6 +51,8 @@ Notes for Core Team meeting: [hackmd.io/@ethbrno](https://hackmd.io/@ethbrno)
 
 * Documentation
   * [docs.ethbrno.cz](https://docs.ethbrno.cz/) - administration: [gitbook.ethbrno.cz](https://gitbook.ethbrno.cz/) (apply to join)
+* Source code
+  * [git.gwei.cz/ethbrno](https://git.gwei.cz/ethbrno) - Git repositories (apply to join)
 * Communication
   * Matrix - [#ethbrno:gwei.cz](https://matrix.to/#/#ethbrno:gwei.cz) + private group (apply to join)
   * Signal (emergency) - private group (apply to join)
