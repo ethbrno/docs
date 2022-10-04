@@ -43,8 +43,7 @@ _Privacy, Security, Self-sovereignty, Non-KYC, Encryption, Peer-to-peer (P2P), C
 ## Links
 
 * Web: [ethbrno.cz](https://ethbrno.cz)
+* Matrix (chat): [#ethbrno:gwei.cz](https://matrix.to/#/#ethbrno:gwei.cz)
+* Git: [git.gwei.cz/ethbrno](https://git.gwei.cz/ethbrno)
 * Twitter: [@ethbrno](https://twitter.com/ethbrno)
 * Blog: [mirror.xyz/ethbrno.eth](https://mirror.xyz/ethbrno.eth)
-* Discord: [ETHBrno²](https://discord.com/invite/qTCka7qtPZ)
-* GitHub: [github.com/ethbrno](https://github.com/ethbrno)
-* Dework: [app.dework.xyz/ethbrno](https://app.dework.xyz/ethbrno)
