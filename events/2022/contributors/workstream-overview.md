@@ -49,7 +49,8 @@ Notes for Core Team meeting: [hackmd.io/@ethbrno](https://hackmd.io/@ethbrno)
 
 ## Tools
 
-* Documentation:[ docs.ethbrno.cz](https://docs.ethbrno.cz/)
+* Documentation
+  * [docs.ethbrno.cz](https://docs.ethbrno.cz/) - administration: [gitbook.ethbrno.cz](https://gitbook.ethbrno.cz/) (apply to join)
 * Communication
   * Matrix - [#ethbrno:gwei.cz](https://matrix.to/#/#ethbrno:gwei.cz) + private group (apply to join)
   * [meet.gwei.cz](https://meet.gwei.cz/) - videocalls, core team meetings
