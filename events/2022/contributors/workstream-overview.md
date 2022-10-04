@@ -46,3 +46,14 @@ Notes for Core Team meeting: [hackmd.io/@ethbrno](https://hackmd.io/@ethbrno)
 * [2022-10-10](https://hackmd.io/@ETHBrno/BJt1aitfj) (planned)
 * [2022-10-03](https://hackmd.io/@ETHBrno/BJcXxO4Gi)
 * [2022-09-28](https://hackmd.io/@ETHBrno/ryS9kJnZo)&#x20;
+
+## Tools
+
+* Communication:
+  * Matrix - [#ethbrno:gwei.cz](https://matrix.to/#/#ethbrno:gwei.cz) + private group (apply to join)
+  * Signal (emergency) - private group (apply to join)
+* Office:
+  * [cryptpad.fr](https://cryptpad.fr/) - Internal documents
+  * HackMD - [hackmd.io/@ethbrno](https://hackmd.io/@ethbrno) (apply to join)
+  * Google Docs (partially) - private org (apply to join)
+*
