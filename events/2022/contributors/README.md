@@ -32,15 +32,11 @@ The patronage of our hackathon was taken over by world-renowned individuals and 
 
 The organizing team is legally backed by the local non-profit organization UTXO Foundation, see [Impressum](../impressum.md).
 
-* [Tree](https://twitter.com/treecz) - vision, content
-* [Tereza](https://twitter.com/terkastarostova) **** -  legal, production, sponsors
-* [Exez](https://twitter.com/OndraPulc) - visual identity, design
-* Hedvika - mentors seeking, social networks
-* [Jacob](https://twitter.com/jacobjelen) - networking support
-* [damsky](https://twitter.com/helloitsdamsky) - community calls
-* [Adam ](https://twitter.com/vorcigernix)- community calls
-* [Clairee](https://twitter.com/De\_luneClaire) - social networks
-* [Chris](https://twitter.com/chrishobcroft) - general help
+A list of Core Team members can be found on the [Core Team](core-team.md) page.
+
+{% content-ref url="core-team.md" %}
+[core-team.md](core-team.md)
+{% endcontent-ref %}
 
 ## Volunteers
 

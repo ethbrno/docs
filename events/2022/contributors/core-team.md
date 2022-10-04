@@ -1,10 +1,19 @@
----
-description: Core Team Workstream overview
----
+# Core Team
 
-# Core Team Workstreams
+## Members
 
+* [Tree](https://twitter.com/treecz) - vision, content
+* [Tereza](https://twitter.com/terkastarostova) **** -  legal, production, sponsors
+* [Exez](https://twitter.com/OndraPulc) - visual identity, design
+* Hedvika - mentors seeking, experience curation
+* [Jacob](https://twitter.com/jacobjelen) - networking support
+* [damsky](https://twitter.com/helloitsdamsky) - community calls
+* [Adam ](https://twitter.com/vorcigernix)- community calls
+* [Clairee](https://twitter.com/De\_luneClaire) - social networks
+* [Dominika](https://twitter.com/DominikaV5) - volunteers
+* [Chris](https://twitter.com/chrishobcroft) - general help
 
+## Workstreams
 
 | Workstream                           | Workstream leads                      | Contributors                             |
 | ------------------------------------ | ------------------------------------- | ---------------------------------------- |
@@ -26,5 +35,14 @@ description: Core Team Workstream overview
 | **Art / Decorations**                |                                       | <ul><li>Hedvika</li></ul>                |
 | **Proxy**                            | <ul><li>Tree</li></ul>                | <ul><li>Tereza</li></ul>                 |
 
+## Meetings
 
+The Core team meeting is attended by the entire Core team and the leaders of each workstream present news from that area.
 
+Notes for Core Team meeting: [hackmd.io/@ethbrno](https://hackmd.io/@ethbrno)
+
+### Meetings notes
+
+* 2022-10-10 (planned)
+* [2022-10-03](https://hackmd.io/@ETHBrno/BJcXxO4Gi)
+* [2022-09-28](https://hackmd.io/@ETHBrno/ryS9kJnZo)&#x20;
