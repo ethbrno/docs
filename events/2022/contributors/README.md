@@ -32,10 +32,10 @@ The patronage of our hackathon was taken over by world-renowned individuals and 
 
 The organizing team is legally backed by the local non-profit organization UTXO Foundation, see [Impressum](../impressum.md).
 
-A list of Core Team members can be found on the [Core Team](core-team.md) page.
+A list of Core Team members can be found on the [Core Team](workstream-overview.md) page.
 
-{% content-ref url="core-team.md" %}
-[core-team.md](core-team.md)
+{% content-ref url="workstream-overview.md" %}
+[workstream-overview.md](workstream-overview.md)
 {% endcontent-ref %}
 
 ## Volunteers
