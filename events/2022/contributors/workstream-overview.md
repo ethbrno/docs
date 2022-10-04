@@ -17,13 +17,13 @@ description: Core Team Workstream overview
 | **Socials & Communications**         | <ul><li>Clairee</li></ul>             | <ul><li>Tree</li><li>Tereza</li></ul>    |
 | **Community Calls**                  | <ul><li>Adam</li><li>Damsky</li></ul> | <ul><li>Tree</li></ul>                   |
 | **Swag**                             |                                       |                                          |
-| **Experiences Curation**             |                                       |                                          |
-| **Volunteers**                       |                                       |                                          |
+| **Experiences Curation**             | <ul><li>Hedvika</li></ul>             |                                          |
+| **Volunteers**                       | <ul><li>Dominika</li></ul>            |                                          |
 | **Mentors & Networking**             | <ul><li>Jacob</li></ul>               | <ul><li>Tree</li></ul>                   |
-| **Judging**                          |                                       |                                          |
+| **Judging**                          |                                       | <ul><li>Tree</li><li>Hedvika</li></ul>   |
 | **Entertainment & Parties**          |                                       |                                          |
 | **Ticketing**                        | <ul><li>Tree</li></ul>                | <ul><li>Tereza</li></ul>                 |
-| **Art / Decorations**                |                                       |                                          |
+| **Art / Decorations**                |                                       | <ul><li>Hedvika</li></ul>                |
 | **Proxy**                            | <ul><li>Tree</li></ul>                | <ul><li>Tereza</li></ul>                 |
 
 
