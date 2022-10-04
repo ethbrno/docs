@@ -60,4 +60,4 @@ Notes for Core Team meeting: [hackmd.io/@ethbrno](https://hackmd.io/@ethbrno)
 * Office
   * [cryptpad.fr](https://cryptpad.fr/) - Internal documents
   * HackMD - [hackmd.io/@ethbrno](https://hackmd.io/@ethbrno) (apply to join)
-  * Google Docs (partially) - private org (apply to join)
+  * Google Docs (partially) - [private folder](https://drive.google.com/drive/folders/1azzx9hHvhcVdR\_Rx1vys2nmUnCrsT-Z6) (apply to join)
