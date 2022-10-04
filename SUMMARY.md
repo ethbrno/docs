@@ -15,7 +15,7 @@
   * [Schedule (WIP)](events/2022/schedule-tba.md)
   * [Side-events](events/2022/side-events.md)
   * [Contributors](events/2022/contributors/README.md)
-    * [Core Team](events/2022/contributors/core-team.md)
+    * [Core Team](events/2022/contributors/workstream-overview.md)
   * [FAQ](events/2022/faq.md)
   * [Related events](events/2022/related-events.md)
   * [Impressum](events/2022/impressum.md)

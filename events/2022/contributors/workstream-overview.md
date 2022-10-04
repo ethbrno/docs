@@ -43,6 +43,6 @@ Notes for Core Team meeting: [hackmd.io/@ethbrno](https://hackmd.io/@ethbrno)
 
 ### Meetings notes
 
-* 2022-10-10 (planned)
+* [2022-10-10](https://hackmd.io/@ETHBrno/BJcXxO4Gi) (planned)
 * [2022-10-03](https://hackmd.io/@ETHBrno/BJcXxO4Gi)
 * [2022-09-28](https://hackmd.io/@ETHBrno/ryS9kJnZo)&#x20;
