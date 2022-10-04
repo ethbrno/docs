@@ -8,7 +8,7 @@
 * Hedvika - mentors seeking, experience curation
 * [Jacob](https://twitter.com/jacobjelen) - networking support
 * [damsky](https://twitter.com/helloitsdamsky) - community calls
-* [Adam ](https://twitter.com/vorcigernix)- community calls
+* [Adam ](https://twitter.com/vorcigernix)- website, community calls
 * [Clairee](https://twitter.com/De\_luneClaire) - social networks
 * [Dominika](https://twitter.com/DominikaV5) - volunteers
 * [Chris](https://twitter.com/chrishobcroft) - general help
