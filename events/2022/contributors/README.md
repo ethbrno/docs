@@ -2,18 +2,9 @@
 
 ## Mentors, speakers & judges
 
-_🌎  = Remote participation_
+SeznamA list of all mentors and speakers can be found on our website:
 
-* [Rachel-Rose O'Leary](https://twitter.com/lunar\_mining) **-** DarkFi core dev, writer
-* 🌎 [Artem Vorotnikov](https://twitter.com/vorot93) - Ethereum Core Developer, creator of Akula
-* 🌎 [Willian Mitsuda](https://twitter.com/wmitsuda) **** - creator of Otterscan
-* [dcbuilder.eth](https://twitter.com/DCbuild3r) **** - WorldCoin, devpill.me
-* [Juraj Bednar](https://twitter.com/jurbed) **-** Hacktrophy, Hackyourself.io
-* 🌎 [Pavol Wilder Luptak](https://twitter.com/wilderko) - Nethemba, Hacktrophy, liberation.travel
-* [Owen Barnes](https://twitter.com/temporalwave) **-** independent freedom adviser
-* [QEDK](https://twitter.com/qedk\_) **-** engineering Polygon, Moonshot Collective
-* [Vojtěch Šimetka](https://twitter.com/vojtechsimetka) - Blockchain for Humanity, Swarm, Giveth
-* ...
+* [Contributors @ ethbrno.cz](https://ethbrno.cz/contributors/).
 
 {% hint style="success" %}
 Want to apply as a mentor, speaker or judge? 👉 [join.ethbrno.cz](https://join.ethbrno.cz/)
