@@ -20,10 +20,11 @@ Moderators: [Adam Sobotka](https://twitter.com/vorcigernix), [damsky](https://tw
 
 ### List of events
 
-| Date                                                              | Guests and topic                                                                                 |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| [#1 - 22.9.2022](https://twitter.com/i/spaces/1djGXlBkkqEGZ?s=20) | w/ Anett ([@AnettRolikova](https://twitter.com/AnettRolikova)) - NFTs and privacy                |
-| [#2 - 29.9.2022](https://twitter.com/i/spaces/1YpKkgXzyOPKj?s=20) | w/ Rachel-Rose O'Leary ([@lunar\_mining](https://twitter.com/lunar\_mining)) - Lunarpunk, DarkFi |
-| [#3 - 6.10.2022](https://twitter.com/i/spaces/1MnGnpqayAwxO?s=20) | w/ DrNick ([@drnicka](https://twitter.com/drnicka)) - DAOs and Society                           |
+| Date                                                              | Guests and topic                                                                                           |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| [#1 - 22.9.2022](https://twitter.com/i/spaces/1djGXlBkkqEGZ?s=20) | w/ Anett ([@AnettRolikova](https://twitter.com/AnettRolikova)) - NFTs and privacy                          |
+| [#2 - 29.9.2022](https://twitter.com/i/spaces/1YpKkgXzyOPKj?s=20) | w/ Rachel-Rose O'Leary ([@lunar\_mining](https://twitter.com/lunar\_mining)) - Lunarpunk, DarkFi           |
+| [#3 - 6.10.2022](https://twitter.com/i/spaces/1MnGnpqayAwxO?s=20) | w/ DrNick ([@drnicka](https://twitter.com/drnicka)) - DAOs and Society                                     |
+| #3 - 6.10.2022                                                    | w/ Silur ([https://silur.me/](https://silur.me/)) - Trilemma, social networks and new trends in the block. |
 
 &#x20; &#x20;
