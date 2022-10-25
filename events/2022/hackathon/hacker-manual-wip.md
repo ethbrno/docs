@@ -12,6 +12,7 @@ This section aims to help you better prepare for the hackathon.
 
 ### Before the Hackathon
 
+* Prepare your travel to join [on time](https://docs.ethbrno.cz/events/2022/schedule-wip)
 TODO
 
 ### During the Hackathon
