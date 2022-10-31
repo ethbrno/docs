@@ -1,11 +1,11 @@
 ---
-description: 'November 12-13, 2022 @ Brno ← #privacy #security #lunarpunk sub-conference'
+description: 'November 13, 2022 @ Brno ← #privacy #security #lunarpunk sub-conference'
 ---
 
 # ETHBrno Proxy 2022
 
-{% hint style="info" %}
-Tickets for ETHBrno Proxy will be available in early October.
+{% hint style="success" %}
+Tickets and other information are available at [proxy.ethbrno.cz](http://proxy.ethbrno.cz/).
 {% endhint %}
 
 A sub-conference for a local general audience, which will be held in parallel with [ETHBrno²](2022/) hackathon.
@@ -18,10 +18,6 @@ Anyone with an ETHBrno wristband will have free entry (reservation required), ot
 
 We will create a special microsite for this event, which will be internationalized - in Czech and English.
 
-## Speakers
+More informations on [http://proxy.ethbrno.cz/](http://proxy.ethbrno.cz/)
 
-* Juraj Bednar
-* Radek Švarz
-* Jirka Čepelka
-* Petr Menšík
-* Damsky
+{% embed url="http://proxy.ethbrno.cz/" %}
