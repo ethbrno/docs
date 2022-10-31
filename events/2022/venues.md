@@ -1,4 +1,4 @@
-# Venue
+# Venues
 
 ## Impact Hub Brno
 

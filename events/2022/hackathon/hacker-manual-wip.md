@@ -1,6 +1,4 @@
-# Hacker Manual
+# Hacker Manual (WIP)
 
-The [Hacker Manual](https://ethbrno.cz/manual/) is published on our website.
-
-* [https://ethbrno.cz/manual/](https://ethbrno.cz/manual/)
+The hacker manual will soon be published on our website.
 

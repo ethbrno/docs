@@ -27,7 +27,8 @@ More info: [utxo.foundation](https://utxo.foundation/)
 
 ## Contact ETHBrno
 
-* Matrix (chat): [#ethbrno:gwei.cz](https://matrix.to/#/#ethbrno:gwei.cz)
+* Discord: [https://discord.com/invite/qTCka7qtPZ](https://discord.com/invite/qTCka7qtPZ)
+* Telegram: [https://t.me/ethbrno](https://t.me/ethbrno)
 * Email:
   * Production / Sponsors: [tereza@utxo.foundation](mailto:tereza@utxo.foundation)
   * Speakers / Schedule: [tree@utxo.foundation](mailto:tree@utxo.foundation)

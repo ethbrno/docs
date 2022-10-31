@@ -1,5 +1,15 @@
 # Hackathon features
 
+## Matrix as the main communication tool
+
+Instead of the classic and centralized Discord, we chose the open platform [Matrix](https://matrix.org/) as the main communication tool.
+
+Join the discussion: [#ethbrno:gwei.cz](https://matrix.to/#/#ethbrno:gwei.cz)
+
+{% hint style="success" %}
+Learn more about the Matrix at [joinmatrix.org](https://joinmatrix.org/).
+{% endhint %}
+
 ## Unified application form (UAF)
 
 Some participants want to have multiple roles at the same time and filling out multiple forms is a hassle. So we thought why not have one single form!&#x20;
@@ -15,16 +25,6 @@ Similar to [ETHBerlin³,](https://vote.ethberlin.ooo/) we will use quadratic vot
 For expert tracks we are thinking about using a quadratic funding system, where each project would be rewarded according to the votes of the judges.
 
 <figure><img src="../../../.gitbook/assets/qv-ethberlin-values.png" alt=""><figcaption><p><a href="https://vote.ethberlin.ooo/2022/proposal/QmWa8AKj58Tb7Dy59WJAZbidh6g51sVbmmSSMAsKK9Ek8E">What ETHBerlin values most resonate with you?</a> @ ETHBerlin³</p></figcaption></figure>
-
-## Matrix as the main communication tool
-
-Instead of the classic and centralized Discord, we chose the open platform [Matrix](https://matrix.org/) as the main communication tool.
-
-Join the discussion: [#ethbrno:gwei.cz](https://matrix.to/#/#ethbrno:gwei.cz)
-
-{% hint style="success" %}
-Learn more about the Matrix at [joinmatrix.org](https://joinmatrix.org/).
-{% endhint %}
 
 ## Using self-hosting / FOSS
 
