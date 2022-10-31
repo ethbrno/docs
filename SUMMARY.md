@@ -11,7 +11,7 @@
     * [Hacker Manual (WIP)](events/2022/hackathon/hacker-manual-wip.md)
   * [Talks & workshops](events/2022/talks-and-workshops.md)
   * [Community calls](events/2022/community-calls.md)
-  * [Venues](events/2022/venues.md)
+  * [Venue](events/2022/venue.md)
   * [Schedule (WIP)](events/2022/schedule-tba.md)
   * [Side-events](events/2022/side-events.md)
   * [Contributors](events/2022/contributors/README.md)

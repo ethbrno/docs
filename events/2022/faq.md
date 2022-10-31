@@ -10,7 +10,7 @@ The event will take place on **November 11-13, 2022**.
 
 ### Where will the event take place?
 
-The main venue is **Impact Hub Brno**, but it will not be the only venue. For more informations see [Venues](venues.md).
+The main venue is **Impact Hub Brno**, but it will not be the only venue. For more informations see [Venues](venue.md).
 
 ### How do I get a ticket or ensure my attendance?
 
@@ -38,7 +38,7 @@ Yes, we plan to livestream all talks for free. Links will be posted later.
 
 ### Will the venue be open 24/7 (nonstop)?
 
-Yes, the main [Impact Hub venue](venues.md#impact-hub-brno) will be open to hackers nonstop.
+Yes, the main [Impact Hub venue](venue.md#impact-hub-brno) will be open to hackers nonstop.
 
 ### Will free food and drink be available?
 
