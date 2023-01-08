@@ -61,4 +61,3 @@
 * [Twitter](https://twitter.com/ethbrno)
 * [Blog](https://mirror.xyz/ethbrno.eth)
 * [GitHub](https://github.com/ethbrno)
-* [Dework](https://dework.ethbrno.cz/)
