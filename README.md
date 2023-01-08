@@ -15,17 +15,19 @@ ETHBrno events are organized by [Gwei.cz](https://gwei.cz) community with the he
 
 ### Planned events
 
-| Name                                       | Date           | Topic                                        | Location           |
-| ------------------------------------------ | -------------- | -------------------------------------------- | ------------------ |
-| [ETHBrno² (2022)](events/2022/)            | 11.-13.11.2022 | Privacy & security hackathon :flag\_gb:      | Impact Hub, Clubco |
-| [ETHBrno Proxy 2022](events/proxy-2022.md) | 12.-13.11.2022 | Privacy & security sub-conference :flag\_cz: | Impact Hub, Clubco |
+| Name             | Date          | Topic                                   | Location     |
+| ---------------- | ------------- | --------------------------------------- | ------------ |
+| PrivacyETH 2023  | June 2023     | Lunarpunk conference :flag\_gb:         | Prague (TBA) |
+| ETHBrno×3 (2023) | November 2023 | Privacy & security hackathon :flag\_gb: | Brno (TBA)   |
 
 ### Past events
 
-| Name                         | Date      | Topic                          | Location |
-| ---------------------------- | --------- | ------------------------------ | -------- |
-| [ETHBrno 2021](events/2021/) | 9.10.2021 | Ethereum conference :flag\_cz: | KC Skála |
+| Name                                       | Date           | Topic                                        | Location         |
+| ------------------------------------------ | -------------- | -------------------------------------------- | ---------------- |
+| [ETHBrno Proxy 2022](events/proxy-2022.md) | 13.11.2022     | Privacy & security sub-conference :flag\_cz: | Clubco, Brno     |
+| [ETHBrno² (2022)](events/2022/)            | 11.-13.11.2022 | Privacy & security hackathon :flag\_gb:      | Impact Hub, Brno |
+| [ETHBrno 2021](events/2021/)               | 9.10.2021      | Ethereum conference :flag\_cz:               | KC Skála, Brno   |
 
 ## Photos from ETHBrno 2021
 
-![](.gitbook/assets/ethbrno21-1.jpg) ![](<.gitbook/assets/DSC02139 (1).jpeg>) ![](.gitbook/assets/ethbrno21-3.jpg) ![](.gitbook/assets/ethbrno21-4.jpg)
+![](.gitbook/assets/ethbrno21-1.jpg) ![](.gitbook/assets/ethbrno21-3.jpg) ![](.gitbook/assets/ethbrno21-4.jpg)
