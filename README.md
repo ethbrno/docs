@@ -13,14 +13,14 @@ ETHBrno is an annual independent & open community hackathon (former conference) 
 
 ETHBrno events are organized by [Gwei.cz](https://gwei.cz) community with the help of the [UTXO Foundation](https://utxo.foundation).
 
-### Planned events
+## Planned events
 
 | Name             | Date          | Topic                                   | Location     |
 | ---------------- | ------------- | --------------------------------------- | ------------ |
 | PrivacyETH 2023  | June 2023     | Lunarpunk conference :flag\_gb:         | Prague (TBA) |
 | ETHBrno×3 (2023) | November 2023 | Privacy & security hackathon :flag\_gb: | Brno (TBA)   |
 
-### Past events
+## Past events
 
 | Name                                       | Date           | Topic                                        | Location         |
 | ------------------------------------------ | -------------- | -------------------------------------------- | ---------------- |
