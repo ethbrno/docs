@@ -60,6 +60,5 @@
 * [Webpage](https://ethbrno.cz)
 * [Twitter](https://twitter.com/ethbrno)
 * [Blog](https://mirror.xyz/ethbrno.eth)
-* [Discord](https://discord.com/invite/qTCka7qtPZ)
 * [GitHub](https://github.com/ethbrno)
 * [Dework](https://dework.ethbrno.cz/)
