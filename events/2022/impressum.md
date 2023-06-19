@@ -23,12 +23,11 @@ More info: [utxo.foundation](https://utxo.foundation/)
 ### UTXO Foundation Contact
 
 **Tereza Starostová**\
-****E-Mail: [tereza@utxo.foundation](mailto:tereza@utxo.foundation)
+E-Mail: [tereza@utxo.foundation](mailto:tereza@utxo.foundation)
 
 ## Contact ETHBrno
 
-* Discord: [https://discord.com/invite/qTCka7qtPZ](https://discord.com/invite/qTCka7qtPZ)
-* Telegram: [https://t.me/ethbrno](https://t.me/ethbrno)
+* Matrix (chat): [#ethbrno:gwei.cz](https://matrix.to/#/#ethbrno:gwei.cz)
 * Email:
   * Production / Sponsors: [tereza@utxo.foundation](mailto:tereza@utxo.foundation)
   * Speakers / Schedule: [tree@utxo.foundation](mailto:tree@utxo.foundation)

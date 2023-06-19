@@ -8,7 +8,11 @@ description: Aneb, jak to u nás vypadá
 
 ![](../../../.gitbook/assets/picture\_7320\_3.jpg-1600x1200-komunitni-centrum-skala-brno-novy-liskovec.jpg)
 
-![](../../../.gitbook/assets/picture\_7320\_4.jpg-1600x1200-komunitni-centrum-skala-brno-novy-liskovec.jpg)
+<div align="center">
+
+<img src="../../../.gitbook/assets/picture_7320_4.jpg-1600x1200-komunitni-centrum-skala-brno-novy-liskovec.jpg" alt="">
+
+</div>
 
 ![](../../../.gitbook/assets/picture\_7320\_10.jpg-1600x1200-komunitni-centrum-skala-brno-novy-liskovec.jpg)
 

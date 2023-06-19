@@ -12,7 +12,7 @@ description: Sobota 9.10.2021 - Komunitní centrum Skála, Brno
 
 ## Sobota 9.10.2021 (celý den)
 
-Místo: [**Komunitní centrum Skála**](misto-konani/)**, Brno, Czech Republic**:flag\_cz: **** \
+Místo: [**Komunitní centrum Skála**](misto-konani/)**, Brno, Czech Republic**:flag\_cz: \
 Kapacita: **max \~200 lidí**, viz [Dostupné prostory](misto-konani/)\
 Jazyk: **čeština/slovenština**\
 Vstupné: [**zdarma**](prakticke-informace/#vstupenky)\

@@ -7,7 +7,7 @@ description: Neděle 10. října 2021 14:00 - 18:00
 ![](../../../.gitbook/assets/cover-hackathon.png)
 
 Místo: TBA\
-Organizuje: [**@tree**](https://twitter.com/gweicz)****
+Organizuje: [**@tree**](https://twitter.com/gweicz)
 
 Setkání, pro které zarezervujeme nějakou konferenční místnost či něco podobného, kde se pokusíme nějak společně posunout komunitní věci kupředu.
 

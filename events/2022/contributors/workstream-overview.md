@@ -3,7 +3,7 @@
 ## Members
 
 * [Tree](https://twitter.com/treecz) - vision, content
-* [Tereza](https://twitter.com/terkastarostova) **** -  legal, production, sponsors
+* [Tereza](https://twitter.com/terkastarostova) -  legal, production, sponsors
 * [Exez](https://twitter.com/OndraPulc) - visual identity, design
 * [Hedvika](https://twitter.com/HedvikaPa) - mentors seeking, experience curation
 * [Jacob](https://twitter.com/jacobjelen) - networking support

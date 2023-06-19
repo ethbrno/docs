@@ -2,17 +2,7 @@
 
 ## 3Q-4Q/2022
 
-| When        | Where              | Event name                                                                     |
-| ----------- | ------------------ | ------------------------------------------------------------------------------ |
-| 16.-18.9.   | Berlin 🇩🇪        | [ETHBerlin³](https://ethberlin.ooo/) **🇬🇧**                                  |
-| 30.9.-2.10. | Prague 🇨🇿        | [Hackers Congress Paralelní Polis (HCPP)](https://last-shot.hcpp.cz/) **🇬🇧** |
-| 11.-14.10.  | Bogota **🇨🇴**    | [Devcon 6](https://devcon.org/en/) **🇬🇧**                                    |
-| 28.-30.10.  | Lisbon **🇵🇹**    | [ETHLisbon 2022](https://www.ethlisbon.org/) **🇬🇧**🇵🇹                      |
-| 4.-6.11.    | San Fransisco 🇺🇸 | [ETHSanFransisco 2022](https://sf.ethglobal.com/) **🇬🇧**                     |
-| 4.-5.11.    | Prague 🇨🇿        | [NON-FUNGIBLE CASTLE](https://www.nfcastle.com/) **🇬🇧**                      |
-| 9.-10.11.   | London 🇬🇧        | [Token2049](https://www.europe.token2049.com/) **🇬🇧**                        |
-| 11.-13.11.  | Brno 🇨🇿          | ETHBrno² **🇬🇧**🇨🇿 (this event)                                             |
-| 18.-20.11.  | Barcelona 🇪🇸     | [ETHGathering](https://www.ethgathering.com/) **🇬🇧**                         |
+<table><thead><tr><th>When</th><th>Where</th><th width="244.33333333333331">Event name</th></tr></thead><tbody><tr><td>16.-18.9.</td><td>Berlin 🇩🇪</td><td><a href="https://ethberlin.ooo/">ETHBerlin³</a> <strong>🇬🇧</strong></td></tr><tr><td>30.9.-2.10.</td><td>Prague 🇨🇿</td><td><a href="https://last-shot.hcpp.cz/">Hackers Congress Paralelní Polis (HCPP)</a> <strong>🇬🇧</strong></td></tr><tr><td>11.-14.10.</td><td>Bogota <strong>🇨🇴</strong></td><td><a href="https://devcon.org/en/">Devcon 6</a> <strong>🇬🇧</strong></td></tr><tr><td>28.-30.10.</td><td>Lisbon <strong>🇵🇹</strong> </td><td><a href="https://www.ethlisbon.org/">ETHLisbon 2022</a> <strong>🇬🇧</strong>🇵🇹</td></tr><tr><td>4.-6.11.</td><td>San Fransisco 🇺🇸</td><td><a href="https://sf.ethglobal.com/">ETHSanFransisco 2022</a> <strong>🇬🇧</strong></td></tr><tr><td>4.-5.11.</td><td>Prague 🇨🇿</td><td><a href="https://www.nfcastle.com/">NON-FUNGIBLE CASTLE</a> <strong>🇬🇧</strong></td></tr><tr><td>9.-10.11.</td><td>London 🇬🇧</td><td><a href="https://www.europe.token2049.com/">Token2049</a> <strong>🇬🇧</strong></td></tr><tr><td>11.-13.11.</td><td>Brno 🇨🇿</td><td>ETHBrno² <strong>🇬🇧</strong>🇨🇿 (this event)</td></tr><tr><td>18.-20.11.</td><td>Barcelona 🇪🇸</td><td><a href="https://www.ethgathering.com/">ETHGathering</a> <strong>🇬🇧</strong></td></tr></tbody></table>
 
 ### Sources
 

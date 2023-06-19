@@ -10,6 +10,7 @@
   * [Timeline](events/2023/timeline.md)
   * [Venue](events/2023/venue.md)
   * [FAQs](events/2023/faqs.md)
+  * [Partners](events/2023/partners.md)
   * [Impressum](events/2023/impressum.md)
 * [ETHBrno² (2022)](events/2022/README.md)
   * [Hackathon](events/2022/hackathon/README.md)

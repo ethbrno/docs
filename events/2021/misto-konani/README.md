@@ -8,14 +8,18 @@ description: Tady se to všechno odehraje
 
 Akce se bude konat v komunitním centru v Brně, v městské části Nový Lískovec. Toto centrum bude celé k dispozici jen pro ETHBrno 2021.
 
-Adresa: **Oblá 505/54a, 634 00 Brno - Nový Lískovec **_****_ ([Google Maps](https://goo.gl/maps/wbZFMrzfBHDTtRRK8))\
+Adresa: **Oblá 505/54a, 634 00 Brno - Nový Lískovec** ([Google Maps](https://goo.gl/maps/wbZFMrzfBHDTtRRK8))\
 Webové stránky: [Komunitním centru Skála](https://novy-liskovec.cz/komunitni-centrum-skala/ds-1389)
 
 :wheelchair:Celý areál komunitního centra je bezbariérově přístupný.
 
 Jak se na místo dostat, naleznete v sekci [Doprava](../prakticke-informace/doprava.md).
 
-![](../../../.gitbook/assets/kc-skala.jpeg)
+<div align="center">
+
+<img src="../../../.gitbook/assets/kc-skala.jpeg" alt="">
+
+</div>
 
 ## Dostupné prostory
 
@@ -28,7 +32,7 @@ Jak se na místo dostat, naleznete v sekci [Doprava](../prakticke-informace/dopr
 
 ### Společné prostory
 
-* ****[**Kavárna Coffee Trail Garden**](kavarna-coffee-trail-garden.md) **** - networking, občerstvení
+* [**Kavárna Coffee Trail Garden**](kavarna-coffee-trail-garden.md) - networking, občerstvení
 * **Dřevěná venkovní terasa** - posezení, kuřácký koutek
 * **Skleník -** chillout
 

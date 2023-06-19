@@ -49,7 +49,7 @@ _Křížkovského 20, 603 00 Brno-střed_\
 ### **Penzion Integrity (4,4 km)**
 
 _Hlinky 50/128, 603 00 Brno_ \
-__[http://www.penzionintegrity.eu/](http://www.penzionintegrity.eu/)\
+[http://www.penzionintegrity.eu/](http://www.penzionintegrity.eu/)\
 \+420721647598
 
 ### **Orea Hotel Voroněž II (5,8 km)**
