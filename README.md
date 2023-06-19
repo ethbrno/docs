@@ -9,13 +9,13 @@
                                            
 ```
 
-ETHBrno is an annual independent & open community hackathon (former conference) for supporters of decentralised finance, smart contracts and Web3 happening in [Brno, Czech Republic](why-brno.md).
+ETHBrno is an annual independent & open community hackathon for supporters of decentralised finance, smart contracts, and also privacy and security in [Brno, Czech Republic](why-brno.md).
 
-ETHBrno events are organized by [Gwei.cz](https://gwei.cz) community with the help of the [UTXO Foundation](https://utxo.foundation).
+ETHBrno events are organized by [Gwei.cz](https://gwei.cz) and [Web3Privacy Now](https://web3privacy.info/) community.
 
 ## Planned events
 
-<table><thead><tr><th width="190">Name</th><th width="134">Date</th><th width="226.16216216216213">Topic</th><th>Location</th></tr></thead><tbody><tr><td>PrivacyETH 2023</td><td>June 2023</td><td>Lunarpunk conference <span data-gb-custom-inline data-tag="emoji" data-code="1f1ec-1f1e7">🇬🇧</span></td><td>Prague (TBA)</td></tr><tr><td>ETHBrno×3 (2023)</td><td>November 2023</td><td>Privacy &#x26; security hackathon <span data-gb-custom-inline data-tag="emoji" data-code="1f1ec-1f1e7">🇬🇧</span></td><td>Brno (TBA)</td></tr></tbody></table>
+<table><thead><tr><th width="190">Name</th><th width="134">Date</th><th width="226.16216216216213">Topic</th><th>Location</th></tr></thead><tbody><tr><td>Web3Privacy Summit #2</td><td>2.11.2023</td><td>Lunarpunk conference <span data-gb-custom-inline data-tag="emoji" data-code="1f1ec-1f1e7">🇬🇧</span></td><td>Brno (TBD)</td></tr><tr><td><a href="events/2023/">ETHBrno×3 (2023)</a></td><td>3-5.11.2023</td><td>Privacy &#x26; security hackathon <span data-gb-custom-inline data-tag="emoji" data-code="1f1ec-1f1e7">🇬🇧</span></td><td>Impact Hub, Brno</td></tr></tbody></table>
 
 ## Past events
 
