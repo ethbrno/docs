@@ -10,7 +10,7 @@ The main venue is **Impact Hub Brno**. For more informations see [Venue](venue.m
 
 ### How do I get a ticket or ensure my attendance?
 
-The application form for hackers will be launched during July 2023.
+The application form for hackers will be launched during August 2023.
 
 **There will be no tickets available for sale!**
 

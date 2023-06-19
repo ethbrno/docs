@@ -7,6 +7,7 @@
 
 * [ETHBrno×3 (2023)](events/2023/README.md)
   * [Hackathon](events/2023/hackathon.md)
+  * [Timeline](events/2023/timeline.md)
   * [Venue](events/2023/venue.md)
   * [FAQs](events/2023/faqs.md)
   * [Impressum](events/2023/impressum.md)

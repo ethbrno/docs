@@ -1,0 +1,3 @@
+# Timeline
+
+<table><thead><tr><th width="196">Date</th><th>Name</th></tr></thead><tbody><tr><td>July 2023</td><td>Visual identity for ETHBrno×3</td></tr><tr><td><strong>August 2023</strong></td><td><strong>ETHBrno×3 Website launch &#x26; official announcement</strong></td></tr><tr><td>August 2023</td><td>ETHBrno×3 Hacker registration opens</td></tr><tr><td>August 2023</td><td>Start of ticket sales for Web3Privacy Summit #2</td></tr><tr><td>September 2023</td><td>Legal entity ready</td></tr><tr><td><strong>2.11.2023</strong></td><td><strong>Web3Privacy Summit #2 happening</strong></td></tr><tr><td><strong>3.-5.11.2023</strong></td><td><strong>ETHBrno×3 happening</strong></td></tr></tbody></table>
