@@ -14,11 +14,7 @@ Webové stránky: [Komunitním centru Skála](https://novy-liskovec.cz/komunitni
 
 Jak se na místo dostat, naleznete v sekci [Doprava](../prakticke-informace/doprava.md).
 
-<div align="center">
-
-<img src="../../../.gitbook/assets/kc-skala.jpeg" alt="">
-
-</div>
+![](../../../../../assets/2021/kc-skala.jpeg)
 
 ## Dostupné prostory
 
@@ -39,21 +35,17 @@ Můžete si prohlédnout [Fotky](kam-se-muzete-tesit.md).
 
 ## Plán objektu
 
-{% tabs %}
-{% tab title="1. nadzemní podlaží" %}
-![](../../../.gitbook/assets/kc-skala-1np.jpeg)
-{% endtab %}
+### 1. nadzemní podlaží
+![](../../../../../assets/2021/kc-skala-1np.jpeg)
 
-{% tab title="1. podzemní podlaží" %}
-![](../../../.gitbook/assets/kc-skala-1pp.jpeg)
-{% endtab %}
 
-{% tab title="2. nadzemní podlaží" %}
-![](../../../.gitbook/assets/kc-skala-2np.jpeg)
-{% endtab %}
-{% endtabs %}
+# 1. podzemní podlaží
+![](../../../../../assets/2021/kc-skala-1pp.jpeg)
+
+
+# 2. nadzemní podlaží
+![](../../../../../assets/2021/kc-skala-2np.jpeg)
 
 ## Internet (WiFi)
 
 V celém objektu bude k dispozici WiFi připojení k internetu. Detaily jak a kam se připojit se dozvíte přímo na místě.
-

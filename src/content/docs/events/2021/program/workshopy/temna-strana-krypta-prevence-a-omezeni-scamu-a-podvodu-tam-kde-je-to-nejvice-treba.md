@@ -10,4 +10,4 @@ Interaktivní workshop od Holek v kryptu. Otevřeme téma scamů a podvodů, kte
 
 Výstupy z workshopu poslouží jako podklad pro další tvorbu v rámci vzdělávacího projektu Holek v kryptu, který se zaměřuje právě na ochranu proti krypto podvodníkům.
 
-![](../../../../.gitbook/assets/darth-vader.png)
+![](../../../../../../assets/2021/darth-vader.png)
