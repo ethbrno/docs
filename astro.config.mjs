@@ -10,17 +10,32 @@ export default defineConfig({
 			social: {
 				github: 'https://github.com/ethbrno',
 			},
+			customCss: [
+				'./src/styles/custom.css',
+			],
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Basics',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
+						{ label: 'What is ETHBrno?', link: '/' },
+						{ label: 'Why Brno?', link: '/why-brno' },
 					],
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Current edition (2024)',
+					autogenerate: { directory: '/events/2024' },
+				},
+				{
+					label: 'Past events',
+					collapsed: true,
+					items: [
+						{ label: 'ETHBrno² (2022)', link: '/events/2022' },
+						{ 
+							label: 'ETHBrno (2021)',
+							autogenerate: { directory: '/events/2021' },
+						},
+					],
 				},
 			],
 		}),
